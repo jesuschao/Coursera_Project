@@ -1,0 +1,101 @@
+,curso,rating,students,nivel,universidad,skills
+0,Introduction to MongoDB,4.2,4.2,Intermediate,MongoDB Inc.,MongoDB
+1,"Server-side Development with NodeJS, Express and MongoDB",4.7,4.7,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+2,Introducción a bases de datos NoSQL con MongoDB,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+3,Create a C# Application to process MongoDB Data,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+4,Create a Python Application using PyMongo and MongoDB Database,4.4,4.4,Intermediate,Coursera Project Network,MongoDB
+5,Use the Apache Spark Structured Streaming API with MongoDB,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+6,MongoDB Aggregation Framework,4.5,4.5,Intermediate,MongoDB Inc.,MongoDB
+7,Web Application Development with JavaScript and MongoDB,4.6,4.6,Mixed,University of London,MongoDB
+8,Create Your First NoSQL Database with MongoDB and Compass,4.6,4.6,Intermediate,Coursera Project Network,MongoDB
+9,CRUD Operations using MongoDB NoSQL,4.4,4.4,Beginner,Coursera Project Network,MongoDB
+10,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,4.1,Beginner,Universidad Austral,MongoDB
+11,Create Fault Tolerant MongoDB Cluster,5,5,Intermediate,Coursera Project Network,MongoDB
+12,"Crea ambientes MERN (MongoDB, Express, React, Node) en Linux",None,None,Coursera Project Network,Coursera Project Network,MongoDB
+13,Introduction to NoSQL Databases,4.6,4.6,Beginner,IBM,MongoDB
+14,Designing data-intensive applications,4.5,4.5,Intermediate,Universidad Nacional Autónoma de México,MongoDB
+15,Full-Stack Web Development with React,4.7,4.7,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+16,Full Stack Web Development with Angular,4.7,4.7,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+17,Build a Node Server backend with Express,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+18,Responsive Website Tutorial and Examples,4.2,4.2,Mixed,University of London,MongoDB
+19,"NoSQL, Big Data, and Spark Foundations",4.3,4.3,Beginner,IBM,MongoDB
+20,Responsive Website Development and Design,4.5,4.5,Beginner,University of London,MongoDB
+21,Network Security & Database Vulnerabilities,4.7,4.7,Beginner,IBM,MongoDB
+22,History of Russia,4.4,4.4,Beginner,Saint Petersburg State University,MongoDB
+23,History of Russia: from Ancient Rus to the Time of Troubles,4.3,4.3,Beginner,Saint Petersburg State University,MongoDB
+24,1C:Enterprise Junior Developer Course,None,None,Moscow Institute of Physics and Technology,Moscow Institute of Physics and Technology,MongoDB
+25,Containerize a full-stack NodeJS application in Docker,4.5,4.5,Intermediate,Coursera Project Network,MongoDB
+26,Introduction to Meteor.js Development,4.6,4.6,Mixed,University of London,MongoDB
+27,Working with Big Data,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+28,The amazing world of the ethnic groups of Yunnan Province,None,None,Shanghai Jiao Tong University,Shanghai Jiao Tong University,MongoDB
+29,بناء Backend لنسخة من Twitter,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+30,Microeconomics: When Markets Fail,4.8,4.8,Mixed,University of Pennsylvania,MongoDB
+31,إلهام الأفراد وتحفيزهم,None,None,University of Michigan,University of Michigan,MongoDB
+32,Microeconomics: The Power of Markets,4.7,4.7,Mixed,University of Pennsylvania,MongoDB
+33,Cómo inspirar y a motivar personas,None,None,University of Michigan,University of Michigan,MongoDB
+34,Inspiração e motivação de indivíduos,None,None,University of Michigan,University of Michigan,MongoDB
+35,Business Analytics,4.6,4.6,Beginner,University of Pennsylvania,MongoDB
+36,Leading People and Teams,4.7,4.7,Beginner,University of Michigan,MongoDB
+37,Marketing Mix Implementation,4.7,4.7,Beginner,IE Business School,MongoDB
+38,Business English Communication Skills,4.8,4.8,Intermediate,University of Washington,MongoDB
+39,Business English: Planning & Negotiating,4.8,4.8,Intermediate,University of Washington,MongoDB
+40,Accounting Analytics,4.5,4.5,Mixed,University of Pennsylvania,MongoDB
+41,Inspiring and Motivating Individuals,4.8,4.8,Mixed,University of Michigan,MongoDB
+42,Inspired Leadership,4.7,4.7,Intermediate,Case Western Reserve University,MongoDB
+43,Brand and Product Management,4.7,4.7,Mixed,IE Business School,MongoDB
+44,"Be a Leader, Develop a Leader",4.7,4.7,Mixed,Case Western Reserve University,MongoDB
+45,Business English: Networking,4.8,4.8,Intermediate,University of Washington,MongoDB
+46,Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails,4.4,4.4,Intermediate,University of Washington,MongoDB
+47,"Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails",4.5,4.5,Intermediate,University of Washington,MongoDB
+48,Lesson | Business English Skills: Introducing Yourself in Business Settings,4.3,4.3,Intermediate,University of Washington,MongoDB
+49,Migrating a Monolithic Website to Microservices on Google Kubernetes Engine,4.7,4.7,Intermediate,Google Cloud,MongoDB
+50,Create a C# UI on Linux using MonoDevelop,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+51,Design of Experiments,4.7,4.7,Beginner,Arizona State University,MongoDB
+52,Neurolinguistics,4.7,4.7,Mixed,Saint Petersburg State University,MongoDB
+53,Building Containerized Applications on AWS,4.5,4.5,Mixed,Amazon Web Services,MongoDB
+54,Spring Framework,3.7,3.7,Beginner,LearnQuest,MongoDB
+55,Internet Giants: The Law and Economics of Media Platforms,4.8,4.8,Mixed,The University of Chicago,MongoDB
+56,Introduction to solar cells,4.8,4.8,Beginner,Technical University of Denmark (DTU),MongoDB
+57,From Disease to Genes and Back,4.7,4.7,Intermediate,Novosibirsk State University,MongoDB
+58,Natural Gas,4.7,4.7,Beginner,University at Buffalo,MongoDB
+59,Smart Working: Lavoro agile e Business English,None,None,Università di Napoli Federico II,Università di Napoli Federico II,MongoDB
+60,Real-Time Embedded Systems Theory and Analysis,4.4,4.4,Advanced,University of Colorado Boulder,MongoDB
+61,Basic Cryptography and Programming with Crypto API,4.3,4.3,Intermediate,University of Colorado System,MongoDB
+62,Administrasi Sistem dan Layanan Infrastruktur TI,5,5,Beginner,Google,MongoDB
+63,结构生物化学（Structural Biochemistry),4.8,4.8,Mixed,Nanjing University,MongoDB
+64,Spring - Cloud Overview,4.5,4.5,Intermediate,LearnQuest,MongoDB
+65,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya,4.8,4.8,Beginner,Google,MongoDB
+66,IBM Data Topology,4.8,4.8,Intermediate,IBM,MongoDB
+67,The Power of Markets III: Input Markets and Promoting Efficiency,4.8,4.8,Mixed,University of Rochester,MongoDB
+68,Customizing color pickers and swatches in Adobe Photoshop,None,None,Coursera Project Network,Coursera Project Network,MongoDB
+69,Digital Marketing for E-commerce,4.4,4.4,Beginner,Universidad de Palermo,MongoDB
+70,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,4.7,4.7,Beginner,Tecnológico de Monterrey,MongoDB
+71,Foundations of Healthcare Systems Engineering,4.6,4.6,Mixed,Johns Hopkins University,MongoDB
+72,Experimental Design Basics,4.7,4.7,Intermediate,Arizona State University,MongoDB
+73,Diseño instruccional para el aprendizaje activo,4.7,4.7,Beginner,Tecnológico de Monterrey,MongoDB
+74,E-Business: Negocios Online,4.6,4.6,Beginner,Universidad de Palermo,MongoDB
+75,Factorial and Fractional Factorial Designs,4.8,4.8,Intermediate,Arizona State University,MongoDB
+76,La formación del pensamiento crítico en la era digital,4.8,4.8,Beginner,Universitat Autònoma de Barcelona,MongoDB
+77,"Response Surfaces, Mixtures, and Model Building",4.7,4.7,Intermediate,Arizona State University,MongoDB
+78,"Random Models, Nested and Split-plot Designs",4.6,4.6,Intermediate,Arizona State University,MongoDB
+79,Modelos de diseño instruccional para ambientes digitales,4.7,4.7,Beginner,Tecnológico de Monterrey,MongoDB
+80,Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales,4.6,4.6,Beginner,Tecnológico de Monterrey,MongoDB
+81,UX and Interface Design for Embedded Systems,4,4,Intermediate,University of Colorado Boulder,MongoDB
+82,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,3.7,Intermediate,University of Colorado Boulder,MongoDB
+83,Rapid Prototyping of Embedded Interface Designs,None,None,University of Colorado Boulder,University of Colorado Boulder,MongoDB
+84,"Oralpha: Literacy for new citizens, a course for trainers",None,None,Universitat Autònoma de Barcelona,Universitat Autònoma de Barcelona,MongoDB
+85,Embedded Interface Design,3.7,3.7,Intermediate,University of Colorado Boulder,MongoDB
+86,Master of Science in Machine Learning and Data Science,None,None,Imperial College London,Imperial College London,MongoDB
+87,Введение в гладкие многообразия,None,None,HSE University,HSE University,MongoDB
+88,Blockchain,4.6,4.6,Intermediate,University at Buffalo,MongoDB
+89,Photography Basics and Beyond: From Smartphone to DSLR,4.7,4.7,Beginner,Michigan State University,MongoDB
+90,Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales,4.6,4.6,Beginner,Tecnológico de Monterrey,MongoDB
+91,UX and Interface Design for Embedded Systems,4,4,Intermediate,University of Colorado Boulder,MongoDB
+92,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,3.7,Intermediate,University of Colorado Boulder,MongoDB
+93,Rapid Prototyping of Embedded Interface Designs,None,None,University of Colorado Boulder,University of Colorado Boulder,MongoDB
+94,"Oralpha: Literacy for new citizens, a course for trainers",None,None,Universitat Autònoma de Barcelona,Universitat Autònoma de Barcelona,MongoDB
+95,Embedded Interface Design,3.7,3.7,Intermediate,University of Colorado Boulder,MongoDB
+96,Master of Science in Machine Learning and Data Science,None,None,Imperial College London,Imperial College London,MongoDB
+97,Введение в гладкие многообразия,None,None,HSE University,HSE University,MongoDB
+98,Blockchain,4.6,4.6,Intermediate,University at Buffalo,MongoDB
+99,Photography Basics and Beyond: From Smartphone to DSLR,4.7,4.7,Beginner,Michigan State University,MongoDB
