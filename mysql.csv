@@ -1,51 +1,61 @@
-,curso,rating,students,nivel,universidad,skills
-0,Google Data Analytics,4.8,730 mil,730 mil,Google,MySQL
-1,Google Project Management:,4.8,520 mil,520 mil,Google,MySQL
-2,Google UX Design,4.8,420 mil,420 mil,Google,MySQL
-3,IBM Data Science,4.6,1 m,1 m,IBM,MySQL
-4,Google IT Support,4.8,"1,2 m","1,2 m",Google,MySQL
-5,IBM Data Analyst,4.6,720 mil,720 mil,IBM,MySQL
-6,Introduction to Data Science,4.6,690 mil,690 mil,IBM,MySQL
-7,Data Science Fundamentals with Python and SQL,4.6,570 mil,570 mil,IBM,MySQL
-8,Deep Learning,4.8,"1,2 m","1,2 m",DeepLearning.AI,MySQL
-9,IBM Data Engineering,4.6,500 mil,500 mil,IBM,MySQL
-10,Key Technologies for Business,4.7,730 mil,730 mil,IBM,MySQL
-11,IBM Data Analytics with Excel and R,4.7,200 mil,200 mil,IBM,MySQL
-12,IBM DevOps and Software Engineering,4.6,470 mil,470 mil,IBM,MySQL
-13,Data Engineering Foundations,4.6,490 mil,490 mil,IBM,MySQL
-14,Data Analysis and Visualization Foundations,4.7,190 mil,190 mil,IBM,MySQL
-15,Applied Data Science,4.6,500 mil,500 mil,IBM,MySQL
-16,IBM Full Stack Cloud Developer,4.6,470 mil,470 mil,IBM,MySQL
-17,IBM AI Foundations for Business,4.7,680 mil,680 mil,IBM,MySQL
-18,IBM & Darden Digital Strategy,4.7,360 mil,360 mil,University of Virginia Darden School Foundation,MySQL
-19,Machine Learning,4.9,"4,7 m","4,7 m",Stanford University,MySQL
-20,IBM Cybersecurity Analyst,4.6,250 mil,250 mil,IBM,MySQL
-21,Google IT Automation with Python,4.7,600 mil,600 mil,Google,MySQL
-22,Python for Everybody,4.8,"2,7 m","2,7 m",University of Michigan,MySQL
-23,IT Fundamentals for Cybersecurity,4.6,230 mil,230 mil,IBM,MySQL
-24,IBM Applied AI,4.6,530 mil,530 mil,IBM,MySQL
-25,IBM Data Warehouse Engineer,4.6,270 mil,270 mil,IBM,MySQL
-26,Facebook Social Media Marketing,4.8,220 mil,220 mil,Meta,MySQL
-27,Machine Learning Engineering for Production (MLOps),4.7,47 mil,47 mil,DeepLearning.AI,MySQL
-28,Business Foundations,4.7,670 mil,670 mil,University of Pennsylvania,MySQL
-29,"DevOps, Cloud, and Agile Foundations",4.8,81 mil,81 mil,IBM,MySQL
-30,"Foundations: Data, Data, Everywhere",4.8,710 mil,710 mil,Google,MySQL
-31,Foundations of Project Management,4.9,490 mil,490 mil,Google,MySQL
-32,Learn SQL Basics for Data Science,4.6,400 mil,400 mil,"University of California, Davis",MySQL
-33,Cloud Application Development Foundations,4.7,80 mil,80 mil,IBM,MySQL
-34,DeepLearning.AI TensorFlow Developer,4.7,330 mil,330 mil,DeepLearning.AI,MySQL
-35,Finance & Quantitative Modeling for Analysts,4.5,350 mil,350 mil,University of Pennsylvania,MySQL
-36,"BI Foundations with SQL, ETL and Data Warehousing",4.6,250 mil,250 mil,IBM,MySQL
-37,Introduction to Finance and Accounting,4.6,410 mil,410 mil,University of Pennsylvania,MySQL
-38,Technical Support Fundamentals,4.8,1 m,1 m,Google,MySQL
-39,Indigenous Canada,4.8,460 mil,460 mil,University of Alberta,MySQL
-40,Become a CBRS Certified Professional Installer by Google,4.7,2 mil,2 mil,Google - Spectrum Sharing,MySQL
-41,Business and Financial Modeling,4.5,220 mil,220 mil,University of Pennsylvania,MySQL
-42,Decentralized Finance (DeFi): The Future of Finance,4.9,17 mil,17 mil,Duke University,MySQL
-43,Natural Language Processing,4.6,110 mil,110 mil,DeepLearning.AI,MySQL
-44,Business Analytics,4.6,370 mil,370 mil,University of Pennsylvania,MySQL
-45,Foundations of User Experience (UX) Design,4.8,400 mil,400 mil,Google,MySQL
-46,Excel Skills for Business,4.9,760 mil,760 mil,Macquarie University,MySQL
-47,Intuit Bookkeeping,4.5,33 mil,33 mil,Intuit,MySQL
-48,Fintech: Foundations & Applications of Financial Technology,4.6,70 mil,70 mil,University of Pennsylvania,MySQL
-49,IBM AI Engineering,4.6,300 mil,300 mil,IBM,MySQL
+,course,rating,students,level,university,skills
+0,Learn SQL Basics for Data Science,4.6,400 mil,4.6,"University of California, Davis",MySQL
+1,Excel to MySQL: Analytic Techniques for Business,4.6,660 mil,4.6,Duke University,MySQL
+2,Introduction to Structured Query Language (SQL),4.8,140 mil,4.8,University of Michigan,MySQL
+3,Managing Big Data with MySQL,4.7,170 mil,4.7,Duke University,MySQL
+4,Complex Retrieval Queries in MySQL Workbench,4.3,None,4.3,Coursera Project Network,MySQL
+5,SQL for Data Science,4.6,390 mil,4.6,"University of California, Davis",MySQL
+6,Building a Dynamic Web App using PHP & MySQL,4.4,"5,8 mil",4.4,Coursera Project Network,MySQL
+7,Building a Company’s database using MySQL and SQL,4.5,None,4.5,Coursera Project Network,MySQL
+8,Data Science Math Skills,4.5,300 mil,4.5,Duke University,MySQL
+9,Introduction to Relational Database and SQL,4.6,28 mil,4.6,Coursera Project Network,MySQL
+10,Create a Python Application using MySQL,4.5,5 mil,4.5,Coursera Project Network,MySQL
+11,Introduction to Relational Databases (RDBMS),4.6,"8,6 mil",4.6,IBM,MySQL
+12,Analyzing Big Data with SQL,4.9,22 mil,4.9,Cloudera,MySQL
+13,Create a Database with the Modeling Tool in MySQL Workbench,4.7,"1,9 mil",4.7,Coursera Project Network,MySQL
+14,Clean Data in SQL using MySQL Workbench,None,None,None,Coursera Project Network,MySQL
+15,Simple Retrieval Queries in MySQL Workbench,4.6,2 mil,4.6,Coursera Project Network,MySQL
+16,Build Messenger Clone Using PHP and MySQL,None,None,None,Coursera Project Network,MySQL
+17,Working with MySQL DB instance using AWS RDS,4.7,None,4.7,Coursera Project Network,MySQL
+18,Using MySQL Database with PHP,None,None,None,Coursera Project Network,MySQL
+19,MySQL with Information Technology,4.9,None,4.9,Coursera Project Network,MySQL
+20,Data Manipulation and Management using MYSQL Workbench,None,None,None,Coursera Project Network,MySQL
+21,Sort and Filter Data in SQL using MySQL Workbench,None,None,None,Coursera Project Network,MySQL
+22,Database Creation and Modeling using MYSQL Workbench,5,None,5,Coursera Project Network,MySQL
+23,MySQL تكنولوجيا المعلومات مع,None,None,None,Coursera Project Network,MySQL
+24,MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام,None,None,None,Coursera Project Network,MySQL
+25,Aggregate Data in SQL using MySQL Workbench,None,None,None,Coursera Project Network,MySQL
+26,Validate Data in SQL using MySQL Workbench,None,None,None,Coursera Project Network,MySQL
+27,Calculate Data in SQL using MySQL Workbench,None,None,None,Coursera Project Network,MySQL
+28,Relational Databases - MySQL - قواعد البيانات العلائقية,None,None,None,Coursera Project Network,MySQL
+29,Microsoft Azure Relational Databases,4.9,None,4.9,Microsoft,MySQL
+30,Deploy a Wordpress Website in AWS EC2,4.7,"1,8 mil",4.7,Coursera Project Network,MySQL
+31,Database Management Essentials,4.6,170 mil,4.6,University of Colorado System,MySQL
+32,Intermediate Relational Database and SQL,4.4,11 mil,4.4,Coursera Project Network,MySQL
+33,Building Web Applications in PHP,4.7,130 mil,4.7,University of Michigan,MySQL
+34,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,"4,5 mil",4.5,Google Cloud,MySQL
+35,"Data Warehouse Concepts, Design, and Data Integration",4.4,56 mil,4.4,University of Colorado System,MySQL
+36,Building Database Applications in PHP,4.9,41 mil,4.9,University of Michigan,MySQL
+37,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2 mil,4.3,Google Cloud,MySQL
+38,Relational database systems,4.4,20 mil,4.4,Universidad Nacional Autónoma de México,MySQL
+39,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18 mil,4.7,Google Cloud,MySQL
+40,SQL Joins,4.7,"2,9 mil",4.7,Coursera Project Network,MySQL
+41,Data-Driven Testing (via Database) with Selenium & TestNG,4.9,None,4.9,Coursera Project Network,MySQL
+42,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2 mil,4.8,Google Cloud,MySQL
+43,Business intelligence and data warehousing,3.9,11 mil,3.9,Universidad Nacional Autónoma de México,MySQL
+44,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13 mil,4.7,Duke University,MySQL
+45,Cloud Computing Security,4.6,13 mil,4.6,University of Colorado System,MySQL
+46,Introduction To Java Database Connectivity - JDBC,4.3,None,4.3,Coursera Project Network,MySQL
+47,Introducción a las bases relacionales SQL,None,None,None,Coursera Project Network,MySQL
+48,Learn PHP Database Connectivity,4.7,None,4.7,Coursera Project Network,MySQL
+49,How to Use SQL with Large Datasets,None,None,None,Coursera Project Network,MySQL
+50,Create your first Amazon Aurora Database in AWS,4.8,None,4.8,Coursera Project Network,MySQL
+51,تعليم مبادئ ال SQL Syntax,None,None,None,Coursera Project Network,MySQL
+52,Combine Multiple Pieces of Data in SQL,None,None,None,Coursera Project Network,MySQL
+53,Data-Driven Testing (via Database) with Selenium & Nunit,None,None,None,Coursera Project Network,MySQL
+54,Set up your dev environment for LAMP web developers on Linux,None,None,None,Coursera Project Network,MySQL
+55,Introdução à base de dados relacionais e SQL,None,None,None,Coursera Project Network,MySQL
+56,Deploy a Complete Wordpress Video Blog in Microsoft Azure,None,None,None,Coursera Project Network,MySQL
+57,Introduction to Forensic Science,4.9,110 mil,4.9,"Nanyang Technological University, Singapore",MySQL
+58,Excel Skills for Business: Intermediate II,4.8,150 mil,4.8,Macquarie University,MySQL
+59,Introduction to Economic Theories,4.5,52 mil,4.5,Erasmus University Rotterdam,MySQL

@@ -1,0 +1,71 @@
+,course,rating,students,level,university,skills
+0,Data Visualization with Tableau,4.5,170 mil,Beginner,"University of California, Davis",Tableau
+1,Google Data Analytics,4.8,740 mil,Beginner,Google,Tableau
+2,Data Visualization and Communication with Tableau,4.7,190 mil,Mixed,Duke University,Tableau
+3,Excel to MySQL: Analytic Techniques for Business,4.6,660 mil,Beginner,Duke University,Tableau
+4,Анализ и визуализация данных в Tableau,4.8,None,Beginner,Moscow Institute of Physics and Technology,Tableau
+5,Fundamentals of Visualization with Tableau,4.5,150 mil,Beginner,"University of California, Davis",Tableau
+6,Visualizing Citibike Trips with Tableau,4.6,17 mil,Beginner,Coursera Project Network,Tableau
+7,Creating Dashboards and Storytelling with Tableau,4.6,41 mil,Beginner,"University of California, Davis",Tableau
+8,Use Tableau for Your Data Science Workflow,4.6,None,Beginner,"University of California, Irvine",Tableau
+9,Advanced Business Analytics,4.6,210 mil,Intermediate,University of Colorado Boulder,Tableau
+10,Create a Big Number KPI Dashboard in Tableau Public,3.4,None,Intermediate,Coursera Project Network,Tableau
+11,Creating an Interactive KPI Management Dashboard in Tableau,4.3,None,Beginner,Coursera Project Network,Tableau
+12,Analyze City Data Using R and Tableau,4,None,Intermediate,University of Illinois at Urbana-Champaign,Tableau
+13,Data Visualization with Tableau Project,4.6,24 mil,Intermediate,"University of California, Davis",Tableau
+14,Fundamentos de la visualización de datos con Tableau,4.7,None,Beginner,Universidad Austral,Tableau
+15,Principios esenciales de diseño en Tableau,4.3,None,Beginner,Universidad Austral,Tableau
+16,Share Data Through the Art of Visualization,4.5,100 mil,Beginner,Google,Tableau
+17,Master the Art of Data Visualization With Tableau Public,4.2,None,Intermediate,Coursera Project Network,Tableau
+18,Create Geovisualizations in Tableau,None,None,Intermediate,Coursera Project Network,Tableau
+19,Business Intelligence con la Product Suite di Tableau,None,None,Advanced,Università di Napoli Federico II,Tableau
+20,Introduction to Accounting Data Analytics and Visualization,4.8,20 mil,Beginner,University of Illinois at Urbana-Champaign,Tableau
+21,Подготовка и анализ данных в Tableau,None,None,Advanced,Moscow Institute of Physics and Technology,Tableau
+22,Visual Analytics with Tableau,4.6,44 mil,Beginner,"University of California, Davis",Tableau
+23,Essential Design Principles for Tableau,4.4,48 mil,Beginner,"University of California, Davis",Tableau
+24,Create Interactive Graphs in Tableau,None,None,Intermediate,Coursera Project Network,Tableau
+25,Building Stock Returns Heatmap with Tableau,4.6,"2,5 mil",Intermediate,Coursera Project Network,Tableau
+26,Analyze Digital Marketing Spend in Tableau,3,None,Intermediate,Coursera Project Network,Tableau
+27,Create a Story in Tableau Public,4.5,None,Intermediate,Coursera Project Network,Tableau
+28,Tableau Public for Project Management and Beyond,4.3,"4,1 mil",Beginner,Coursera Project Network,Tableau
+29,Быстрый старт с Tableau Desktop,4.7,None,Beginner,Moscow Institute of Physics and Technology,Tableau
+30,Tableau для рабочего процесса в анализе данных,None,None,Intermediate,E-Learning Development Fund,Tableau
+31,Data Visualization: Analisi dei dati con Tableau,None,None,Beginner,Università di Napoli Federico II,Tableau
+32,Introduzione alla Data Visualization con Tableau,None,None,Beginner,Università di Napoli Federico II,Tableau
+33,Проектирование интерактивных дашбордов в Tableau,None,None,Intermediate,Moscow Institute of Physics and Technology,Tableau
+34,Google Data Studio - Création de Tableaux de Bords Interactifs,4.4,"2,8 mil",Intermediate,Coursera Project Network,Tableau
+35,Creating an Interactive Graph with Tableau Public,4.6,None,Beginner,Coursera Project Network,Tableau
+36,Building Candlestick Charts with Tableau,4.3,"3,9 mil",Beginner,Coursera Project Network,Tableau
+37,How To Create A Sales Forecast In Tableau,None,None,Intermediate,Coursera Project Network,Tableau
+38,Data Visualization e manipolazione dei dati con Tableau,None,None,Intermediate,Università di Napoli Federico II,Tableau
+39,Визуализация и презентация результатов в Tableau,None,None,Beginner,E-Learning Development Fund,Tableau
+40,How to Create a Gantt Chart in Tableau,None,None,Intermediate,Coursera Project Network,Tableau
+41,Управление данными и их анализ в Tableau,None,None,Beginner,E-Learning Development Fund,Tableau
+42,نظره عامة عن البيانات المصورة باستخدام Tableau,None,None,Beginner,Coursera Project Network,Tableau
+43,Tableau в анализе данных. Финальный проект,None,None,Intermediate,E-Learning Development Fund,Tableau
+44,How to Visualize Research Data in Tableau,None,None,Intermediate,Coursera Project Network,Tableau
+45,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13 mil,Mixed,Duke University,Tableau
+46,Разбираем процесс анализа данных,None,None,Beginner,E-Learning Development Fund,Tableau
+47,"Foundations: Data, Data, Everywhere",4.8,710 mil,Beginner,Google,Tableau
+48,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Tableau
+49,"Aspectos básicos: Datos, datos, en todas partes",4.5,None,Beginner,Google,Tableau
+50,Introduction to Data Analytics,3.2,"4,5 mil",Beginner,Meta,Tableau
+51,Statistics for Marketing,4.9,"2,1 mil",Beginner,Meta,Tableau
+52,Data Analysis and Visualization,4.5,4 mil,Beginner,University at Buffalo,Tableau
+53,"Grundlagen: Daten, überall Daten",None,None,Beginner,Google,Tableau
+54,Data Visualization Best Practices,4.6,None,Mixed,"University of California, Irvine",Tableau
+55,Data Storytelling,None,None,Mixed,"University of California, Irvine",Tableau
+56,Intro to TensorFlow en Français,3.3,None,Intermediate,Google Cloud,Tableau
+57,Compartir datos a través del arte de la visualización,None,None,Beginner,Google,Tableau
+58,Introduction à l'analyse de données à l'aide d'Excel,None,None,Mixed,Rice University,Tableau
+59,Exploration et production de données pour les entreprises,None,None,Beginner,University of Illinois at Urbana-Champaign,Tableau
+60,Ebola : Vaincre ensemble !,4.4,"5,3 mil",Mixed,University of Geneva,Tableau
+61,Understanding Your Google Cloud Costs en Français,None,None,Beginner,Google Cloud,Tableau
+62,Tout Pour Démarrer avec RStudio,None,None,Beginner,Coursera Project Network,Tableau
+63,Choosing Which Method Is Best For Illustrating Data,None,None,Beginner,Coursera Project Network,Tableau
+64,Surveiller un hôte Linux avec Prometheus-Grafana dans Docker,None,None,Intermediate,Coursera Project Network,Tableau
+65,Créer un ingress controller dans Kubernetes avec Traefik,None,None,Intermediate,Coursera Project Network,Tableau
+66,Créer un Reverse Proxy pour conteneurs Docker avec Traefik,None,None,Intermediate,Coursera Project Network,Tableau
+67,Utilisation et gestion des pointeurs avec la Programmation C,None,None,Intermediate,Coursera Project Network,Tableau
+68,Scripting Bash - Découverte du Langage de Programmation,4.7,None,Intermediate,Coursera Project Network,Tableau
+69,Quelques instructions en PHP,None,None,Beginner,Coursera Project Network,Tableau

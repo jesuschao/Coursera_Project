@@ -1,0 +1,501 @@
+,course,rating,students,level,university,skills
+0,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Machine Learning
+1,IBM Machine Learning,4.6,37 mil,Intermediate,IBM,Machine Learning
+2,Machine Learning,4.6,430 mil,Intermediate,University of Washington,Machine Learning
+3,Deep Learning,4.8,"1,2 m",Intermediate,DeepLearning.AI,Machine Learning
+4,Mathematics for Machine Learning,4.6,300 mil,Beginner,Imperial College London,Machine Learning
+5,Machine Learning for All,4.7,110 mil,Beginner,University of London,Machine Learning
+6,Applied Data Science with Python,4.5,800 mil,Intermediate,University of Michigan,Machine Learning
+7,Machine Learning Engineering for Production (MLOps),4.7,47 mil,Advanced,DeepLearning.AI,Machine Learning
+8,Advanced Machine Learning,4.4,350 mil,Advanced,HSE University,Machine Learning
+9,Google Data Analytics,4.8,740 mil,Beginner,Google,Machine Learning
+10,Deep Learning for Healthcare,None,None,Advanced,University of Illinois at Urbana-Champaign,Machine Learning
+11,Introduction to Machine Learning: Supervised Learning,None,None,Intermediate,University of Colorado Boulder,Machine Learning
+12,IBM Data Science,4.6,1 m,Beginner,IBM,Machine Learning
+13,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350 mil,Intermediate,Google Cloud,Machine Learning
+14,IBM Introduction to Machine Learning,4.6,32 mil,Intermediate,IBM,Machine Learning
+15,Data Science,4.5,"1,2 m",Beginner,Johns Hopkins University,Machine Learning
+16,Advanced Machine Learning on Google Cloud,4.4,69 mil,Advanced,Google Cloud,Machine Learning
+17,DeepLearning.AI TensorFlow Developer,4.7,330 mil,Intermediate,DeepLearning.AI,Machine Learning
+18,IBM AI Engineering,4.6,300 mil,Intermediate,IBM,Machine Learning
+19,Generative Adversarial Networks (GANs),4.7,40 mil,Intermediate,DeepLearning.AI,Machine Learning
+20,AI Product Management,4.5,"4,9 mil",Beginner,Duke University,Machine Learning
+21,Bachelor of Science in Computer Science,None,None,None,University of London,Machine Learning
+22,Machine Learning for Telecom Customers Churn Prediction,4.5,None,Beginner,Coursera Project Network,Machine Learning
+23,IBM Data Analyst,4.6,720 mil,Beginner,IBM,Machine Learning
+24,Applied Machine Learning in Python,4.6,250 mil,Intermediate,University of Michigan,Machine Learning
+25,Unsupervised Machine Learning for Customer Market Segmentation,4.8,"9,8 mil",Beginner,Coursera Project Network,Machine Learning
+26,Introduction to Machine Learning,4.7,160 mil,Intermediate,Duke University,Machine Learning
+27,Machine Learning with Python,4.7,250 mil,Intermediate,IBM,Machine Learning
+28,Post Graduate Certificate in Advanced Machine Learning & AI,None,None,None,IIT Roorkee,Machine Learning
+29,Fake News Detection with Machine Learning,4.6,"8,8 mil",Beginner,Coursera Project Network,Machine Learning
+30,Master of Computer and Information Technology,None,None,None,University of Pennsylvania,Machine Learning
+31,Google Cloud Digital Leader Training,4.8,37 mil,Beginner,Google Cloud,Machine Learning
+32,First Principles of Computer Vision,4.8,3 mil,Beginner,Columbia University,Machine Learning
+33,Introduction to Machine Learning: Language Processing,3.9,"2,8 mil",Beginner,Google Cloud,Machine Learning
+34,Breast Cancer Prediction Using Machine Learning,4.3,None,Intermediate,Coursera Project Network,Machine Learning
+35,Introduction to Statistics,4.6,100 mil,Beginner,Stanford University,Machine Learning
+36,Google IT Automation with Python,4.7,600 mil,Beginner,Google,Machine Learning
+37,Машинное обучение и анализ данных,4.7,110 mil,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+38,Reinforcement Learning,4.7,64 mil,Intermediate,University of Alberta,Machine Learning
+39,Practical Data Science with MATLAB,4.7,39 mil,Beginner,MathWorks,Machine Learning
+40,SAS Statistical Business Analyst,4.6,6 mil,Intermediate,SAS,Machine Learning
+41,Mathematics for Data Science,4.4,67 mil,Beginner,HSE University,Machine Learning
+42,Python 3 Programming,4.7,350 mil,Beginner,University of Michigan,Machine Learning
+43,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Machine Learning
+44,Data Science at Scale,4.2,83 mil,Intermediate,University of Washington,Machine Learning
+45,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280 mil,Intermediate,DeepLearning.AI,Machine Learning
+46,Hands-on Machine Learning with Google Cloud Labs,3.8,3 mil,Intermediate,Google Cloud,Machine Learning
+47,Hands-on Foundations for Data Science and Machine Learning with Google Cloud Labs,4.3,"4,6 mil",Intermediate,Google Cloud,Machine Learning
+48,Executive Data Science,4.5,230 mil,Beginner,Johns Hopkins University,Machine Learning
+49,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250 mil,Intermediate,Google Cloud,Machine Learning
+50,Introduction to Machine Learning in Production,4.8,44 mil,Advanced,DeepLearning.AI,Machine Learning
+51,Investment Management with Python and Machine Learning,4.6,52 mil,Beginner,EDHEC Business School,Machine Learning
+52,Machine Learning with TensorFlow on Google Cloud,4.5,120 mil,Intermediate,Google Cloud,Machine Learning
+53,Data Science: Statistics and Machine Learning,4.4,290 mil,Intermediate,Johns Hopkins University,Machine Learning
+54,Structuring Machine Learning Projects,4.8,370 mil,Beginner,DeepLearning.AI,Machine Learning
+55,Machine Learning Data Lifecycle in Production,4.4,17 mil,Advanced,DeepLearning.AI,Machine Learning
+56,Machine Learning for Trading,3.9,40 mil,Intermediate,New York Institute of Finance,Machine Learning
+57,Mathematics for Machine Learning: Linear Algebra,4.7,280 mil,Beginner,Imperial College London,Machine Learning
+58,Google Cloud Big Data and Machine Learning Fundamentals,4.7,240 mil,Intermediate,Google Cloud,Machine Learning
+59,Machine Learning and Reinforcement Learning in Finance,3.7,41 mil,Intermediate,New York University,Machine Learning
+60,Machine Learning Modeling Pipelines in Production,4.5,11 mil,Advanced,DeepLearning.AI,Machine Learning
+61,Exploratory Data Analysis for Machine Learning,4.6,28 mil,Intermediate,IBM,Machine Learning
+62,Machine Learning Foundations for Product Managers,4.6,"4,2 mil",Beginner,Duke University,Machine Learning
+63,Machine Learning Rock Star – the End-to-End Practice,4.8,11 mil,Beginner,SAS,Machine Learning
+64,Deploying Machine Learning Models in Production,4.6,"9,2 mil",Advanced,DeepLearning.AI,Machine Learning
+65,Fundamentals of Machine Learning for Healthcare,4.8,"9,5 mil",Beginner,Stanford University,Machine Learning
+66,Getting Started with AWS Machine Learning,4.5,190 mil,Intermediate,Amazon Web Services,Machine Learning
+67,Mathematics for Machine Learning: Multivariate Calculus,4.7,100 mil,Beginner,Imperial College London,Machine Learning
+68,Supervised Machine Learning: Regression,4.7,"9,8 mil",Intermediate,IBM,Machine Learning
+69,Introduction to Embedded Machine Learning,4.8,15 mil,Intermediate,Edge Impulse,Machine Learning
+70,Machine Learning for Supply Chains,3.3,"1,7 mil",Intermediate,LearnQuest,Machine Learning
+71,"The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats",4.8,"9,2 mil",Beginner,SAS,Machine Learning
+72,"Introduction to Trading, Machine Learning & GCP",4,32 mil,Intermediate,Google Cloud,Machine Learning
+73,Computer Vision with Embedded Machine Learning,4.7,4 mil,Intermediate,Edge Impulse,Machine Learning
+74,Scalable Machine Learning on Big Data using Apache Spark,3.8,20 mil,Intermediate,IBM,Machine Learning
+75,Advanced Machine Learning and Signal Processing,4.5,39 mil,Advanced,IBM,Machine Learning
+76,機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations,4.9,40 mil,Beginner,National Taiwan University,Machine Learning
+77,Machine Learning with TensorFlow on Google Cloud en Français,4.1,"1,8 mil",Intermediate,Google Cloud,Machine Learning
+78,Supervised Machine Learning: Classification,4.9,"7,8 mil",Intermediate,IBM,Machine Learning
+79,Machine Learning Foundations: A Case Study Approach,4.6,360 mil,Mixed,University of Washington,Machine Learning
+80,"Smart Analytics, Machine Learning, and AI on GCP",4.6,26 mil,Intermediate,Google Cloud,Machine Learning
+81,How Google does Machine Learning,4.6,110 mil,Beginner,Google Cloud,Machine Learning
+82,Mathematics for Machine Learning: PCA,4,65 mil,Intermediate,Imperial College London,Machine Learning
+83,Machine Learning with TensorFlow on Google Cloud en Español,4.6,"9,6 mil",Intermediate,Google Cloud,Machine Learning
+84,Guided Tour of Machine Learning in Finance,3.8,28 mil,Intermediate,New York University,Machine Learning
+85,Using Machine Learning in Trading and Finance,4,16 mil,Intermediate,New York Institute of Finance,Machine Learning
+86,Managing Machine Learning Projects,4.4,None,Beginner,Duke University,Machine Learning
+87,Unsupervised Machine Learning,4.8,"7,1 mil",Intermediate,IBM,Machine Learning
+88,Python and Machine Learning for Asset Management,3.1,13 mil,Intermediate,EDHEC Business School,Machine Learning
+89,Launching into Machine Learning,4.6,39 mil,Beginner,Google Cloud,Machine Learning
+90,Machine Learning Rapid Prototyping with IBM Watson Studio,None,None,Intermediate,IBM,Machine Learning
+91,Data Engineering and Machine Learning using Spark,3.6,"3,1 mil",Beginner,IBM,Machine Learning
+92,Create Machine Learning Models in Microsoft Azure,4.7,"2,3 mil",Intermediate,Microsoft,Machine Learning
+93,Machine Learning Using SAS Viya,4.7,"6,7 mil",Intermediate,SAS,Machine Learning
+94,Deploy Machine Learning Model into AWS Cloud Servers,4.3,None,Intermediate,Coursera Project Network,Machine Learning
+95,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,"4,5 mil",Intermediate,Google Cloud,Machine Learning
+96,MLOps (Machine Learning Operations) Fundamentals,4,24 mil,Intermediate,Google Cloud,Machine Learning
+97,Fundamentals of Machine Learning in Finance,3.8,17 mil,Intermediate,New York University,Machine Learning
+98,Production Machine Learning Systems,4.6,21 mil,Advanced,Google Cloud,Machine Learning
+99,Employee Attrition Prediction Using Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+100,Practical Machine Learning,4.5,140 mil,Mixed,Johns Hopkins University,Machine Learning
+101,Building Machine Learning Pipelines in PySpark MLlib,4.3,"2,5 mil",Intermediate,Coursera Project Network,Machine Learning
+102,End-to-End Machine Learning with TensorFlow on GCP,4.5,54 mil,Advanced,Google Cloud,Machine Learning
+103,Microsoft Azure Machine Learning for Data Scientists,4.6,None,Intermediate,Microsoft,Machine Learning
+104,Build a Machine Learning Web App with Streamlit and Python,4.7,"9,9 mil",Intermediate,Coursera Project Network,Machine Learning
+105,Machine Learning: Regression,4.8,150 mil,Mixed,University of Washington,Machine Learning
+106,Predictive Modeling and Machine Learning with MATLAB,4.8,11 mil,Intermediate,MathWorks,Machine Learning
+107,Microsoft Azure Machine Learning,4.7,"3,3 mil",Beginner,Microsoft,Machine Learning
+108,Algoritmos de negociación basados en machine learning,None,None,Intermediate,Universidad de los Andes,Machine Learning
+109,Machine Learning Aplicado ao Marketing,None,None,Beginner,Fundação Instituto de Administração,Machine Learning
+110,Cloud Machine Learning Engineering and MLOps,4.5,"1,7 mil",Intermediate,Duke University,Machine Learning
+111,Statistics for Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Machine Learning
+112,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11 mil,Intermediate,EDHEC Business School,Machine Learning
+113,Machine Learning Models in Science,4,None,Intermediate,LearnQuest,Machine Learning
+114,Art and Science of Machine Learning,4.6,23 mil,Intermediate,Google Cloud,Machine Learning
+115,Build and Operate Machine Learning Solutions with Azure,None,None,Intermediate,Microsoft,Machine Learning
+116,Predictive Modelling with Azure Machine Learning Studio,4.5,"9,5 mil",Beginner,Coursera Project Network,Machine Learning
+117,Fundamentals of Machine Learning for Supply Chain,3.9,None,Beginner,LearnQuest,Machine Learning
+118,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2 mil,Intermediate,Google Cloud,Machine Learning
+119,機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations,4.9,14 mil,Intermediate,National Taiwan University,Machine Learning
+120,Applying Machine Learning to your Data with GCP,4.7,16 mil,Intermediate,Google Cloud,Machine Learning
+121,Machine Learning With Big Data,4.6,63 mil,Mixed,University of California San Diego,Machine Learning
+122,Life Expectancy Prediction Using Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+123,Interpretable Machine Learning Applications: Part 1,4,None,Beginner,Coursera Project Network,Machine Learning
+124,Using R for Regression and Machine Learning in Investment,None,None,Intermediate,Sungkyunkwan University,Machine Learning
+125,Interactive Machine Learning Dashboards using Plotly Dash,4.4,None,Intermediate,Coursera Project Network,Machine Learning
+126,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18 mil,Intermediate,Google Cloud,Machine Learning
+127,Explainable Machine Learning with LIME and H2O in R,4.7,2 mil,Intermediate,Coursera Project Network,Machine Learning
+128,Managing Machine Learning Projects with Google Cloud,4.6,110 mil,Beginner,Google Cloud,Machine Learning
+129,"Smart Analytics, Machine Learning, and AI on GCP 日本語版",4.6,None,Intermediate,Google Cloud,Machine Learning
+130,Practical Machine Learning on H2O,4.5,"7,5 mil",Intermediate,H2O,Machine Learning
+131,Ensemble Methods in Machine Learning,4.2,None,Intermediate,Coursera Project Network,Machine Learning
+132,Intermediate Machine Learning: TensorFlow on Google Cloud,4.4,None,Intermediate,Google Cloud,Machine Learning
+133,Machine Learning: Classification,4.7,110 mil,Mixed,University of Washington,Machine Learning
+134,Machine Learning - Anomaly Detection via PyCaret,None,None,Intermediate,Coursera Project Network,Machine Learning
+135,Machine Learning for Accounting with Python,4.5,"6,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+136,Train Machine Learning Models,None,None,Intermediate,CertNexus,Machine Learning
+137,Machine Learning for Kyphosis Disease Classification,None,None,Beginner,Coursera Project Network,Machine Learning
+138,Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Machine Learning
+139,Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership,4.9,"3,4 mil",Beginner,SAS,Machine Learning
+140,How Google does Machine Learning en Español,4.6,"6,2 mil",Intermediate,Google Cloud,Machine Learning
+141,"AI Workflow: Machine Learning, Visual Recognition and NLP",4.4,"3,1 mil",Advanced,IBM,Machine Learning
+142,Data Science on Google Cloud: Machine Learning,2.3,None,Advanced,Google Cloud,Machine Learning
+143,Machine Learning: Clustering & Retrieval,4.7,88 mil,Mixed,University of Washington,Machine Learning
+144,Build your first Machine Learning Pipeline using Dataiku,4.6,None,Beginner,Coursera Project Network,Machine Learning
+145,Business Application of Machine Learning and Artificial Intelligence in Healthcare,4.2,"5,7 mil",Intermediate,Northeastern University,Machine Learning
+146,Machine Learning for Data Analysis,4.2,42 mil,Mixed,Wesleyan University,Machine Learning
+147,Solve Business Problems with AI and Machine Learning,4.7,2 mil,Intermediate,CertNexus,Machine Learning
+148,Cervical Cancer Risk Prediction Using Machine Learning,4.7,None,Beginner,Coursera Project Network,Machine Learning
+149,Explaining machine learning models,None,None,Intermediate,Coursera Project Network,Machine Learning
+150,Automated Machine Learning en Power BI Clasificación,4.9,None,Intermediate,Coursera Project Network,Machine Learning
+151,Visual Machine Learning with Yellowbrick,4.7,"3,6 mil",Intermediate,Coursera Project Network,Machine Learning
+152,Diseñando modelos con Azure Machine Learning Studio,4.9,None,Beginner,Coursera Project Network,Machine Learning
+153,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2 mil,Intermediate,Google Cloud,Machine Learning
+154,Naive Bayes 101: Resume Selection with Machine Learning,4.7,None,Intermediate,Coursera Project Network,Machine Learning
+155,Interpretable Machine Learning Applications: Part 2,None,None,Beginner,Coursera Project Network,Machine Learning
+156,Machine Learning con Spark (MLlib) en Databricks,None,None,Advanced,Coursera Project Network,Machine Learning
+157,Introduction to Machine Learning in Sports Analytics,None,None,Intermediate,University of Michigan,Machine Learning
+158,Launching into Machine Learning en Español,4.7,3 mil,Intermediate,Google Cloud,Machine Learning
+159,How Google does Machine Learning en Français,4.3,None,Intermediate,Google Cloud,Machine Learning
+160,Launching into Machine Learning en Français,4.5,None,Intermediate,Google Cloud,Machine Learning
+161,Art and Science of Machine Learning en Français,None,None,Intermediate,Google Cloud,Machine Learning
+162,Machine Learning Pipelines with Azure ML Studio,4.6,26 mil,Beginner,Coursera Project Network,Machine Learning
+163,Introduction to Applied Machine Learning,4.7,20 mil,Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+164,Machine Learning Algorithms with R in Business Analytics,4.7,"1,5 mil",Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+165,機器學習技法 (Machine Learning Techniques),4.9,"3,8 mil",Intermediate,National Taiwan University,Machine Learning
+166,Machine Learning Algorithms: Supervised Learning Tip to Tail,4.7,14 mil,Mixed,Alberta Machine Intelligence Institute,Machine Learning
+167,Data for Machine Learning,4.4,"6,5 mil",Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+168,Project Planning and Machine Learning,4.7,6 mil,Intermediate,University of Colorado Boulder,Machine Learning
+169,Deploying Machine Learning Models,3.6,"8,8 mil",Mixed,University of California San Diego,Machine Learning
+170,Follow a Machine Learning Workflow,None,None,Intermediate,CertNexus,Machine Learning
+171,Optimizing Machine Learning Performance,4.6,"5,5 mil",Mixed,Alberta Machine Intelligence Institute,Machine Learning
+172,"Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls",4.8,"3,5 mil",Beginner,SAS,Machine Learning
+173,Titanic Survival Prediction Using Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+174,How Google does Machine Learning 日本語版,4.5,"2,5 mil",Intermediate,Google Cloud,Machine Learning
+175,Machine Learning Basics,None,None,Mixed,Sungkyunkwan University,Machine Learning
+176,Machine Learning e Data Mining in R,None,None,Intermediate,Università di Napoli Federico II,Machine Learning
+177,"Smart Analytics, Machine Learning, and AI on GCP en Español",4.7,None,Intermediate,Google Cloud,Machine Learning
+178,Advanced Machine Learning: Machine Learning Infrastructure,None,None,Advanced,Google Cloud,Machine Learning
+179,Automatic Machine Learning with H2O AutoML and Python,4.8,"6,3 mil",Intermediate,Coursera Project Network,Machine Learning
+180,Machine Learning with H2O Flow,4.7,"3,9 mil",Intermediate,Coursera Project Network,Machine Learning
+181,Curso Completo de Machine Learning en Microsoft Power BI,4.3,None,Advanced,Coursera Project Network,Machine Learning
+182,Medical Insurance Premium Prediction with Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+183,"Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R",4.4,"4,7 mil",Intermediate,Coursera Project Network,Machine Learning
+184,How Google does Machine Learning em Português Brasileiro,4.8,"1,6 mil",Intermediate,Google Cloud,Machine Learning
+185,Automated Machine Learning en Microsoft Power BI,4.3,None,Intermediate,Coursera Project Network,Machine Learning
+186,"Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro",4.9,None,Intermediate,Google Cloud,Machine Learning
+187,Deploy a predictive machine learning model using IBM Cloud,None,None,Intermediate,Coursera Project Network,Machine Learning
+188,Build a Machine Learning Image Classifier with Python,None,None,Intermediate,Coursera Project Network,Machine Learning
+189,Machine Learning Algorithms,None,None,Mixed,Sungkyunkwan University,Machine Learning
+190,Launching into Machine Learning 日本語版,4.4,None,Intermediate,Google Cloud,Machine Learning
+191,Serverless Machine Learning with Tensorflow on Google Cloud auf Deutsch,None,None,Intermediate,Google Cloud,Machine Learning
+192,Applying Machine Learning to your Data with GCP 日本語版,None,None,Intermediate,Google Cloud,Machine Learning
+193,Machine Learning con Python. Nivel intermedio,None,None,Beginner,Coursera Project Network,Machine Learning
+194,Interpretable Machine Learning Applications: Part 4,None,None,Intermediate,Coursera Project Network,Machine Learning
+195,Preparing Data for Machine Learning Models,None,None,Intermediate,Coursera Project Network,Machine Learning
+196,"Machine Learning Interpretable: SHAP, PDP y permutacion",None,None,Intermediate,Coursera Project Network,Machine Learning
+197,"Machine Learning para series temporales con ARIMA, SARIMA...",None,None,Intermediate,Coursera Project Network,Machine Learning
+198,Machine Learning y Regresión con PySpark. Guía paso a paso,None,None,Beginner,Coursera Project Network,Machine Learning
+199,Machine Learning con Azure Machine Learning Studio,None,None,Beginner,Coursera Project Network,Machine Learning
+200,Evaluate Machine Learning Models with Yellowbrick,4.8,"2,9 mil",Intermediate,Coursera Project Network,Machine Learning
+201,Generando modelos con Auto Machine Learning,4.4,None,Intermediate,Coursera Project Network,Machine Learning
+202,Serverless Machine Learning with Tensorflow on Google Cloud em Português Brasileiro,4.4,None,Intermediate,Google Cloud,Machine Learning
+203,Art and Science of Machine Learning em Português Brasileiro,4.6,None,Intermediate,Google Cloud,Machine Learning
+204,Interpretable machine learning applications: Part 3,None,None,Intermediate,Coursera Project Network,Machine Learning
+205,Machine Learning con Python. Nivel Avanzado,None,None,Intermediate,Coursera Project Network,Machine Learning
+206,Machine Learning Introduction for Everyone,None,None,Beginner,IBM,Machine Learning
+207,Interpretable machine learning applications: Part 5,None,None,Beginner,Coursera Project Network,Machine Learning
+208,Machine Learning Interpretable: interpretML y LIME,None,None,Intermediate,Coursera Project Network,Machine Learning
+209,Interpreting Machine Learning datasets,None,None,Beginner,Coursera Project Network,Machine Learning
+210,Machine Learning: Predict Poisonous Mushrooms using a Random Forest Model and the FFTrees Package in R,4.6,"4,5 mil",Intermediate,Coursera Project Network,Machine Learning
+211,Art and Science of Machine Learning en Español,4.6,"2,2 mil",Intermediate,Google Cloud,Machine Learning
+212,Launching into Machine Learning em Português Brasileiro,4.5,None,Intermediate,Google Cloud,Machine Learning
+213,"Smart Analytics, Machine Learning, and AI on GCP en Français",None,None,Intermediate,Google Cloud,Machine Learning
+214,Art and Science of Machine Learning 日本語版,4.3,None,Intermediate,Google Cloud,Machine Learning
+215,"Crea un app de Machine Learning con Spark, Synapse Analytics",None,None,Advanced,Coursera Project Network,Machine Learning
+216,Machine Learning con Pyspark aplicado al campo sanitario,None,None,Advanced,Coursera Project Network,Machine Learning
+217,Introdução a Machine Learning em uma Competição do Kaggle,None,None,Beginner,Coursera Project Network,Machine Learning
+218,Desplegando modelos de Machine Learning con Pycaret en Azure,None,None,Beginner,Coursera Project Network,Machine Learning
+219,Aplicando privacidad en modelos de Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+220,Unsupervised Algorithms in Machine Learning,None,None,Intermediate,University of Colorado Boulder,Machine Learning
+221,Bike Rental Sharing Demand Prediction with Machine Learning,None,None,Beginner,Coursera Project Network,Machine Learning
+222,Machine Learning: Algorithms in the Real World,4.6,30 mil,Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+223,Machine Learning with TensorFlow Google Cloud 日本語版,4.4,"2,8 mil",Intermediate,Google Cloud,Machine Learning
+224,Machine Learning with TensorFlow on Google Cloud em Português Brasileiro,4.7,2 mil,Intermediate,Google Cloud,Machine Learning
+225,Machine Learning for Analytics MasterTrack™ Certificate,None,None,None,University of Chicago,Machine Learning
+226,AI and Machine Learning MasterTrack Certificate,None,None,None,Arizona State University,Machine Learning
+227,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,Machine Learning
+228,Post Graduate Certificate in Data Science & Machine Learning,None,None,None,IIT Roorkee,Machine Learning
+229,IBM Data Engineering,4.6,500 mil,Beginner,IBM,Machine Learning
+230,AI For Everyone,4.8,750 mil,Beginner,DeepLearning.AI,Machine Learning
+231,TensorFlow: Advanced Techniques,4.8,27 mil,Intermediate,DeepLearning.AI,Machine Learning
+232,Practical Data Science,4.5,16 mil,Advanced,DeepLearning.AI,Machine Learning
+233,Introduction to Discrete Mathematics for Computer Science,4.5,160 mil,Beginner,University of California San Diego,Machine Learning
+234,"Python for Data Science, AI & Development",4.6,380 mil,Beginner,IBM,Machine Learning
+235,Big Data,4.5,340 mil,Beginner,University of California San Diego,Machine Learning
+236,Computational Thinking for Problem Solving,4.7,75 mil,Beginner,University of Pennsylvania,Machine Learning
+237,Convolutional Neural Networks in TensorFlow,4.7,110 mil,Intermediate,DeepLearning.AI,Machine Learning
+238,Advanced Statistics for Data Science,4.4,94 mil,Advanced,Johns Hopkins University,Machine Learning
+239,Data Analysis with Python,4.7,230 mil,Beginner,IBM,Machine Learning
+240,Introduction to Data Science in Python,4.5,660 mil,Intermediate,University of Michigan,Machine Learning
+241,"Sequences, Time Series and Prediction",4.7,91 mil,Intermediate,DeepLearning.AI,Machine Learning
+242,AI for Medical Diagnosis,4.7,50 mil,Intermediate,DeepLearning.AI,Machine Learning
+243,An Intuitive Introduction to Probability,4.8,49 mil,Beginner,University of Zurich,Machine Learning
+244,Applied Social Network Analysis in Python,4.7,85 mil,Intermediate,University of Michigan,Machine Learning
+245,Building Recommendation System Using MXNET on AWS Sagemaker,3,None,Advanced,Coursera Project Network,Machine Learning
+246,Exploratory Data Analysis,4.2,"5,2 mil",Intermediate,Coursera Project Network,Machine Learning
+247,Introduction to Data Science and scikit-learn in Python,3.8,None,Beginner,LearnQuest,Machine Learning
+248,Aprendizado de máquina com Python,None,None,Intermediate,IBM,Machine Learning
+249,ML Pipelines on Google Cloud,3.5,"5,4 mil",Advanced,Google Cloud,Machine Learning
+250,Object Detection with Amazon Sagemaker,4.5,7 mil,Advanced,Coursera Project Network,Machine Learning
+251,Math for AI beginner part 1 Linear Algebra,None,None,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Machine Learning
+252,Semantic Segmentation with Amazon Sagemaker,4.6,"5,5 mil",Advanced,Coursera Project Network,Machine Learning
+253,الشبكات العصبية والتعلم العميق,4.6,"3,9 mil",Intermediate,DeepLearning.AI,Machine Learning
+254,التعلّم الآلي باستخدام لغة بايثون,None,None,Intermediate,IBM,Machine Learning
+255,Build a Classification Model using PyCaret,None,None,Beginner,Coursera Project Network,Machine Learning
+256,Introduction to Data Science,4.6,690 mil,Beginner,IBM,Machine Learning
+257,Data Science Fundamentals with Python and SQL,4.6,570 mil,Beginner,IBM,Machine Learning
+258,Key Technologies for Business,4.7,730 mil,Beginner,IBM,Machine Learning
+259,Applied Data Science,4.6,500 mil,Beginner,IBM,Machine Learning
+260,IBM AI Foundations for Business,4.7,680 mil,Beginner,IBM,Machine Learning
+261,IBM & Darden Digital Strategy,4.7,360 mil,Beginner,IBM,Machine Learning
+262,IBM Applied AI,4.6,530 mil,Beginner,IBM,Machine Learning
+263,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",Machine Learning
+264,Natural Language Processing,4.6,110 mil,Intermediate,DeepLearning.AI,Machine Learning
+265,Preparing for Google Cloud Certification: Cloud Architect,4.7,610 mil,Intermediate,Google Cloud,Machine Learning
+266,Preparing for Google Cloud Certification: Cloud Engineer,4.7,610 mil,Intermediate,Google Cloud,Machine Learning
+267,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250 mil,Intermediate,Google Cloud,Machine Learning
+268,Blockchain,4.6,190 mil,Intermediate,University at Buffalo,Machine Learning
+269,Architecting with Google Kubernetes Engine,4.7,580 mil,Beginner,Google Cloud,Machine Learning
+270,Preparing for Google Cloud Certification: Cloud Security Engineer,4.7,590 mil,Intermediate,Google Cloud,Machine Learning
+271,AI in Healthcare,4.7,28 mil,Beginner,Stanford University,Machine Learning
+272,Preparing for Google Cloud Certification: Cloud DevOps Engineer,4.7,650 mil,Beginner,Google Cloud,Machine Learning
+273,Preparing for Google Cloud Certification: Cloud Network Engineer,4.7,580 mil,Intermediate,Google Cloud,Machine Learning
+274,Networking in Google Cloud,4.7,580 mil,Intermediate,Google Cloud,Machine Learning
+275,Developing Applications with Google Cloud,4.7,590 mil,Intermediate,Google Cloud,Machine Learning
+276,Algorithms,4.8,220 mil,Intermediate,Stanford University,Machine Learning
+277,Security in Google Cloud,4.7,580 mil,Intermediate,Google Cloud,Machine Learning
+278,Modern Application Development with Java on AWS,4.8,83 mil,Beginner,Amazon Web Services,Machine Learning
+279,Neural Networks and Deep Learning,4.9,1 m,Intermediate,DeepLearning.AI,Machine Learning
+280,Accelerated Computer Science Fundamentals,4.7,73 mil,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+281,AI Foundations for Everyone,4.7,180 mil,Beginner,IBM,Machine Learning
+282,Self-Driving Cars,4.7,130 mil,Advanced,University of Toronto,Machine Learning
+283,Geographic Information Systems (GIS),4.8,140 mil,Beginner,"University of California, Davis",Machine Learning
+284,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,Machine Learning
+285,Tools for Data Science,4.5,260 mil,Beginner,IBM,Machine Learning
+286,Statistics with R,4.6,330 mil,Beginner,Duke University,Machine Learning
+287,Microsoft Azure Fundamentals AZ-900 Exam Prep,4.6,36 mil,Beginner,Microsoft,Machine Learning
+288,Microsoft Azure Data Engineering Associate DP-203 Exam Prep,4.4,"7,5 mil",Intermediate,Microsoft,Machine Learning
+289,MATLAB Programming for Engineers and Scientists,4.8,440 mil,Beginner,Vanderbilt University,Machine Learning
+290,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440 mil,Intermediate,DeepLearning.AI,Machine Learning
+291,Impact Measurement & Management for the SDGs,4.8,"7,4 mil",Mixed,Duke University,Machine Learning
+292,Analyze Data to Answer Questions,4.6,120 mil,Beginner,Google,Machine Learning
+293,AI for Medicine,4.7,53 mil,Intermediate,DeepLearning.AI,Machine Learning
+294,Financial Technology (Fintech) Innovations,4.7,53 mil,Beginner,University of Michigan,Machine Learning
+295,Algorithms for Battery Management Systems,4.7,39 mil,Intermediate,University of Colorado Boulder,Machine Learning
+296,Biostatistics in Public Health,4.8,43 mil,Beginner,Johns Hopkins University,Machine Learning
+297,AI For Everyone （すべての人のためのAIリテラシー講座）,4.8,18 mil,Beginner,DeepLearning.AI,Machine Learning
+298,Advanced Data Science with IBM,4.3,110 mil,Advanced,IBM,Machine Learning
+299,Программирование на Python,4.5,80 mil,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+300,Neuroscience and Neuroimaging,4.6,93 mil,Intermediate,Johns Hopkins University,Machine Learning
+301,Creating Business Value with Data and Looker,4.8,17 mil,Intermediate,Google Cloud,Machine Learning
+302,Natural Language Processing with Classification and Vector Spaces,4.6,100 mil,Intermediate,DeepLearning.AI,Machine Learning
+303,Probabilistic Graphical Models,4.6,84 mil,Advanced,Stanford University,Machine Learning
+304,Statistics with Python,4.6,110 mil,Beginner,University of Michigan,Machine Learning
+305,Convolutional Neural Networks,4.9,400 mil,Intermediate,DeepLearning.AI,Machine Learning
+306,Statistical Analysis with R for Public Health,4.7,42 mil,Beginner,Imperial College London,Machine Learning
+307,Robotics,4.4,150 mil,Beginner,University of Pennsylvania,Machine Learning
+308,Interaction Design,4.5,200 mil,Intermediate,University of California San Diego,Machine Learning
+309,"GIS, Mapping, and Spatial Analysis",4.9,64 mil,Beginner,University of Toronto,Machine Learning
+310,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Machine Learning
+311,Advanced Business Analytics,4.6,210 mil,Intermediate,University of Colorado Boulder,Machine Learning
+312,Learn English: Beginning Grammar,4.9,12 mil,Beginner,"University of California, Irvine",Machine Learning
+313,Health Informatics,4.4,31 mil,Beginner,Johns Hopkins University,Machine Learning
+314,Build Basic Generative Adversarial Networks (GANs),4.7,38 mil,Intermediate,DeepLearning.AI,Machine Learning
+315,Customer Experiences with Contact Center AI - Dialogflow CX,4.4,"3,7 mil",Beginner,Google Cloud,Machine Learning
+316,From Data to Insights with Google Cloud,4.6,59 mil,Beginner,Google Cloud,Machine Learning
+317,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,"3,2 mil",Intermediate,Microsoft,Machine Learning
+318,Google Cloud Fundamentals: Core Infrastructure,4.7,580 mil,Intermediate,Google Cloud,Machine Learning
+319,Digital Manufacturing & Design Technology,4.6,89 mil,Beginner,University at Buffalo,Machine Learning
+320,Data Mining,4.5,190 mil,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+321,Microsoft Azure Data Fundamentals DP-900 Exam Prep,4.7,"7,1 mil",Beginner,Microsoft,Machine Learning
+322,Ciencia de Datos de IBM,4.5,"7,4 mil",Beginner,IBM,Machine Learning
+323,AI For Business,4.6,"2,4 mil",Beginner,University of Pennsylvania,Machine Learning
+324,Analista de Datos de IBM,4.4,11 mil,Beginner,IBM,Machine Learning
+325,Digital Transformation Using AI/ML with Google Cloud,4.6,150 mil,Beginner,Google Cloud,Machine Learning
+326,Customer Experiences with Contact Center AI - Dialogflow ES,4.4,"3,7 mil",Intermediate,Google Cloud,Machine Learning
+327,Systems Biology and Biotechnology,4.4,66 mil,Intermediate,Icahn School of Medicine at Mount Sinai,Machine Learning
+328,Agile Leadership,4.7,13 mil,Beginner,University of Colorado System,Machine Learning
+329,Recommender Systems,4.3,42 mil,Intermediate,University of Minnesota,Machine Learning
+330,Natural Language Processing in TensorFlow,4.6,100 mil,Intermediate,DeepLearning.AI,Machine Learning
+331,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Machine Learning
+332,Fundamentals of Reinforcement Learning,4.8,61 mil,Intermediate,University of Alberta,Machine Learning
+333,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate 日本語版,4.5,"4,9 mil",Intermediate,Google Cloud,Machine Learning
+334,Extended Reality for Everybody,4.6,"9,8 mil",Beginner,University of Michigan,Machine Learning
+335,Building Cloud Computing Solutions at Scale,4.5,"9,2 mil",Intermediate,Duke University,Machine Learning
+336,TensorFlow 2 for Deep Learning,4.9,30 mil,Intermediate,Imperial College London,Machine Learning
+337,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,"4,7 mil",Intermediate,Google Cloud,Machine Learning
+338,A Crash Course in Causality: Inferring Causal Effects from Observational Data,4.7,30 mil,Intermediate,University of Pennsylvania,Machine Learning
+339,"Open Source Software Development, Linux and Git",4.5,58 mil,Beginner,The Linux Foundation,Machine Learning
+340,Process Mining: Data science in Action,4.7,63 mil,Intermediate,Eindhoven University of Technology,Machine Learning
+341,Business Analytics,4.6,57 mil,Beginner,University of Illinois at Urbana-Champaign,Machine Learning
+342,Analyze Datasets and Train ML Models using AutoML,4.5,14 mil,Advanced,DeepLearning.AI,Machine Learning
+343,Responsive Website Development and Design,4.5,250 mil,Beginner,University of London,Machine Learning
+344,程序设计与算法,4.8,93 mil,Beginner,Peking University,Machine Learning
+345,Swift 5 iOS Application Developer,4.5,23 mil,Beginner,LearnQuest,Machine Learning
+346,Unity XR: How to Build AR and VR Apps,4.1,30 mil,Beginner,Unity,Machine Learning
+347,Natural Language Processing with Probabilistic Models,4.7,43 mil,Intermediate,DeepLearning.AI,Machine Learning
+348,Embedding Sensors and Motors,4.6,61 mil,Intermediate,University of Colorado Boulder,Machine Learning
+349,Data Science with Databricks for Data Analysts,4.5,14 mil,Intermediate,Databricks,Machine Learning
+350,AI & Law,4.7,"9,4 mil",Mixed,Lund University,Machine Learning
+351,Analytics for Decision Making,4.7,"4,8 mil",Beginner,University of Minnesota,Machine Learning
+352,Introduction to Artificial Intelligence (AI),4.7,160 mil,Beginner,IBM,Machine Learning
+353,Машинное обучение: от статистики до нейросетей,4.4,"6,1 mil",Intermediate,HSE University,Machine Learning
+354,Artificial Intelligence in Marketing,4.6,"8,7 mil",Beginner,University of Virginia,Machine Learning
+355,Microsoft Azure AI Fundamentals AI-900 Exam Prep,4.7,"7,4 mil",Beginner,Microsoft,Machine Learning
+356,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Machine Learning
+357,Clinical Data Science,4.5,19 mil,Intermediate,University of Colorado System,Machine Learning
+358,Uncommon Sense Teaching,4.8,12 mil,Beginner,Deep Teaching Solutions,Machine Learning
+359,Strategic Sales Management,4.5,21 mil,Intermediate,Fundação Instituto de Administração,Machine Learning
+360,Mind Control: Managing Your Mental Health During COVID-19,4.8,180 mil,Beginner,University of Toronto,Machine Learning
+361,Introduction to Self-Driving Cars,4.7,120 mil,Advanced,University of Toronto,Machine Learning
+362,Introduction to Portfolio Construction and Analysis with Python,4.8,44 mil,Mixed,EDHEC Business School,Machine Learning
+363,Digitalisation in Aeronautics and Space,4.6,8 mil,Intermediate,Technische Universität München (TUM),Machine Learning
+364,Microsoft Azure Developer Associate AZ-204 Test Prep,4.5,"2,4 mil",Intermediate,Microsoft,Machine Learning
+365,Build Better Generative Adversarial Networks (GANs),4.7,16 mil,Intermediate,DeepLearning.AI,Machine Learning
+366,Computational Social Science,4.6,35 mil,Beginner,"University of California, Davis",Machine Learning
+367,Foundations of Teaching for Learning: Being a Teacher,4.6,44 mil,Mixed,Commonwealth Education Trust,Machine Learning
+368,Introduction to Microsoft Azure Cloud Services,4.6,32 mil,Beginner,Microsoft,Machine Learning
+369,Biology Meets Programming: Bioinformatics for Beginners,4.2,130 mil,Beginner,University of California San Diego,Machine Learning
+370,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17 mil,Intermediate,DeepLearning.AI,Machine Learning
+371,Cloud Computing Basics (Cloud 101),4.5,130 mil,Beginner,LearnQuest,Machine Learning
+372,Cloud Computing,4.4,170 mil,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+373,Natural Language Processing with Sequence Models,4.5,37 mil,Intermediate,DeepLearning.AI,Machine Learning
+374,Natural Language Processing with Attention Models,4.3,37 mil,Intermediate,DeepLearning.AI,Machine Learning
+375,Introduction to Augmented Reality and ARCore,4.5,67 mil,Beginner,Google AR & VR,Machine Learning
+376,Image Processing for Engineering and Science,4.6,None,Beginner,MathWorks,Machine Learning
+377,"Sleep: Neurobiology, Medicine, and Society",4.8,46 mil,Beginner,University of Michigan,Machine Learning
+378,Architecting Hybrid Cloud Infrastructure with Anthos,4.7,"9,2 mil",Intermediate,Google Cloud,Machine Learning
+379,Ordered Data Structures,4.8,17 mil,Mixed,University of Illinois at Urbana-Champaign,Machine Learning
+380,Foundations of Data Science: K-Means Clustering in Python,4.7,27 mil,Beginner,University of London,Machine Learning
+381,Interviewing and Resume Writing in English,4.6,110 mil,Intermediate,"University of Maryland, College Park",Machine Learning
+382,Summary Statistics in Public Health,4.8,34 mil,Beginner,Johns Hopkins University,Machine Learning
+383,Accounting Data Analytics,4.7,29 mil,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+384,Advanced Computer Vision with TensorFlow,4.8,16 mil,Intermediate,DeepLearning.AI,Machine Learning
+385,Big Data – Introducción al uso práctico de datos masivos,4.6,44 mil,Beginner,Universitat Autònoma de Barcelona,Machine Learning
+386,Apply Generative Adversarial Networks (GANs),4.8,14 mil,Intermediate,DeepLearning.AI,Machine Learning
+387,Psicología,4.8,24 mil,Beginner,Universidad de Palermo,Machine Learning
+388,"Build, Train, and Deploy ML Pipelines using BERT",4.6,"6,4 mil",Advanced,DeepLearning.AI,Machine Learning
+389,Word Forms and Simple Present Tense,4.9,12 mil,Beginner,"University of California, Irvine",Machine Learning
+390,Model Thinking,4.8,180 mil,Mixed,University of Michigan,Machine Learning
+391,Data Analysis and Interpretation,4.4,140 mil,Beginner,Wesleyan University,Machine Learning
+392,Introduction to Applied Cryptography,4.6,29 mil,Beginner,University of Colorado System,Machine Learning
+393,Healthcare Marketplace,4.5,61 mil,Beginner,University of Minnesota,Machine Learning
+394,Applied Cryptography,4.5,23 mil,Intermediate,University of Colorado System,Machine Learning
+395,Computational Neuroscience,4.6,95 mil,Beginner,University of Washington,Machine Learning
+396,Bayesian Statistics: Techniques and Models,4.8,48 mil,Intermediate,"University of California, Santa Cruz",Machine Learning
+397,Healthcare Trends for Business Professionals,4.4,12 mil,Beginner,Northeastern University,Machine Learning
+398,Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate en Español,4.8,18 mil,Intermediate,Google Cloud,Machine Learning
+399,Introduction to Clinical Data,4.6,"8,4 mil",Beginner,Stanford University,Machine Learning
+400,Custom and Distributed Training with TensorFlow,4.8,"9,1 mil",Intermediate,DeepLearning.AI,Machine Learning
+401,Sample-based Learning Methods,4.8,22 mil,Intermediate,University of Alberta,Machine Learning
+402,Applied Data Science Capstone,4.7,93 mil,Intermediate,IBM,Machine Learning
+403,Innovating with Data and Google Cloud,4.8,"8,5 mil",Beginner,Google Cloud,Machine Learning
+404,Data-driven Astronomy,4.8,26 mil,Intermediate,The University of Sydney,Machine Learning
+405,Practical Time Series Analysis,4.6,66 mil,Intermediate,The State University of New York,Machine Learning
+406,Ciencia de Datos Aplicada,4.6,"3,5 mil",Beginner,IBM,Machine Learning
+407,Developing Industrial Internet of Things,4.6,25 mil,Intermediate,University of Colorado Boulder,Machine Learning
+408,SAS Visual Business Analytics,4.7,26 mil,Beginner,SAS,Machine Learning
+409,Embedded Software and Hardware Architecture,4.5,29 mil,Intermediate,University of Colorado Boulder,Machine Learning
+410,Data-Driven Decision Making (DDDM),4.5,"7,7 mil",Beginner,University at Buffalo,Machine Learning
+411,Statistics with SAS,4.8,24 mil,Intermediate,SAS,Machine Learning
+412,Fundamentals of Digital Image and Video Processing,4.6,110 mil,Mixed,Northwestern University,Machine Learning
+413,Data Literacy,4.6,"5,4 mil",Beginner,Johns Hopkins University,Machine Learning
+414,AI for Medical Prognosis,4.7,19 mil,Intermediate,DeepLearning.AI,Machine Learning
+415,Fundamentals of Scalable Data Science,4.3,63 mil,Beginner,IBM,Machine Learning
+416,Deep Neural Networks with PyTorch,4.4,32 mil,Intermediate,IBM,Machine Learning
+417,Distributed Computing with Spark SQL,4.5,27 mil,Intermediate,"University of California, Davis",Machine Learning
+418,Introduction to Deep Learning & Neural Networks with Keras,4.7,23 mil,Intermediate,IBM,Machine Learning
+419,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate en Español,4.7,20 mil,Intermediate,Google Cloud,Machine Learning
+420,"Data Engineering, Big Data and ML on Google Cloud en Español",4.7,19 mil,Intermediate,Google Cloud,Machine Learning
+421,The Basics of Trauma Surgery,4.5,11 mil,Intermediate,Technische Universität München (TUM),Machine Learning
+422,Bases de Inteligencia Artificial para Todos,4.7,8 mil,Beginner,IBM,Machine Learning
+423,Introduction to Computer Vision and Image Processing,4.4,28 mil,Beginner,IBM,Machine Learning
+424,Protecting the World: Introducing Corrosion Science and Engineering,4.6,12 mil,Intermediate,University of Manchester,Machine Learning
+425,Liderazgo y habilidades de negociación,4.7,"3,8 mil",Advanced,Tecnológico de Monterrey,Machine Learning
+426,Architecting with Google Compute Engine en Español,4.8,17 mil,Intermediate,Google Cloud,Machine Learning
+427,Solving Complex Problems,4.6,24 mil,Beginner,Macquarie University,Machine Learning
+428,"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",4.8,62 mil,Intermediate,Stanford University,Machine Learning
+429,Supply Chain Excellence,4.7,"8,8 mil",Intermediate,Rutgers the State University of New Jersey,Machine Learning
+430,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,4.6,63 mil,Mixed,The University of Edinburgh,Machine Learning
+431,Emerging Technologies: From Smartphones to IoT to Big Data,4.7,75 mil,Beginner,Yonsei University,Machine Learning
+432,Rédaction de contrats,4.8,20 mil,Mixed,University of Geneva,Machine Learning
+433,Supervision du raisonnement clinique,4.8,2 mil,Beginner,University of Geneva,Machine Learning
+434,Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles,4.8,26 mil,Beginner,Deep Teaching Solutions,Machine Learning
+435,Data Science Fundamentals,4.1,"5,4 mil",Beginner,"University of California, Irvine",Machine Learning
+436,Improving your statistical inferences,4.9,61 mil,Intermediate,Eindhoven University of Technology,Machine Learning
+437,A Crash Course in Data Science,4.5,180 mil,Beginner,Johns Hopkins University,Machine Learning
+438,NLP: Twitter Sentiment Analysis,4.6,"8,6 mil",Beginner,Coursera Project Network,Machine Learning
+439,Sentiment Analysis with Deep Learning using BERT,4.5,12 mil,Intermediate,Coursera Project Network,Machine Learning
+440,Evaluations of AI Applications in Healthcare,4.5,"5,5 mil",Beginner,Stanford University,Machine Learning
+441,"Introduction to XR: VR, AR, and MR Foundations",4.2,22 mil,Beginner,Unity,Machine Learning
+442,The Social and Technical Context of Health Informatics,4.2,20 mil,Beginner,Johns Hopkins University,Machine Learning
+443,Mastering Digital Twins,4,"6,6 mil",Beginner,EIT Digital,Machine Learning
+444,Getting Started with AI using IBM Watson,4.5,33 mil,Beginner,IBM,Machine Learning
+445,Autodesk Certified Professional: Revit for Structural Design Exam Prep,4.7,27 mil,Advanced,Autodesk,Machine Learning
+446,Infection Prevention in Nursing Homes,4.8,21 mil,Mixed,The University of North Carolina at Chapel Hill,Machine Learning
+447,Applied Digital Literacy,4.8,"1,6 mil",Beginner,The State University of New York,Machine Learning
+448,Probability and Statistics: To p or not to p?,4.6,66 mil,Beginner,University of London,Machine Learning
+449,Strategising: Management for Global Competitive Advantage,4.8,36 mil,Beginner,Macquarie University,Machine Learning
+450,Motion Planning for Self-Driving Cars,4.8,29 mil,Advanced,University of Toronto,Machine Learning
+451,Transformación digital,4.8,"1,6 mil",Beginner,BCG,Machine Learning
+452,The Bilingual Brain,4.6,28 mil,Mixed,University of Houston,Machine Learning
+453,"Intro to AR/VR/MR/XR: Technologies, Applications & Issues",4.7,"7,1 mil",Beginner,University of Michigan,Machine Learning
+454,Analítica de Procesos: Optimización desde los Datos,4.9,None,Beginner,Universidad de los Andes,Machine Learning
+455,HR Analytics- Build an HR dashboard using Power BI,4.3,None,Beginner,Coursera Project Network,Machine Learning
+456,Data Science in Stratified Healthcare and Precision Medicine,4.6,17 mil,Intermediate,The University of Edinburgh,Machine Learning
+457,Particle Physics: an Introduction,4.4,67 mil,Mixed,University of Geneva,Machine Learning
+458,Building AI Powered Chatbots Without Programming,4.8,39 mil,Beginner,IBM,Machine Learning
+459,Generative Deep Learning with TensorFlow,4.8,"7,3 mil",Intermediate,DeepLearning.AI,Machine Learning
+460,MRI Fundamentals,4.6,15 mil,Intermediate,Korea Advanced Institute of Science and Technology(KAIST),Machine Learning
+461,AI in Healthcare Capstone,4.7,"3,6 mil",Mixed,Stanford University,Machine Learning
+462,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,"9,9 mil",Intermediate,Coursera Project Network,Machine Learning
+463,Preparing for the Google Cloud Professional Data Engineer Exam,4.6,37 mil,Advanced,Google Cloud,Machine Learning
+464,Getting started with TensorFlow 2,4.9,25 mil,Intermediate,Imperial College London,Machine Learning
+465,Introduction to High-Performance and Parallel Computing,3,"5,1 mil",Beginner,University of Colorado Boulder,Machine Learning
+466,Interactive Teaching（インタラクティブ・ティーチング）,4.7,"1,7 mil",Mixed,The University of Tokyo,Machine Learning
+467,"Philosophy, Science and Religion: Science and Philosophy",4.5,43 mil,Beginner,The University of Edinburgh,Machine Learning
+468,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,"2,3 mil",Intermediate,Google Cloud,Machine Learning
+469,Mind and Machine,4.4,15 mil,Beginner,University of Colorado Boulder,Machine Learning
+470,Optimize ML Models and Deploy Human-in-the-Loop Pipelines,4.7,"3,5 mil",Advanced,DeepLearning.AI,Machine Learning
+471,"AI, Business & the Future of Work",4.6,None,Beginner,Lund University,Machine Learning
+472,AI Fundamentals for Non-Data Scientists,4.8,None,Mixed,University of Pennsylvania,Machine Learning
+473,Materials Data Sciences and Informatics,4.5,13 mil,Intermediate,Georgia Institute of Technology,Machine Learning
+474,Oceanography: a key to better understand our world,4.5,19 mil,Mixed,Universitat de Barcelona,Machine Learning
+475,Architecting with Google Kubernetes Engine en Español,4.8,16 mil,Beginner,Google Cloud,Machine Learning
+476,Blockchain Platforms,4.6,25 mil,Intermediate,University at Buffalo,Machine Learning
+477,New Technologies for Business Leaders,4.4,20 mil,Intermediate,Rutgers the State University of New Jersey,Machine Learning
+478,Introduction to Image Processing,4.7,None,Beginner,MathWorks,Machine Learning
+479,Prediction and Control with Function Approximation,4.8,17 mil,Intermediate,University of Alberta,Machine Learning
+480,Introducción a la inteligencia artificial,4.6,22 mil,Intermediate,Universidad Nacional Autónoma de México,Machine Learning
+481,Cloud Computing Foundations,4.6,"6,2 mil",Beginner,Duke University,Machine Learning
+482,Autodesk Generative Design for Manufacturing,4.8,16 mil,Advanced,Autodesk,Machine Learning
+483,Alternative Mobility Narratives,4.8,"1,8 mil",Intermediate,University of Amsterdam,Machine Learning
+484,Engineering Systems in Motion: Dynamics of Particles and Bodies in 2D Motion,4.9,40 mil,Mixed,Georgia Institute of Technology,Machine Learning
+485,"Introduction to Data, Signal, and Image Analysis with MATLAB",4.8,18 mil,Intermediate,Vanderbilt University,Machine Learning
+486,Introduction to advanced tomography,4.6,3 mil,Mixed,Technical University of Denmark (DTU),Machine Learning
+487,AI For Medical Treatment,4.7,17 mil,Intermediate,DeepLearning.AI,Machine Learning
+488,Ethics in the Age of AI,4.7,"7,3 mil",Beginner,LearnQuest,Machine Learning
+489,Sports and Building Aerodynamics,4.8,12 mil,Intermediate,Eindhoven University of Technology,Machine Learning
+490,Initiation à la programmation (en C++),4.8,39 mil,Beginner,École Polytechnique Fédérale de Lausanne,Machine Learning
+491,Blended Language Learning: Design and Practice for Teachers,4.8,"9,4 mil",Intermediate,University of Colorado Boulder,Machine Learning
+492,Contact Center AI: Conversational Design Fundamentals,4.4,"3,4 mil",Beginner,Google Cloud,Machine Learning
+493,Introduction to Predictive Modeling,4.9,"2,6 mil",Mixed,University of Minnesota,Machine Learning
+494,Preparing for the AZ-900 Microsoft Azure Fundamentals Exam,4.8,"8,7 mil",Beginner,Microsoft,Machine Learning
+495,Equivalent Circuit Cell Model Simulation,4.7,12 mil,Intermediate,University of Colorado Boulder,Machine Learning
+496,Life 101: Mental and Physical Self-Care,4.8,"5,2 mil",Beginner,"University of California, Irvine",Machine Learning
+497,Manejo del enfermo semicrítico y crítico por COVID-19,4.8,"8,3 mil",Advanced,Universitat de Barcelona,Machine Learning
+498,IA para todos,4.9,23 mil,Beginner,DeepLearning.AI,Machine Learning
+499,Microsoft Azure Management Tools and Security Solutions,4.8,"7,5 mil",Beginner,Microsoft,Machine Learning
