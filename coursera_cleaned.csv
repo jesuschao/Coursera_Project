@@ -1269,3 +1269,453 @@
 1267,Manejo del enfermo semicrítico y crítico por COVID-19,4.8,8.3,Advanced,Universitat de Barcelona,Machine Learning
 1268,IA para todos,4.9,23.0,Beginner,DeepLearning.AI,Machine Learning
 1269,Microsoft Azure Management Tools and Security Solutions,4.8,7.5,Beginner,Microsoft,Machine Learning
+1270,Java Programming and Software Engineering Fundamentals,4.6,690.0,Beginner,Duke University,Java
+1271,Object Oriented Programming in Java,4.6,510.0,Beginner,Duke University,Java
+1272,Core Java,4.6,24.0,Intermediate,LearnQuest,Java
+1273,Introduction to Programming with Python and Java,4.4,35.0,Beginner,University of Pennsylvania,Java
+1274,Object Oriented Java Programming: Data Structures and Beyond,4.7,330.0,Intermediate,University of California San Diego,Java
+1275,Introduction to Java,4.6,22.0,Beginner,LearnQuest,Java
+1276,Introduction to Java and Object-Oriented Programming,4.3,9.8,Beginner,University of Pennsylvania,Java
+1277,"Parallel, Concurrent, and Distributed Programming in Java",4.6,48.0,Intermediate,Rice University,Java
+1278,"Algorithms, Part I",4.9,920.0,Intermediate,Princeton University,Java
+1279,Introducción a Java,4.2,130.0,Beginner,Universidad Nacional Autónoma de México,Java
+1280,IBM Full Stack Cloud Developer,4.6,470.0,Beginner,IBM,Java
+1281,Modern Application Development with Java on AWS,4.8,83.0,Beginner,Amazon Web Services,Java
+1282,Java Programming: Solving Problems with Software,4.6,300.0,Beginner,Duke University,Java
+1283,Java程序设计,4.7,26.0,Intermediate,Peking University,Java
+1284,Object Oriented Programming in Java,4.7,250.0,Intermediate,University of California San Diego,Java
+1285,Spring Framework,3.7,5.7,Beginner,LearnQuest,Java
+1286,Software Design and Architecture,4.6,130.0,Beginner,University of Alberta,Java
+1287,Computer Science: Programming with a Purpose,4.7,150.0,Beginner,Princeton University,Java
+1288,Object-Oriented Programming with Java,4.5,21.0,Intermediate,Coursera Project Network,Java
+1289,Lambda Expressions with Java,,,Intermediate,Coursera Project Network,Java
+1290,Programming in Java: A Hands-on Introduction,4.2,3.0,Beginner,Codio,Java
+1291,Advanced Data Structures in Java,4.8,74.0,Intermediate,University of California San Diego,Java
+1292,Initiation à la programmation (en Java),4.8,35.0,Beginner,École Polytechnique Fédérale de Lausanne,Java
+1293,Deploying Java-Maven Application With Jenkins CI/CD Tool,4.4,,Beginner,Coursera Project Network,Java
+1294,Computer Architecture,4.8,180.0,Advanced,Princeton University,Java
+1295,Secure Coding Practices,4.5,21.0,Intermediate,"University of California, Davis",Java
+1296,Orientação a Objetos com Java,4.8,57.0,Intermediate,Instituto Tecnológico de Aeronáutica,Java
+1297,Exploiting and Securing Vulnerabilities in Java Applications,4.5,5.5,Intermediate,"University of California, Davis",Java
+1298,"HTML, CSS, and Javascript for Web Developers",4.7,690.0,Mixed,Johns Hopkins University,Java
+1299,Intermediate Object-Oriented Programming with Java,4.7,3.2,Intermediate,Coursera Project Network,Java
+1300,AI For Everyone,4.8,750.0,Beginner,DeepLearning.AI,Java
+1301,Building Modern Java Applications on AWS,4.6,8.7,Intermediate,Amazon Web Services,Java
+1302,Java for Android,4.5,190.0,Beginner,Vanderbilt University,Java
+1303,Kotlin for Java Developers,4.7,84.0,Intermediate,JetBrains,Java
+1304,Building Scalable Java Microservices with Spring Boot and Spring Cloud,4.3,66.0,Intermediate,Google Cloud,Java
+1305,Introduction to C# Programming and Unity,4.6,86.0,Beginner,University of Colorado System,Java
+1306,"Algorithms, Part II",4.9,250.0,Intermediate,Princeton University,Java
+1307,Introduction à la programmation orientée objet (en Java),4.8,22.0,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1308,"Física: Vectores, Trabajo y Energía",4.3,23.0,Mixed,Tecnológico de Monterrey,Java
+1309,"Computer Science: Algorithms, Theory, and Machines",4.8,75.0,Intermediate,Princeton University,Java
+1310,Improve Your Java Code Using Amazon CodeGuru,5.0,,Intermediate,Amazon Web Services,Java
+1311,Machine Learning,4.9,4700.0,Mixed,Stanford University,Java
+1312,JavaScript Basics,4.7,22.0,Beginner,"University of California, Davis",Java
+1313,Interactivity with JavaScript,4.7,170.0,Mixed,University of Michigan,Java
+1314,Java Programming: Principles of Software Design,4.6,94.0,Beginner,Duke University,Java
+1315,Laboratório de Programação Orientada a Objetos - Parte 1,4.9,4.2,Intermediate,Universidade de São Paulo,Java
+1316,"Programming Foundations with JavaScript, HTML and CSS",4.6,480.0,Beginner,Duke University,Java
+1317,Building Cloud Services with the Java Spring Framework,4.3,24.0,Intermediate,Vanderbilt University,Java
+1318,JavaScript for Beginners,4.7,23.0,Beginner,"University of California, Davis",Java
+1319,"Introduction to Web Development with HTML, CSS, JavaScript",4.5,19.0,Beginner,IBM,Java
+1320,JavaScript Security,4.9,,Intermediate,Infosec,Java
+1321,Front-End JavaScript Frameworks: Angular,4.7,100.0,Intermediate,The Hong Kong University of Science and Technology,Java
+1322,Java as a Second Language,4.3,3.1,Intermediate,LearnQuest,Java
+1323,Parallel Programming in Java,4.6,36.0,Intermediate,Rice University,Java
+1324,Inheritance and Data Structures in Java,4.6,2.9,Beginner,University of Pennsylvania,Java
+1325,"Responsive Website Basics: Code with HTML, CSS, and JavaScript",4.6,170.0,Mixed,University of London,Java
+1326,Learn Javascript with zero prior programming experience,4.3,6.1,Beginner,Coursera Project Network,Java
+1327,"Java Programming: Arrays, Lists, and Structured Data",4.7,130.0,Beginner,Duke University,Java
+1328,Learn to Teach Java,4.7,6.0,Beginner,University of California San Diego,Java
+1329,"Using JavaScript, JQuery, and JSON in Django",4.8,19.0,Intermediate,University of Michigan,Java
+1330,Introduction to Object-Oriented Programming with Java,4.7,5.7,Beginner,LearnQuest,Java
+1331,Create Your First Automation Script Using Selenium and Java,4.5,5.1,Beginner,Coursera Project Network,Java
+1332,Learn Java with no prior programming experience,4.6,2.5,Beginner,Coursera Project Network,Java
+1333,Concurrent Programming in Java,4.5,19.0,Intermediate,Rice University,Java
+1334,Starting GUI Programming with JavaFX,4.7,1.6,Intermediate,Coursera Project Network,Java
+1335,Introducción a la programación orientada a objetos en Java,4.6,53.0,Beginner,Universidad de los Andes,Java
+1336,Developing a Connect Four Game using Java OOP,,,Intermediate,Coursera Project Network,Java
+1337,JavaScript Security Refreshers,4.8,,Intermediate,Infosec,Java
+1338,JavaScript Security Part 1,,,Intermediate,Infosec,Java
+1339,Build a Simple App in Android Studio with Java,4.4,19.0,Beginner,Coursera Project Network,Java
+1340,Modern JavaScript: ES6 Basics,4.5,12.0,Intermediate,Coursera Project Network,Java
+1341,"JavaScript, jQuery, and JSON",4.6,85.0,Intermediate,University of Michigan,Java
+1342,Create a Point of Sale (POS) with Java Basics,4.7,,Intermediate,Coursera Project Network,Java
+1343,Build a Fast Typing Game using Java Swing,,,Beginner,Coursera Project Network,Java
+1344,Create Your First Multithreaded Application in Java,4.5,3.9,Intermediate,Coursera Project Network,Java
+1345,Automate an e-commerce web application using Selenium & Java,4.7,2.2,Beginner,Coursera Project Network,Java
+1346,Introduction to Javascript: The Basics,4.3,8.9,Beginner,Coursera Project Network,Java
+1347,JavaScript Security Part 2,,,Intermediate,Infosec,Java
+1348,Desenvolvimento Ágil com Java Avançado,4.7,14.0,Intermediate,Instituto Tecnológico de Aeronáutica,Java
+1349,Programando con Java para aplicaciones Android,4.7,59.0,Mixed,Universidad Nacional Autónoma de México,Java
+1350,Animation with JavaScript and jQuery,4.7,3.0,Beginner,"University of California, Davis",Java
+1351,Create a Supermarket app using OOP Features in Java,4.7,,Intermediate,Coursera Project Network,Java
+1352,Create a Supermarket app using Java OOP,4.6,,Intermediate,Coursera Project Network,Java
+1353,JavaScript Essentials For Beginners,3.7,,Beginner,Coursera Project Network,Java
+1354,JavaScript Security Part 3,,,Intermediate,Infosec,Java
+1355,Become a JavaScript Pro with these 7 Skills,4.4,5.5,Intermediate,Coursera Project Network,Java
+1356,"Javascript animation for websites, storytelling, data visualization and games",4.3,10.0,Intermediate,Coursera Project Network,Java
+1357,Build Sports Management System using JavaFX,,,Beginner,Coursera Project Network,Java
+1358,Java Class Library,4.6,2.7,Intermediate,LearnQuest,Java
+1359,Learn About JSON with JavaScript,4.5,,Beginner,Coursera Project Network,Java
+1360,Distributed Programming in Java,4.6,19.0,Intermediate,Rice University,Java
+1361,Introduction to Java as a Second Language,4.4,1.6,Intermediate,LearnQuest,Java
+1362,The Java Language,4.3,,Intermediate,LearnQuest,Java
+1363,Writing Java Application Code,4.4,1.5,Intermediate,LearnQuest,Java
+1364,Data Manipulation in JavaScript,4.7,2.1,Beginner,"University of California, Davis",Java
+1365,Web Application Development with JavaScript and MongoDB,4.6,59.0,Mixed,University of London,Java
+1366,Object-Oriented Hierarchies in Java,4.8,2.7,Intermediate,LearnQuest,Java
+1367,Upgrade Your JavaScript OOP to TypeScript,,,Intermediate,Coursera Project Network,Java
+1368,Programando un blockchain básico con Javascript,4.6,,Beginner,Coursera Project Network,Java
+1369,Exception Handling in Java,4.8,,Beginner,Coursera Project Network,Java
+1370,Building a Text-Based Bank in Java,4.5,7.7,Beginner,Coursera Project Network,Java
+1371,Introduction to JavaScript,4.5,3.0,Beginner,Coursera Project Network,Java
+1372,Learn Javascript - 21 Essential Array Methods,4.5,,Beginner,Coursera Project Network,Java
+1373,"Build ""Guess The Color"" game using JavaScript, HTML and CSS",,,Intermediate,Coursera Project Network,Java
+1374,JavaScript Debugging Tips for Beginners,4.5,,Intermediate,Coursera Project Network,Java
+1375,Java Programming: Build a Recommendation System,4.7,25.0,Intermediate,Duke University,Java
+1376,Créer Une App. À L’aide Des fonctionnalités OOP en Java,,,Intermediate,Coursera Project Network,Java
+1377,Creating a Quiz Game using Vanilla JavaScript,,,Beginner,Coursera Project Network,Java
+1378,Les Expressions Lambda et Java,,,Beginner,Coursera Project Network,Java
+1379,"Learn to Teach Java: Sequences, Primitive Types and Using Objects",4.9,4.0,Beginner,University of California San Diego,Java
+1380,"Learn to Teach Java: Boolean Expressions, If Statements, and Iteration",,,Beginner,University of California San Diego,Java
+1381,Interactivity with JavaScript and jQuery,4.9,2.3,Mixed,"University of California, Davis",Java
+1382,Introduction to Java Programming: Java Fundamental Concepts,4.5,4.5,Beginner,Coursera Project Network,Java
+1383,Building Interactive Web Pages Using Modern JavaScript,,,Beginner,NIIT StackRoute,Java
+1384,Java Built in Data Structures,4.6,,Intermediate,Coursera Project Network,Java
+1385,Java Basics: Selection and Iteration,4.3,2.0,Beginner,Codio,Java
+1386,Process Student Details using Inheritance in Java,4.4,,Intermediate,Coursera Project Network,Java
+1387,Use Python and Java to Create a GUI Application,,,Intermediate,Coursera Project Network,Java
+1388,Java Arrays and Loops,4.4,,Intermediate,Coursera Project Network,Java
+1389,Create a Record of Students using Abstraction in Java,,,Intermediate,Coursera Project Network,Java
+1390,Process Personal Details using Methods in Java,4.6,,Intermediate,Coursera Project Network,Java
+1391,"Java Basic Structures: Arrays, Strings, and Files",4.3,,Beginner,Codio,Java
+1392,Projet de programmation (en Java),4.7,3.8,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1393,Java Classes and Objects,4.7,2.8,Intermediate,Coursera Project Network,Java
+1394,Create a Record of Students using Arrays in Java,4.7,1.7,Intermediate,Coursera Project Network,Java
+1395,"Java Inheritance, Composition and Aggregation",3.8,,Intermediate,Coursera Project Network,Java
+1396,Analyse datasets with Java streams,,,Intermediate,Coursera Project Network,Java
+1397,Unit Testing in Java,4.7,,Beginner,Coursera Project Network,Java
+1398,Hosting a Static Website (HTML/CSS/Javascript) in AWS S3,4.5,,Beginner,Coursera Project Network,Java
+1399,Build Your First GUI App With Java,,,Intermediate,Coursera Project Network,Java
+1400,Create a Picture Puzzle using Java Swing,,,Beginner,Coursera Project Network,Java
+1401,Java Decision Programming,4.8,2.8,Intermediate,Coursera Project Network,Java
+1402,Perform basic data analysis tasks using Java streams,,,Intermediate,Coursera Project Network,Java
+1403,Object-Oriented Java: Inheritance and Encapsulation,,,Intermediate,Codio,Java
+1404,برمجة Java: حل المشكلات باستخدام البرامج,,,Beginner,Duke University,Java
+1405,Introduction To Java Database Connectivity - JDBC,4.3,,Advanced,Coursera Project Network,Java
+1406,"Java Object Basics: Functions, Recursion, and Objects",,,Intermediate,Codio,Java
+1407,School Registry using Object Oriented Programming in Java,,,Intermediate,Coursera Project Network,Java
+1408,Learn Java and JavaFX by creating a Graphical Calculator,4.6,,Beginner,Coursera Project Network,Java
+1409,Java Database Connectivity (JDBC) Introduction,,,Beginner,LearnQuest,Java
+1410,Test Driven Development in Java for Beginners,,,Beginner,Coursera Project Network,Java
+1411,Learn to Teach Java: Writing Classes and Arrays,4.8,2.2,Beginner,University of California San Diego,Java
+1412,Build a Guessing Game Application using Java,4.5,,Intermediate,Coursera Project Network,Java
+1413,برمجة Java: المصفوفات، والقوائم، والبيانات المصنفة,,,Beginner,Duke University,Java
+1414,Modern JavaScript: Iterators and Generators,5.0,,Advanced,Coursera Project Network,Java
+1415,JavaScript Numbers: Properties and Methods,4.9,,Beginner,Coursera Project Network,Java
+1416,JavaScript Strings: Properties and Methods,4.8,,Beginner,Coursera Project Network,Java
+1417,JavaScript For Loop,4.3,,Intermediate,Coursera Project Network,Java
+1418,Learn to Teach Java: Inheritance and Recursion,4.7,1.5,Beginner,University of California San Diego,Java
+1419,Crea una página web interactiva con JavaScript,,,Beginner,Coursera Project Network,Java
+1420,Quick resumeCreator with JavaScript,3.7,1.7,Beginner,Coursera Project Network,Java
+1421,Creating a virtual book store using java GUI,,,Intermediate,Coursera Project Network,Java
+1422,JavaScript Variables and Assignment Operators,4.8,2.6,Beginner,Coursera Project Network,Java
+1423,Using Efficient Sorting Algorithms in Java to Arrange Tax Data,4.5,2.5,Intermediate,Coursera Project Network,Java
+1424,JavaScript Decision Programming with If-Else,,,Intermediate,Coursera Project Network,Java
+1425,Validate HTML Forms with JavaScript and HTML,4.6,,Intermediate,Coursera Project Network,Java
+1426,Generate a PDF File with JavaScript,,,Intermediate,Coursera Project Network,Java
+1427,Java Testing: An Introduction to TDD,,,Intermediate,LearnQuest,Java
+1428,Introduction to JavaScript Arrays,,,Intermediate,Coursera Project Network,Java
+1429,Create your first Java project using jGRASP,4.7,2.0,Beginner,Coursera Project Network,Java
+1430,Learn to Teach Java: ArrayLists and 2D Arrays,,,Beginner,University of California San Diego,Java
+1431,Create a Tic-Tac-Toe Game using Java,,,Intermediate,Coursera Project Network,Java
+1432,برمجة Java: إنشاء نظام ترشيح,,,Intermediate,Duke University,Java
+1433,A Simple Picture Storing App with Java and Android Studio,,,Intermediate,Coursera Project Network,Java
+1434,Display Student Data with Linechart and Separator in JavaFX,,,Intermediate,Coursera Project Network,Java
+1435,JavaScript Arithmetic Operators,4.4,,Intermediate,Coursera Project Network,Java
+1436,Creating a simple Calculator in Android using Java,,,Beginner,Coursera Project Network,Java
+1437,Manipulate Arrays with JavaScript Methods,,,Intermediate,Coursera Project Network,Java
+1438,Best Practices for Mobile Development With Java,,,Beginner,Coursera Project Network,Java
+1439,Creating a Virtual Bookstore using Java Basics,4.8,,Beginner,Coursera Project Network,Java
+1440,JavaScript Decision Programming with Nested If,,,Intermediate,Coursera Project Network,Java
+1441,JavaScript Decision Programming with Switch,,,Intermediate,Coursera Project Network,Java
+1442,Construire une calculatrice graphique avec JavaScript,,,Beginner,Coursera Project Network,Java
+1443,Search a String Variable with JavaScript Methods,,,Intermediate,Coursera Project Network,Java
+1444,JavaScript While Loop,,,Intermediate,Coursera Project Network,Java
+1445,Blazor and JavaScript Interoperability,,,Intermediate,Coursera Project Network,Java
+1446,User-Defined Functions in JavaScript,,,Intermediate,Coursera Project Network,Java
+1447,Create a Basketball Score Counter App in Android using Java,,,Beginner,Coursera Project Network,Java
+1448,Build a Stopwatch using JavaScript,,,Beginner,Coursera Project Network,Java
+1449,Work with Dates in JavaScript,,,Intermediate,Coursera Project Network,Java
+1450,Build a Word Jumble using Java Basics,,,Intermediate,Coursera Project Network,Java
+1451,Sort Arrays with JavaScript Methods,,,Intermediate,Coursera Project Network,Java
+1452,Extract Text Data with Java and Regex,,,Intermediate,Coursera Project Network,Java
+1453,Create your first GUI application in jGRASP using JavaFX,,,Intermediate,Coursera Project Network,Java
+1454,Hospedando Website Estático (HTML/CSS/Javascript) no AWS S3,,,Beginner,Coursera Project Network,Java
+1455,Java Data Access - SQL Primer,,,Beginner,LearnQuest,Java
+1456,"Install, Configure, and use Java Extension Pack in VS Code",,,Beginner,Coursera Project Network,Java
+1457,Text file Input/Output in Java,,,Beginner,Coursera Project Network,Java
+1458,Beginning GUI programming with JavaFX,,,Intermediate,Coursera Project Network,Java
+1459,حماية قاعدة البيانات من هجمات ال Injections باستخدام Java,,,Intermediate,Coursera Project Network,Java
+1460,Display Simple Data with Pie Chart and Tabbed Pane in JavaFX,,,Intermediate,Coursera Project Network,Java
+1461,Java Primitive Types to Calculate Expenses,4.5,,Intermediate,Coursera Project Network,Java
+1462,تعلم Java و JavaFX من خلال عمل آلة حاسبة,,,Beginner,Coursera Project Network,Java
+1463,إنشاء لعبة الأسئلة باستخدام Vanilla JavaScript,,,Beginner,Coursera Project Network,Java
+1464,Configuring the Java Extension Pack with Visual Studio Code,,,Intermediate,Coursera Project Network,Java
+1465,Parametrize Queries to Protect Against Injections with Java,,,Intermediate,Coursera Project Network,Java
+1466,Create a JavaFX GUI with radio buttons and check boxes,,,Intermediate,Coursera Project Network,Java
+1467,Create a JavaFX movie rater GUI with combo box and a slider,,,Intermediate,Coursera Project Network,Java
+1468,A simple course rater with JavaFX choice box and text area,,,Intermediate,Coursera Project Network,Java
+1469,Use Menus to Process Simple Personal Data in JavaFX,,,Intermediate,Coursera Project Network,Java
+1470,Create a JavaFX movie rater with titled panes and accordion,,,Intermediate,Coursera Project Network,Java
+1471,Java Data Types and String APIs,,,Beginner,Coursera Project Network,Java
+1472,Create a simple list using ListView in JavaFX,,,Intermediate,Coursera Project Network,Java
+1473,Display Simple Data with Bar Chart and Split Pane in JavaFX,,,Intermediate,Coursera Project Network,Java
+1474,Java Testing,,,Intermediate,LearnQuest,Java
+1475,Java Database Connectivity,,,Beginner,LearnQuest,Java
+1476,Python for Everybody,4.8,2700.0,Beginner,University of Michigan,Java
+1477,Data Science,4.5,1200.0,Beginner,Johns Hopkins University,Java
+1478,Improve Your English Communication Skills,4.7,1300.0,Beginner,Georgia Institute of Technology,Java
+1479,Web Design for Everybody: Basics of Web Development & Coding,4.7,540.0,Beginner,University of Michigan,Java
+1480,Full-Stack Web Development with React,4.7,360.0,Intermediate,The Hong Kong University of Science and Technology,Java
+1481,Full Stack Web Development with Angular,4.7,350.0,Intermediate,The Hong Kong University of Science and Technology,Java
+1482,Web Applications for Everybody,4.7,280.0,Intermediate,University of Michigan,Java
+1483,Introduction to Web Development,4.7,190.0,Beginner,"University of California, Davis",Java
+1484,Android App Development,4.5,210.0,Beginner,Vanderbilt University,Java
+1485,Code Yourself! An Introduction to Programming,4.7,240.0,Beginner,The University of Edinburgh,Java
+1486,Responsive Website Development and Design,4.5,250.0,Beginner,University of London,Java
+1487,Oracle SQL Databases,4.6,5.0,Beginner,LearnQuest,Java
+1488,Introduction to Computer Programming,4.1,53.0,Beginner,University of London,Java
+1489,Introduction to HTML5,4.7,460.0,Mixed,University of Michigan,Java
+1490,Single Page Web Applications with AngularJS,4.9,100.0,Intermediate,Johns Hopkins University,Java
+1491,Front-End Web Development with React,4.7,150.0,Intermediate,The Hong Kong University of Science and Technology,Java
+1492,How To Create a Website in a Weekend! (Project-Centered Course),3.3,180.0,Mixed,The State University of New York,Java
+1493,Web Design: Wireframes to Prototypes,4.9,42.0,Intermediate,California Institute of the Arts,Java
+1494,Introduction to HTML,4.6,26.0,Beginner,Coursera Project Network,Java
+1495,Spring - Ecosystem and Core,3.4,3.8,Intermediate,LearnQuest,Java
+1496,"Spring MVC, Spring Boot and Rest Controllers",4.0,2.4,Intermediate,LearnQuest,Java
+1497,Programming Mobile Applications for Android Handheld Systems: Part 1,4.6,77.0,Mixed,"University of Maryland, College Park",Java
+1498,"Coding for Designers, Managers, & Entrepreneurs III",4.9,2.4,Beginner,University of Virginia,Java
+1499,أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript,4.8,6.8,Mixed,University of London,Java
+1500,Snake game in Python: use Pygame to build your game,,,Intermediate,Coursera Project Network,Java
+1501,Bachelor of Science in Computer Science,,,,University of London,Java
+1502,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,,,,Universidad de los Andes,Java
+1503,Maestría en Ingeniería de Software,,,,Universidad de los Andes,Java
+1504,Maestría en Inteligencia Analítica de Datos,,,,Universidad de los Andes,Java
+1505,Cloud Application Development Foundations,4.7,81.0,Beginner,IBM,Java
+1506,Modern Application Development with Node.js on AWS,4.8,83.0,Beginner,Amazon Web Services,Java
+1507,UI / UX Design,4.7,210.0,Beginner,California Institute of the Arts,Java
+1508,Intellectual Property Law,4.8,24.0,Intermediate,University of Pennsylvania,Java
+1509,Programming with Google Go,4.6,50.0,Intermediate,"University of California, Irvine",Java
+1510,Django for Everybody,4.7,73.0,Intermediate,University of Michigan,Java
+1511,PostgreSQL for Everybody,4.8,15.0,Intermediate,University of Michigan,Java
+1512,Customer Experiences with Contact Center AI - Dialogflow ES,4.4,3.7,Intermediate,Google Cloud,Java
+1513,Extended Reality for Everybody,4.6,9.8,Beginner,University of Michigan,Java
+1514,Using Python to Access Web Data,4.8,550.0,Mixed,University of Michigan,Java
+1515,TensorFlow: Data and Deployment,4.6,40.0,Intermediate,DeepLearning.AI,Java
+1516,Recommender Systems,4.3,42.0,Intermediate,University of Minnesota,Java
+1517,Visual Elements of User Interface Design,4.7,160.0,Beginner,California Institute of the Arts,Java
+1518,User Interface Design,4.6,77.0,Intermediate,University of Minnesota,Java
+1519,IBM AI Enterprise Workflow,4.3,9.7,Advanced,IBM,Java
+1520,Materials Science: 10 Things Every Engineer Should Know,4.7,83.0,Mixed,"University of California, Davis",Java
+1521,Advanced Django: Mastering Django and Django Rest Framework,4.8,1.9,Advanced,Codio,Java
+1522,UX / UI: Fundamentos para o design de interface,4.5,45.0,Beginner,Universidade de São Paulo,Java
+1523,Introduction to Intellectual Property,4.8,17.0,Beginner,University of Pennsylvania,Java
+1524,Information Visualization,4.5,19.0,Beginner,New York University,Java
+1525,Full Stack Web Development en Español,4.2,37.0,Beginner,Universidad Austral,Java
+1526,Python Scripting for DevOps,4.2,3.4,Beginner,LearnQuest,Java
+1527,Object-Oriented Design,4.7,78.0,Intermediate,University of Alberta,Java
+1528,"Functions, Methods, and Interfaces in Go",4.6,17.0,Intermediate,"University of California, Irvine",Java
+1529,"Coding for Designers, Managers, and Entrepreneurs",4.1,9.4,Beginner,University of Virginia,Java
+1530,Developing Cloud Native Applications,4.2,6.8,Intermediate,IBM,Java
+1531,Desarrollo de aplicaciones móviles con Android,4.6,95.0,Intermediate,Universidad Nacional Autónoma de México,Java
+1532,Introdução ao Teste de Software,4.8,22.0,Beginner,Universidade de São Paulo,Java
+1533,Building Modern Node.js Applications on AWS,4.5,8.5,Intermediate,Amazon Web Services,Java
+1534,Internet Giants: The Law and Economics of Media Platforms,4.8,53.0,Mixed,The University of Chicago,Java
+1535,Developing Cloud Apps with Node.js and React,4.0,8.4,Intermediate,IBM,Java
+1536,Introduction to Programming and Animation with Alice,4.4,14.0,Beginner,Duke University,Java
+1537,Material Behavior,4.8,35.0,Mixed,Georgia Institute of Technology,Java
+1538,Building Test Automation Framework using Selenium and TestNG,4.6,2.9,Advanced,Coursera Project Network,Java
+1539,Transferencia tecnológica: De la investigación al mercado.,4.8,11.0,Beginner,Pontificia Universidad Católica de Chile,Java
+1540,Browser-based Models with TensorFlow.js,4.7,32.0,Intermediate,DeepLearning.AI,Java
+1541,Building a Dynamic Web App using PHP & MySQL,4.4,5.8,Beginner,Coursera Project Network,Java
+1542,Introduction to UI Design,4.7,60.0,Beginner,University of Minnesota,Java
+1543,Introduction to Recommender Systems: Non-Personalized and Content-Based,4.5,32.0,Intermediate,University of Minnesota,Java
+1544,JSON and Natural Language Processing in PostgreSQL,4.7,2.6,Intermediate,University of Michigan,Java
+1545,Build Your First React Website,4.4,10.0,Intermediate,Coursera Project Network,Java
+1546,User Experience & Interaction Design for AR/VR/MR/XR,4.7,3.5,Intermediate,University of Michigan,Java
+1547,Introduction to Front-end Development with ReactJS,4.4,9.4,Intermediate,Coursera Project Network,Java
+1548,Diseñando páginas web con Bootstrap 4,4.4,27.0,Beginner,Universidad Austral,Java
+1549,Build a Twitter Clone Front-End with ReactJS,4.6,,Intermediate,Coursera Project Network,Java
+1550,Data Pipelines with TensorFlow Data Services,4.4,16.0,Intermediate,DeepLearning.AI,Java
+1551,"A tanulás tanulása: Hatékony mentális eszközök, melyek segítenek megbirkózni a nehéz tantárgyakkal (Learning How to Learn)",4.9,6.9,Beginner,Deep Teaching Solutions,Java
+1552,Protecting Business Innovation,4.8,19.0,Beginner,The Hong Kong University of Science and Technology,Java
+1553,Full Stack Cloud Development Capstone Project,4.4,3.3,Intermediate,IBM,Java
+1554,Scheduling Selenium TestNG tests via Jenkins CI/CD tool,4.5,1.7,Beginner,Coursera Project Network,Java
+1555,Build a Full-Stack Server for API Requests - NodeJS and Pug,4.1,,Intermediate,Coursera Project Network,Java
+1556,Getting Started with Linux Terminal,4.6,2.6,Beginner,Coursera Project Network,Java
+1557,Identifying Security Vulnerabilities,4.6,9.1,Intermediate,"University of California, Davis",Java
+1558,Information Visualization: Programming with D3.js,4.5,8.8,Beginner,New York University,Java
+1559,Practical Introduction to the Command Line,4.5,6.1,Beginner,Coursera Project Network,Java
+1560,Data Structures and Performance,4.8,86.0,Intermediate,University of California San Diego,Java
+1561,AI Workflow: AI in Production,4.5,2.6,Advanced,IBM,Java
+1562,Web Design for Everybody Capstone,4.8,41.0,Mixed,University of Michigan,Java
+1563,Oracle SQL Basics,4.7,1.9,Beginner,LearnQuest,Java
+1564,Configure and Test Basic Network Connectivity,4.5,,Intermediate,Coursera Project Network,Java
+1565,AWS: Publish a NodeJS Website from Scratch,4.5,4.5,Beginner,Coursera Project Network,Java
+1566,Introduction to TestNG and Integration with Selenium,4.6,1.7,Beginner,Coursera Project Network,Java
+1567,Spring Boot Inversion of Control and Dependency Injection,4.6,,Intermediate,Coursera Project Network,Java
+1568,"Logging, Monitoring and Observability in Google Cloud",4.7,9.2,Beginner,Google Cloud,Java
+1569,Build Your First React Website (Part II),4.8,3.6,Intermediate,Coursera Project Network,Java
+1570,Операционные системы и вы: как стать опытным пользователем,5.0,,Beginner,Google,Java
+1571,How Google does Machine Learning en Español,4.6,6.2,Intermediate,Google Cloud,Java
+1572,Build a Website using React,4.1,,Intermediate,Coursera Project Network,Java
+1573,Virtual Agent Development in Dialogflow ES for Software Devs,4.4,,Intermediate,Google Cloud,Java
+1574,Create Your First NoSQL Database with MongoDB and Compass,4.6,2.8,Intermediate,Coursera Project Network,Java
+1575,Advanced Django: Advanced Django Rest Framework,,,Advanced,Codio,Java
+1576,Neural Network Visualizer Web App with Python,4.5,6.5,Intermediate,Coursera Project Network,Java
+1577,Automating Team Communication with Google Sheets and Apps Script,4.5,4.3,Intermediate,Coursera Project Network,Java
+1578,Practical Vim Editor Commands On Linux,4.5,4.0,Beginner,Coursera Project Network,Java
+1579,Build a Full Stack Twitter clone with Next.js,3.1,,Intermediate,Coursera Project Network,Java
+1580,Fundamentos de React Hooks,4.7,,Intermediate,Coursera Project Network,Java
+1581,Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia,4.9,1.9,Intermediate,Google Cloud,Java
+1582,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,11.0,Beginner,Universidad Austral,Java
+1583,DevOps and Build Automation with Python,4.0,,Beginner,LearnQuest,Java
+1584,Creando tu primera app con ReactJS,,,Beginner,Coursera Project Network,Java
+1585,Responsive Website Tutorial and Examples,4.2,35.0,Mixed,University of London,Java
+1586,Healthcare Entrepreneurship: Taking Ideas to Market,4.8,3.3,Intermediate,Imperial College London,Java
+1587,"Capstone MOOC for ""Android App Development""",4.2,9.8,Mixed,Vanderbilt University,Java
+1588,Introdução ao Desenvolvimento de Aplicativos Android,4.6,14.0,Intermediate,Universidade Estadual de Campinas,Java
+1589,Protecting Business Innovations via Patent,4.8,9.6,Beginner,The Hong Kong University of Science and Technology,Java
+1590,Command Line Interface (CLI) With Golang From Infosys,4.3,2.1,Advanced,Coursera Project Network,Java
+1591,Typescript - Learn the fundamentals,4.4,,Intermediate,Coursera Project Network,Java
+1592,Waits in Selenium Test Automation Tool,4.7,,Beginner,Coursera Project Network,Java
+1593,Capstone: Analyzing (Social) Network Data,4.7,5.7,Mixed,University of California San Diego,Java
+1594,Applying Data Structures to Manipulate Cleansed UN Data,4.3,3.2,Intermediate,Coursera Project Network,Java
+1595,Containerize a full-stack NodeJS application in Docker,4.5,2.7,Intermediate,Coursera Project Network,Java
+1596,Create User Directory and Files with Linux Commands,4.6,1.9,Intermediate,Coursera Project Network,Java
+1597,"Support Vector Machines in Python, From Start to Finish",4.6,4.6,Intermediate,Coursera Project Network,Java
+1598,Integrating Test-Driven Development into Your Workflow,3.6,,Intermediate,LearnQuest,Java
+1599,On Premises Capacity Upgrade and Monitoring with Google Cloud's Apigee API Platform,4.7,2.6,Beginner,Google Cloud,Java
+1600,Test-Driven Development Project: Random Person Generator,4.9,,Intermediate,LearnQuest,Java
+1601,Proyecto final - Construyendo una aplicación profesional con Android,4.7,4.7,Mixed,Universidad Nacional Autónoma de México,Java
+1602,CSS Animated Components with ReactJS,4.6,2.3,Intermediate,Coursera Project Network,Java
+1603,Build a Table Layout App in Android Studio,4.5,2.3,Beginner,Coursera Project Network,Java
+1604,Creating a Personal Site with Gatsby,4.5,1.7,Intermediate,Coursera Project Network,Java
+1605,Build an App in Android Studio using Read-Write,4.6,2.7,Intermediate,Coursera Project Network,Java
+1606,Build a Linear Layout App in Android Studio,4.5,2.9,Beginner,Coursera Project Network,Java
+1607,Metodologías ágiles de desarrollo de software Programa de Certificado MasterTrack®,,,,Universidad de los Andes,Java
+1608,Developing Applications with Google Cloud,4.7,590.0,Intermediate,Google Cloud,Java
+1609,Modern Application Development with Python on AWS,4.7,140.0,Beginner,Amazon Web Services,Java
+1610,Modern Application Development with .NET on AWS,4.8,78.0,Beginner,Amazon Web Services,Java
+1611,Introduction to Programming with MATLAB,4.8,430.0,Beginner,Vanderbilt University,Java
+1612,Front-End Web UI Frameworks and Tools: Bootstrap 4,4.8,250.0,Intermediate,The Hong Kong University of Science and Technology,Java
+1613,Getting Started with Go,4.6,46.0,Intermediate,"University of California, Irvine",Java
+1614,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),4.9,50.0,Mixed,Hebrew University of Jerusalem,Java
+1615,Functional Programming Principles in Scala,4.8,200.0,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1616,Introduction to CSS3,4.8,170.0,Mixed,University of Michigan,Java
+1617,Introduction to Software Testing,4.4,46.0,Intermediate,University of Minnesota,Java
+1618,Building Modern Python Applications on AWS,4.5,73.0,Intermediate,Amazon Web Services,Java
+1619,Introduction to Python,4.5,29.0,Beginner,Coursera Project Network,Java
+1620,Contact Center AI: Conversational Design Fundamentals,4.4,3.4,Beginner,Google Cloud,Java
+1621,Software Security,4.6,69.0,Mixed,"University of Maryland, College Park",Java
+1622,Software Architecture,4.5,42.0,Intermediate,University of Alberta,Java
+1623,Fundamentals of Network Communication,4.6,72.0,Intermediate,University of Colorado System,Java
+1624,Big Data Analysis with Scala and Spark,4.7,92.0,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1625,Design Patterns,4.7,54.0,Intermediate,University of Alberta,Java
+1626,Functional Program Design in Scala,4.5,57.0,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1627,Juniper Networks Junos Platform Automation and DevOps,3.4,,Beginner,Juniper Networks,Java
+1628,"Android App Components - Intents, Activities, and Broadcast Receivers",4.2,41.0,Mixed,Vanderbilt University,Java
+1629,VLSI CAD Part I: Logic,4.7,38.0,Intermediate,University of Illinois at Urbana-Champaign,Java
+1630,Virtual Agent Development in Dialogflow CX for Citizen Devs,4.6,,Intermediate,Google Cloud,Java
+1631,API Testing Using Rest Assured Test Automation Tool,4.6,2.3,Beginner,Coursera Project Network,Java
+1632,"App Deployment, Debugging, and Performance",4.6,20.0,Intermediate,Google Cloud,Java
+1633,Service-Oriented Architecture,4.5,30.0,Intermediate,University of Alberta,Java
+1634,VLSI CAD Part II: Layout,4.7,17.0,Intermediate,University of Illinois at Urbana-Champaign,Java
+1635,TDD – Desenvolvimento de Software Guiado por Testes,4.7,18.0,Intermediate,Instituto Tecnológico de Aeronáutica,Java
+1636,Princípios de Desenvolvimento Ágil de Software,4.6,18.0,Intermediate,Instituto Tecnológico de Aeronáutica,Java
+1637,Building Modern .NET Applications on AWS,5.0,1.9,Intermediate,Amazon Web Services,Java
+1638,Securing and Integrating Components of your Application,4.6,19.0,Intermediate,Google Cloud,Java
+1639,Contact Center AI: Operations and Implementation,4.6,,Intermediate,Google Cloud,Java
+1640,Engineering Practices for Building Quality Software,4.5,15.0,Intermediate,University of Minnesota,Java
+1641,Functional Programming Principles in Scala (Scala 2 version),4.8,1.7,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1642,MATLAB을 사용한 프로그래밍 소개,,,Beginner,Vanderbilt University,Java
+1643,Parallel programming (Scala 2 version),,,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1644,Virtual Agent Development in Dialogflow CX for Software Devs,3.4,,Intermediate,Google Cloud,Java
+1645,Advanced Styling with Responsive Design,4.7,94.0,Mixed,University of Michigan,Java
+1646,Responsive Web Design,4.6,80.0,Mixed,University of London,Java
+1647,Building API Test Automation Framework Using Rest Assured,,,Intermediate,Coursera Project Network,Java
+1648,Introduction to Node-red,4.8,,Beginner,Coursera Project Network,Java
+1649,Parallel programming,4.4,56.0,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1650,"Android App Components - Services, Local IPC, and Content Providers",4.3,32.0,Beginner,Vanderbilt University,Java
+1651,C#程序设计,4.6,7.6,Intermediate,Peking University,Java
+1652,Desenvolvimento Ágil com Padrões de Projeto,4.7,12.0,Intermediate,Instituto Tecnológico de Aeronáutica,Java
+1653,Build Your First Android App (Project-Centered Course),4.2,330.0,Mixed,CentraleSupélec,Java
+1654,Write a Mini Reservation Application with Kotlin,,,Intermediate,Coursera Project Network,Java
+1655,Введение в HTML5,,,Mixed,University of Michigan,Java
+1656,Virtual Agent Development in Dialogflow ES for Citizen Devs,,,Intermediate,Google Cloud,Java
+1657,Linux Tools for Developers,4.6,16.0,Beginner,The Linux Foundation,Java
+1658,Black-box and White-box Testing,3.3,8.8,Intermediate,University of Minnesota,Java
+1659,Introduction to Automated Analysis,4.2,6.7,Intermediate,University of Minnesota,Java
+1660,Use React with Express to build a Web Application,,,Intermediate,Coursera Project Network,Java
+1661,Build ATM User Interface using Routing in Angular,,,Beginner,Coursera Project Network,Java
+1662,Get Up and Running with TypeScript,4.2,,Beginner,Coursera Project Network,Java
+1663,Create a Web Link Preview with VueJS Components,,,Intermediate,Coursera Project Network,Java
+1664,"Coding for Designers, Managers, & Entrepreneurs II",4.3,2.6,Beginner,University of Virginia,Java
+1665,Wire Up an Auction Website with GraphQL,,,Intermediate,Coursera Project Network,Java
+1666,Absolute Basics of COBOL,,,Beginner,Coursera Project Network,Java
+1667,E-Commerce Payments Using Stripe and NodeJS,,,Intermediate,Coursera Project Network,Java
+1668,Build a Firebase Android Application,4.3,2.9,Intermediate,Coursera Project Network,Java
+1669,Access Maps in an Android Studio Project,,,Intermediate,Coursera Project Network,Java
+1670,Introduction to Meteor.js Development,4.6,43.0,Mixed,University of London,Java
+1671,Desarrollo de Videojuegos en Unity: Una Introducción,4.4,31.0,Beginner,Universidad de los Andes,Java
+1672,Build a Google Firebase Web Application,4.5,5.6,Intermediate,Coursera Project Network,Java
+1673,基于.Net的Web开发技术,4.7,1.8,Mixed,Xi'an Jiaotong University,Java
+1674,"Алгоритмы, часть I",,,Intermediate,Princeton University,Java
+1675,Improve Your Python Code Using Amazon CodeGuru,4.6,2.1,Intermediate,Amazon Web Services,Java
+1676,Introducción al HTML5,4.3,2.6,Mixed,University of Michigan,Java
+1677,Introduction to C Programming Variables Input Output,4.6,,Intermediate,Coursera Project Network,Java
+1678,Spring Data Repositories,,,Intermediate,LearnQuest,Java
+1679,Engineering Maintainable Android Apps,4.5,27.0,Mixed,Vanderbilt University,Java
+1680,"Desarrollo de Aplicaciones Mobile Multiplataforma con Nativescript, Angular y Redux",3.7,6.1,Beginner,Universidad Austral,Java
+1681,Overview of JUnit Testing,,,Intermediate,LearnQuest,Java
+1682,Software Design Methods and Tools,4.7,5.6,Intermediate,University of Colorado System,Java
+1683,Big Data Analysis with Scala and Spark (Scala 2 version),,,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1684,Hands-on Text Mining and Analytics,3.9,14.0,Intermediate,Yonsei University,Java
+1685,Introduction to C++ Programming: Build a Calculator,4.3,,Beginner,Coursera Project Network,Java
+1686,Arquitecturas de Big Data,,,Beginner,Universidad de los Andes,Java
+1687,Python Dynamic HTML Web Server,4.5,6.0,Beginner,Coursera Project Network,Java
+1688,Configuring Kotlin for Android with IntelliJ IDEA,,,Beginner,Coursera Project Network,Java
+1689,Build a Persistent Storage App in Android Studio,4.4,3.0,Beginner,Coursera Project Network,Java
+1690,Functional Program Design in Scala (Scala 2 version),,,Intermediate,École Polytechnique Fédérale de Lausanne,Java
+1691,"Application Deployment, Debug, Performance 日本語版",4.4,,Intermediate,Google Cloud,Java
+1692,Introduction to C++ Programming: Create a Tic-Tac-Toe Game,4.2,,Beginner,Coursera Project Network,Java
+1693,Create C Control Constructs using DevC++,,,Intermediate,Coursera Project Network,Java
+1694,Cypress end to end testing and intercepting network call,,,Advanced,Coursera Project Network,Java
+1695,Securing and Integrating Components of your Application 日本語版,4.4,,Intermediate,Google Cloud,Java
+1696,Prepared Statements and Stored Procedures,,,Beginner,LearnQuest,Java
+1697,Crea una aplicación web con Vue.js,,,Intermediate,Coursera Project Network,Java
+1698,Jakarta Persistence (JPA),,,Intermediate,LearnQuest,Java
+1699,Build an App in Android Studio using onTouch,4.5,,Intermediate,Coursera Project Network,Java
+1700,Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro,4.7,,Intermediate,Google Cloud,Java
+1701,Intro to Programming With C#: Build A Word Guessing Game,,,Beginner,Coursera Project Network,Java
+1702,Make a Bill Splitter App with AngularJS,,,Intermediate,Coursera Project Network,Java
+1703,Test and Debug Your Build with Visual Studio Code,,,Beginner,Coursera Project Network,Java
+1704,Build a Firebase Android Application (Part II),4.3,1.7,Advanced,Coursera Project Network,Java
+1705,Build an App in Android Studio using Activities,4.4,1.6,Intermediate,Coursera Project Network,Java
+1706,Android Programming for Beginners - A simple BMI calculator,4.9,,Beginner,Coursera Project Network,Java
+1707,Build Your Portfolio Website with Angular JS,,,Intermediate,Coursera Project Network,Java
+1708,Créer une Fonction Personnalisée en JS et Google App Script,,,Beginner,Coursera Project Network,Java
+1709,Build a Relative Layout App in Android Studio,4.5,2.2,Beginner,Coursera Project Network,Java
+1710,Crea tu primera página web en HTML,4.7,,Beginner,Coursera Project Network,Java
+1711,Test Your Build in the Debugger with IntelliJ IDEA,,,Intermediate,Coursera Project Network,Java
+1712,"App Deployment, Debugging, and Performance en Français",,,Intermediate,Google Cloud,Java
+1713,Process File Data using C Pointers,,,Intermediate,Coursera Project Network,Java
+1714,Datos no tradicionales en repositorios NoSQL,,,Beginner,Universidad de los Andes,Java
+1715,Build an Online Auction Server with ExpressJS,,,Intermediate,Coursera Project Network,Java
+1716,Debugging support for the Node.js runtime in VScode,,,Intermediate,Coursera Project Network,Java
+1717,Simulate the Stock Market with AngularJS Components,,,Intermediate,Coursera Project Network,Java
+1718,Access NFC in an Android Studio Project,,,Intermediate,Coursera Project Network,Java
+1719,Build CSS3 Flexbox Holy Grail Layout in Angular,,,Beginner,Coursera Project Network,Java
