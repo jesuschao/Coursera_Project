@@ -1,0 +1,1271 @@
+,course,rating,students,level,university,skills
+0,Learn SQL Basics for Data Science,4.6,400.0,Beginner,"University of California, Davis",MySQL
+1,Excel to MySQL: Analytic Techniques for Business,4.6,660.0,Beginner,Duke University,MySQL
+2,Introduction to Structured Query Language (SQL),4.8,140.0,Intermediate,University of Michigan,MySQL
+3,Managing Big Data with MySQL,4.7,170.0,Mixed,Duke University,MySQL
+4,Building a Dynamic Web App using PHP & MySQL,4.4,5.8,Beginner,Coursera Project Network,MySQL
+5,Introduction to Relational Database and SQL,4.6,28.0,Beginner,Coursera Project Network,MySQL
+6,SQL for Data Science,4.6,390.0,Beginner,"University of California, Davis",MySQL
+7,Complex Retrieval Queries in MySQL Workbench,4.3,,Intermediate,Coursera Project Network,MySQL
+8,Building a Company’s database using MySQL and SQL,4.5,,Beginner,Coursera Project Network,MySQL
+9,Introduction to Relational Databases (RDBMS),4.6,8.6,Beginner,IBM,MySQL
+10,Create a Python Application using MySQL,4.5,5.0,Intermediate,Coursera Project Network,MySQL
+11,Analyzing Big Data with SQL,4.9,22.0,Beginner,Cloudera,MySQL
+12,Create a Database with the Modeling Tool in MySQL Workbench,4.7,1.9,Beginner,Coursera Project Network,MySQL
+13,Clean Data in SQL using MySQL Workbench,,,Intermediate,Coursera Project Network,MySQL
+14,Data Science Math Skills,4.5,300.0,Beginner,Duke University,MySQL
+15,Simple Retrieval Queries in MySQL Workbench,4.6,2.0,Beginner,Coursera Project Network,MySQL
+16,Build Messenger Clone Using PHP and MySQL,,,Intermediate,Coursera Project Network,MySQL
+17,Working with MySQL DB instance using AWS RDS,4.7,,Beginner,Coursera Project Network,MySQL
+18,Using MySQL Database with PHP,,,Intermediate,Coursera Project Network,MySQL
+19,MySQL with Information Technology,4.9,,Beginner,Coursera Project Network,MySQL
+20,Data Manipulation and Management using MYSQL Workbench,,,Beginner,Coursera Project Network,MySQL
+21,Sort and Filter Data in SQL using MySQL Workbench,,,Intermediate,Coursera Project Network,MySQL
+22,Database Creation and Modeling using MYSQL Workbench,5.0,,Beginner,Coursera Project Network,MySQL
+23,MySQL تكنولوجيا المعلومات مع,,,Beginner,Coursera Project Network,MySQL
+24,MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام,,,Beginner,Coursera Project Network,MySQL
+25,Aggregate Data in SQL using MySQL Workbench,,,Intermediate,Coursera Project Network,MySQL
+26,Validate Data in SQL using MySQL Workbench,,,Intermediate,Coursera Project Network,MySQL
+27,Calculate Data in SQL using MySQL Workbench,,,Beginner,Coursera Project Network,MySQL
+28,Relational Databases - MySQL - قواعد البيانات العلائقية,,,Beginner,Coursera Project Network,MySQL
+29,Microsoft Azure Relational Databases,4.9,,Beginner,Microsoft,MySQL
+30,Deploy a Wordpress Website in AWS EC2,4.7,1.8,Intermediate,Coursera Project Network,MySQL
+31,Database Management Essentials,4.6,170.0,Intermediate,University of Colorado System,MySQL
+32,Intermediate Relational Database and SQL,4.4,11.0,Intermediate,Coursera Project Network,MySQL
+33,Building Web Applications in PHP,4.7,130.0,Intermediate,University of Michigan,MySQL
+34,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,4.5,Intermediate,Google Cloud,MySQL
+35,"Data Warehouse Concepts, Design, and Data Integration",4.4,56.0,Mixed,University of Colorado System,MySQL
+36,Building Database Applications in PHP,4.9,41.0,Intermediate,University of Michigan,MySQL
+37,Relational database systems,4.4,20.0,Intermediate,Universidad Nacional Autónoma de México,MySQL
+38,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2.0,Intermediate,Google Cloud,MySQL
+39,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18.0,Intermediate,Google Cloud,MySQL
+40,SQL Joins,4.7,2.9,Beginner,Coursera Project Network,MySQL
+41,Data-Driven Testing (via Database) with Selenium & TestNG,4.9,,Intermediate,Coursera Project Network,MySQL
+42,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2.0,Intermediate,Google Cloud,MySQL
+43,Business intelligence and data warehousing,3.9,11.0,Intermediate,Universidad Nacional Autónoma de México,MySQL
+44,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13.0,Mixed,Duke University,MySQL
+45,Cloud Computing Security,4.6,13.0,Beginner,University of Colorado System,MySQL
+46,Introduction To Java Database Connectivity - JDBC,4.3,,Advanced,Coursera Project Network,MySQL
+47,Introducción a las bases relacionales SQL,,,Beginner,Coursera Project Network,MySQL
+48,Learn PHP Database Connectivity,4.7,,Intermediate,Coursera Project Network,MySQL
+49,How to Use SQL with Large Datasets,,,Intermediate,Coursera Project Network,MySQL
+50,Create your first Amazon Aurora Database in AWS,4.8,,Intermediate,Coursera Project Network,MySQL
+51,تعليم مبادئ ال SQL Syntax,,,Beginner,Coursera Project Network,MySQL
+52,Combine Multiple Pieces of Data in SQL,,,Intermediate,Coursera Project Network,MySQL
+53,Data-Driven Testing (via Database) with Selenium & Nunit,,,Intermediate,Coursera Project Network,MySQL
+54,Set up your dev environment for LAMP web developers on Linux,,,Intermediate,Coursera Project Network,MySQL
+55,Introdução à base de dados relacionais e SQL,,,Beginner,Coursera Project Network,MySQL
+56,Deploy a Complete Wordpress Video Blog in Microsoft Azure,,,Intermediate,Coursera Project Network,MySQL
+57,Introduction to Forensic Science,4.9,110.0,Mixed,"Nanyang Technological University, Singapore",MySQL
+58,Excel Skills for Business: Intermediate II,4.8,150.0,Intermediate,Macquarie University,MySQL
+59,Introduction to Economic Theories,4.5,52.0,Beginner,Erasmus University Rotterdam,MySQL
+60,"Server-side Development with NodeJS, Express and MongoDB",4.7,130.0,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+61,Introduction to MongoDB,4.2,52.0,Intermediate,MongoDB Inc.,MongoDB
+62,Introducción a bases de datos NoSQL con MongoDB,,,Beginner,Coursera Project Network,MongoDB
+63,Create a C# Application to process MongoDB Data,,,Intermediate,Coursera Project Network,MongoDB
+64,Create a Python Application using PyMongo and MongoDB Database,4.4,3.2,Intermediate,Coursera Project Network,MongoDB
+65,MongoDB Aggregation Framework,4.5,8.7,Intermediate,MongoDB Inc.,MongoDB
+66,Use the Apache Spark Structured Streaming API with MongoDB,,,Intermediate,Coursera Project Network,MongoDB
+67,Web Application Development with JavaScript and MongoDB,4.6,59.0,Mixed,University of London,MongoDB
+68,Create Your First NoSQL Database with MongoDB and Compass,4.6,2.8,Intermediate,Coursera Project Network,MongoDB
+69,CRUD Operations using MongoDB NoSQL,4.4,1.7,Beginner,Coursera Project Network,MongoDB
+70,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,11.0,Beginner,Universidad Austral,MongoDB
+71,Create Fault Tolerant MongoDB Cluster,5.0,,Intermediate,Coursera Project Network,MongoDB
+72,"Crea ambientes MERN (MongoDB, Express, React, Node) en Linux",,,Intermediate,Coursera Project Network,MongoDB
+73,Introduction to NoSQL Databases,4.6,6.8,Beginner,IBM,MongoDB
+74,Designing data-intensive applications,4.5,6.2,Intermediate,Universidad Nacional Autónoma de México,MongoDB
+75,Full-Stack Web Development with React,4.7,360.0,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+76,Full Stack Web Development with Angular,4.7,350.0,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+77,Build a Node Server backend with Express,,,Intermediate,Coursera Project Network,MongoDB
+78,Responsive Website Tutorial and Examples,4.2,35.0,Mixed,University of London,MongoDB
+79,"NoSQL, Big Data, and Spark Foundations",4.3,11.0,Beginner,IBM,MongoDB
+80,Responsive Website Development and Design,4.5,250.0,Beginner,University of London,MongoDB
+81,Network Security & Database Vulnerabilities,4.7,46.0,Beginner,IBM,MongoDB
+82,History of Russia,4.4,,Beginner,Saint Petersburg State University,MongoDB
+83,Introduction to Meteor.js Development,4.6,43.0,Mixed,University of London,MongoDB
+84,Working with Big Data,,,Intermediate,Coursera Project Network,MongoDB
+85,Containerize a full-stack NodeJS application in Docker,4.5,2.7,Intermediate,Coursera Project Network,MongoDB
+86,The amazing world of the ethnic groups of Yunnan Province,,,Intermediate,Shanghai Jiao Tong University,MongoDB
+87,بناء Backend لنسخة من Twitter,,,Beginner,Coursera Project Network,MongoDB
+88,Build a Full Stack App using React and Express,,,Intermediate,Coursera Project Network,MongoDB
+89,Microeconomics: When Markets Fail,4.8,29.0,Mixed,University of Pennsylvania,MongoDB
+90,إلهام الأفراد وتحفيزهم,,,Mixed,University of Michigan,MongoDB
+91,Microeconomics: The Power of Markets,4.7,50.0,Mixed,University of Pennsylvania,MongoDB
+92,Cómo inspirar y a motivar personas,,,Mixed,University of Michigan,MongoDB
+93,Inspiração e motivação de indivíduos,,,Mixed,University of Michigan,MongoDB
+94,Business Analytics,4.6,370.0,Beginner,University of Pennsylvania,MongoDB
+95,Leading People and Teams,4.7,350.0,Beginner,University of Michigan,MongoDB
+96,Marketing Mix Implementation,4.7,160.0,Beginner,IE Business School,MongoDB
+97,Business English Communication Skills,4.8,240.0,Intermediate,University of Washington,MongoDB
+98,Business English: Planning & Negotiating,4.8,45.0,Intermediate,University of Washington,MongoDB
+99,Accounting Analytics,4.5,95.0,Mixed,University of Pennsylvania,MongoDB
+100,Inspiring and Motivating Individuals,4.8,170.0,Mixed,University of Michigan,MongoDB
+101,Brand and Product Management,4.7,82.0,Mixed,IE Business School,MongoDB
+102,Business English: Networking,4.8,170.0,Intermediate,University of Washington,MongoDB
+103,Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails,4.4,50.0,Intermediate,University of Washington,MongoDB
+104,"Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails",4.5,28.0,Intermediate,University of Washington,MongoDB
+105,Lesson | Business English Skills: Introducing Yourself in Business Settings,4.3,21.0,Intermediate,University of Washington,MongoDB
+106,Migrating a Monolithic Website to Microservices on Google Kubernetes Engine,4.7,,Intermediate,Google Cloud,MongoDB
+107,Create a C# UI on Linux using MonoDevelop,,,Beginner,Coursera Project Network,MongoDB
+108,Design of Experiments,4.7,12.0,Beginner,Arizona State University,MongoDB
+109,Spring Framework,3.7,5.6,Beginner,LearnQuest,MongoDB
+110,Building Containerized Applications on AWS,4.5,20.0,Mixed,Amazon Web Services,MongoDB
+111,Internet Giants: The Law and Economics of Media Platforms,4.8,53.0,Mixed,The University of Chicago,MongoDB
+112,Introduction to solar cells,4.8,53.0,Beginner,Technical University of Denmark (DTU),MongoDB
+113,Natural Gas,4.7,28.0,Beginner,University at Buffalo,MongoDB
+114,Smart Working: Lavoro agile e Business English,,,Beginner,Università di Napoli Federico II,MongoDB
+115,Real-Time Embedded Systems Theory and Analysis,4.4,3.4,Advanced,University of Colorado Boulder,MongoDB
+116,Basic Cryptography and Programming with Crypto API,4.3,11.0,Intermediate,University of Colorado System,MongoDB
+117,Administrasi Sistem dan Layanan Infrastruktur TI,5.0,,Beginner,Google,MongoDB
+118,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya,4.9,,Beginner,Google,MongoDB
+119,结构生物化学（Structural Biochemistry),4.8,12.0,Mixed,Nanjing University,MongoDB
+120,Spring - Cloud Overview,4.5,,Intermediate,LearnQuest,MongoDB
+121,IBM Data Topology,4.8,1.5,Intermediate,IBM,MongoDB
+122,The Power of Markets III: Input Markets and Promoting Efficiency,4.8,4.3,Mixed,University of Rochester,MongoDB
+123,Customizing color pickers and swatches in Adobe Photoshop,,,Beginner,Coursera Project Network,MongoDB
+124,Creating Azure Serverless Functions in a Real-World Scenario,,,Intermediate,Coursera Project Network,MongoDB
+125,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,4.7,14.0,Beginner,Tecnológico de Monterrey,MongoDB
+126,Digital Marketing for E-commerce,4.4,2.3,Beginner,Universidad de Palermo,MongoDB
+127,Foundations of Healthcare Systems Engineering,4.6,5.2,Mixed,Johns Hopkins University,MongoDB
+128,Experimental Design Basics,4.7,11.0,Intermediate,Arizona State University,MongoDB
+129,Diseño instruccional para el aprendizaje activo,4.7,11.0,Beginner,Tecnológico de Monterrey,MongoDB
+130,E-Business: Negocios Online,4.6,6.9,Beginner,Universidad de Palermo,MongoDB
+131,Factorial and Fractional Factorial Designs,4.8,3.3,Intermediate,Arizona State University,MongoDB
+132,La formación del pensamiento crítico en la era digital,4.8,,Beginner,Universitat Autònoma de Barcelona,MongoDB
+133,"Response Surfaces, Mixtures, and Model Building",4.7,2.5,Intermediate,Arizona State University,MongoDB
+134,"Random Models, Nested and Split-plot Designs",4.6,2.0,Intermediate,Arizona State University,MongoDB
+135,Modelos de diseño instruccional para ambientes digitales,4.7,4.7,Beginner,Tecnológico de Monterrey,MongoDB
+136,Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales,4.6,2.8,Beginner,Tecnológico de Monterrey,MongoDB
+137,UX and Interface Design for Embedded Systems,4.0,2.7,Intermediate,University of Colorado Boulder,MongoDB
+138,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,,Intermediate,University of Colorado Boulder,MongoDB
+139,Rapid Prototyping of Embedded Interface Designs,,,Intermediate,University of Colorado Boulder,MongoDB
+140,"Oralpha: Literacy for new citizens, a course for trainers",,,Beginner,Universitat Autònoma de Barcelona,MongoDB
+141,Embedded Interface Design,3.7,4.2,Intermediate,University of Colorado Boulder,MongoDB
+142,Master of Science in Machine Learning and Data Science,,,,Imperial College London,MongoDB
+143,Blockchain,4.6,190.0,Intermediate,University at Buffalo,MongoDB
+144,Photography Basics and Beyond: From Smartphone to DSLR,4.7,270.0,Beginner,Michigan State University,MongoDB
+145,Social Media Management,4.9,70.0,Beginner,Meta,MongoDB
+146,International Humanitarian Law in Theory and Practice,4.8,41.0,Beginner,Universiteit Leiden,MongoDB
+147,Healthcare IT Support,4.7,7.5,Beginner,Johns Hopkins University,MongoDB
+148,Precision Medicine,4.0,7.5,Intermediate,University of Geneva,MongoDB
+149,Suporte em TI do Google,4.9,18.0,Beginner,Cresça com o Google,MongoDB
+150,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,4.6,44.0,Intermediate,HEC Paris,MongoDB
+151,Electric Vehicles and Mobility,4.5,35.0,Beginner,École des Ponts ParisTech,MongoDB
+152,Diabetes – the Essential Facts,4.7,59.0,Beginner,University of Copenhagen,MongoDB
+153,Negociações de sucesso: estratégias e habilidades essenciais (em Português),4.9,70.0,Mixed,University of Michigan,MongoDB
+154,Leadership in 21st Century Organizations,4.7,58.0,Mixed,Copenhagen Business School,MongoDB
+155,"Faster Together, Enhancing the Recruitment of Minorities in Clinical Trials",4.8,2.5,Beginner,Vanderbilt University,MongoDB
+156,Designing Effective Science Communication,4.5,,Beginner,University of Colorado Boulder,MongoDB
+157,Marketing de Mídias Sociais do Facebook,4.8,,Beginner,Meta,MongoDB
+158,Data and Urban Governance,,,Beginner,Sciences Po,MongoDB
+159,Relational Database Administration (DBA),5.0,2.2,Beginner,IBM,MongoDB
+160,"Impacting the Opioid Crisis: Prevention, Education, and Practice for Non-Prescribing Providers",4.9,3.6,Beginner,University of Michigan,MongoDB
+161,Trademark Law,4.8,6.1,Mixed,University of Pennsylvania,MongoDB
+162,Inteligência Artificial Aplicada ao CRM,,,Beginner,Fundação Instituto de Administração,MongoDB
+163,Economic systems in different countries of the world,,,Beginner,National Research Tomsk State University,MongoDB
+164,Writing and Editing: Drafting,4.8,12.0,Beginner,University of Michigan,MongoDB
+165,Gestão de produtos digitais: Princípios básicos modernos,4.9,,Beginner,University of Virginia,MongoDB
+166,Life After COVID-19: Get Ready for our Post-Pandemic Future,4.8,4.8,Beginner,Institute for the Future,MongoDB
+167,Kids with Cancer Still Need School: The Providers Role,,,Intermediate,Johns Hopkins University,MongoDB
+168,When Disaster Meets Conflict,4.8,3.5,Intermediate,Erasmus University Rotterdam,MongoDB
+169,"Professional development: Improve yourself, always",4.8,17.0,Mixed,Macquarie University,MongoDB
+170,PrEParing: PrEP for Providers and Patients,4.7,5.4,Beginner,Johns Hopkins University,MongoDB
+171,Digital Business - Understand the digital world,4.4,,Mixed,Institut Mines-Télécom,MongoDB
+172,Operations and Patient Safety for Healthcare IT Staff,4.8,2.3,Mixed,Johns Hopkins University,MongoDB
+173,"Career planning: Your career, your life",4.8,7.5,Mixed,Macquarie University,MongoDB
+174,Strategic Career Self-Management,4.5,37.0,Mixed,The State University of New York,MongoDB
+175,How to Use the Lean Canvas to Validate Your Business Model,,,Intermediate,Coursera Project Network,MongoDB
+176,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51.0,Intermediate,The State University of New York,MongoDB
+177,Russian Invasion of Ukraine Teach-Out,,,Beginner,University of Michigan,MongoDB
+178,NoSQL systems,4.3,9.8,Intermediate,Universidad Nacional Autónoma de México,MongoDB
+179,Giving 2.0: The MOOC,4.6,30.0,Mixed,Stanford University,MongoDB
+180,PrEParing: PrEP for Providers and Patients,4.7,5.4,Beginner,Johns Hopkins University,MongoDB
+181,Digital Business - Understand the digital world,4.4,,Mixed,Institut Mines-Télécom,MongoDB
+182,Operations and Patient Safety for Healthcare IT Staff,4.8,2.3,Mixed,Johns Hopkins University,MongoDB
+183,"Career planning: Your career, your life",4.8,7.5,Mixed,Macquarie University,MongoDB
+184,Strategic Career Self-Management,4.5,37.0,Mixed,The State University of New York,MongoDB
+185,How to Use the Lean Canvas to Validate Your Business Model,,,Intermediate,Coursera Project Network,MongoDB
+186,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51.0,Intermediate,The State University of New York,MongoDB
+187,Russian Invasion of Ukraine Teach-Out,,,Beginner,University of Michigan,MongoDB
+188,NoSQL systems,4.3,9.8,Intermediate,Universidad Nacional Autónoma de México,MongoDB
+189,Giving 2.0: The MOOC,4.6,30.0,Mixed,Stanford University,MongoDB
+190,Explorando os recursos educacionais da Khan Academy,4.8,6.5,Mixed,Fundação Lemann,MongoDB
+191,Business Transformation with Google Cloud em Português,4.9,,Beginner,Google Cloud,MongoDB
+192,"Gestão de Stakeholders, Ética e Sustentabilidade Empresarial",,,Beginner,Fundação Instituto de Administração,MongoDB
+193,Vieses Inconscientes e Comportamentos,,,Beginner,Fundação Instituto de Administração,MongoDB
+194,Validating Your Business Model with Innovator’s Canvas,,,Intermediate,Coursera Project Network,MongoDB
+195,Fundamentos de IA Aplicados ao CRM,,,Beginner,Fundação Instituto de Administração,MongoDB
+196,Conclusão do Marketing de Mídias Sociais do Facebook,,,Beginner,Meta,MongoDB
+197,Vozes da Mudança Social,4.8,,Beginner,Laureate Education,MongoDB
+198,Introdução a Mapas de Relação com Kumu,,,Beginner,Coursera Project Network,MongoDB
+199,Fundamentos da Gestão do Sucesso do Cliente,,,Beginner,Fundação Instituto de Administração,MongoDB
+200,Data Visualization with Tableau,4.5,170.0,Beginner,"University of California, Davis",Tableau
+201,Google Data Analytics,4.8,740.0,Beginner,Google,Tableau
+202,Data Visualization and Communication with Tableau,4.7,190.0,Mixed,Duke University,Tableau
+203,Excel to MySQL: Analytic Techniques for Business,4.6,660.0,Beginner,Duke University,Tableau
+204,Анализ и визуализация данных в Tableau,4.8,,Beginner,Moscow Institute of Physics and Technology,Tableau
+205,Fundamentals of Visualization with Tableau,4.5,150.0,Beginner,"University of California, Davis",Tableau
+206,Visualizing Citibike Trips with Tableau,4.6,17.0,Beginner,Coursera Project Network,Tableau
+207,Creating Dashboards and Storytelling with Tableau,4.6,41.0,Beginner,"University of California, Davis",Tableau
+208,Use Tableau for Your Data Science Workflow,4.6,,Beginner,"University of California, Irvine",Tableau
+209,Advanced Business Analytics,4.6,210.0,Intermediate,University of Colorado Boulder,Tableau
+210,Create a Big Number KPI Dashboard in Tableau Public,3.4,,Intermediate,Coursera Project Network,Tableau
+211,Creating an Interactive KPI Management Dashboard in Tableau,4.3,,Beginner,Coursera Project Network,Tableau
+212,Analyze City Data Using R and Tableau,4.0,,Intermediate,University of Illinois at Urbana-Champaign,Tableau
+213,Data Visualization with Tableau Project,4.6,24.0,Intermediate,"University of California, Davis",Tableau
+214,Fundamentos de la visualización de datos con Tableau,4.7,,Beginner,Universidad Austral,Tableau
+215,Principios esenciales de diseño en Tableau,4.3,,Beginner,Universidad Austral,Tableau
+216,Share Data Through the Art of Visualization,4.5,100.0,Beginner,Google,Tableau
+217,Master the Art of Data Visualization With Tableau Public,4.2,,Intermediate,Coursera Project Network,Tableau
+218,Create Geovisualizations in Tableau,,,Intermediate,Coursera Project Network,Tableau
+219,Business Intelligence con la Product Suite di Tableau,,,Advanced,Università di Napoli Federico II,Tableau
+220,Introduction to Accounting Data Analytics and Visualization,4.8,20.0,Beginner,University of Illinois at Urbana-Champaign,Tableau
+221,Подготовка и анализ данных в Tableau,,,Advanced,Moscow Institute of Physics and Technology,Tableau
+222,Visual Analytics with Tableau,4.6,44.0,Beginner,"University of California, Davis",Tableau
+223,Essential Design Principles for Tableau,4.4,48.0,Beginner,"University of California, Davis",Tableau
+224,Create Interactive Graphs in Tableau,,,Intermediate,Coursera Project Network,Tableau
+225,Building Stock Returns Heatmap with Tableau,4.6,2.5,Intermediate,Coursera Project Network,Tableau
+226,Analyze Digital Marketing Spend in Tableau,3.0,,Intermediate,Coursera Project Network,Tableau
+227,Create a Story in Tableau Public,4.5,,Intermediate,Coursera Project Network,Tableau
+228,Tableau Public for Project Management and Beyond,4.3,4.1,Beginner,Coursera Project Network,Tableau
+229,Быстрый старт с Tableau Desktop,4.7,,Beginner,Moscow Institute of Physics and Technology,Tableau
+230,Tableau для рабочего процесса в анализе данных,,,Intermediate,E-Learning Development Fund,Tableau
+231,Data Visualization: Analisi dei dati con Tableau,,,Beginner,Università di Napoli Federico II,Tableau
+232,Introduzione alla Data Visualization con Tableau,,,Beginner,Università di Napoli Federico II,Tableau
+233,Проектирование интерактивных дашбордов в Tableau,,,Intermediate,Moscow Institute of Physics and Technology,Tableau
+234,Google Data Studio - Création de Tableaux de Bords Interactifs,4.4,2.8,Intermediate,Coursera Project Network,Tableau
+235,Creating an Interactive Graph with Tableau Public,4.6,,Beginner,Coursera Project Network,Tableau
+236,Building Candlestick Charts with Tableau,4.3,3.9,Beginner,Coursera Project Network,Tableau
+237,How To Create A Sales Forecast In Tableau,,,Intermediate,Coursera Project Network,Tableau
+238,Data Visualization e manipolazione dei dati con Tableau,,,Intermediate,Università di Napoli Federico II,Tableau
+239,Визуализация и презентация результатов в Tableau,,,Beginner,E-Learning Development Fund,Tableau
+240,How to Create a Gantt Chart in Tableau,,,Intermediate,Coursera Project Network,Tableau
+241,Управление данными и их анализ в Tableau,,,Beginner,E-Learning Development Fund,Tableau
+242,نظره عامة عن البيانات المصورة باستخدام Tableau,,,Beginner,Coursera Project Network,Tableau
+243,Tableau в анализе данных. Финальный проект,,,Intermediate,E-Learning Development Fund,Tableau
+244,How to Visualize Research Data in Tableau,,,Intermediate,Coursera Project Network,Tableau
+245,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13.0,Mixed,Duke University,Tableau
+246,Разбираем процесс анализа данных,,,Beginner,E-Learning Development Fund,Tableau
+247,"Foundations: Data, Data, Everywhere",4.8,710.0,Beginner,Google,Tableau
+248,Facebook Marketing Analytics,4.7,16.0,Beginner,Meta,Tableau
+249,"Aspectos básicos: Datos, datos, en todas partes",4.5,,Beginner,Google,Tableau
+250,Introduction to Data Analytics,3.2,4.5,Beginner,Meta,Tableau
+251,Statistics for Marketing,4.9,2.1,Beginner,Meta,Tableau
+252,Data Analysis and Visualization,4.5,4.0,Beginner,University at Buffalo,Tableau
+253,"Grundlagen: Daten, überall Daten",,,Beginner,Google,Tableau
+254,Data Visualization Best Practices,4.6,,Mixed,"University of California, Irvine",Tableau
+255,Data Storytelling,,,Mixed,"University of California, Irvine",Tableau
+256,Intro to TensorFlow en Français,3.3,,Intermediate,Google Cloud,Tableau
+257,Compartir datos a través del arte de la visualización,,,Beginner,Google,Tableau
+258,Introduction à l'analyse de données à l'aide d'Excel,,,Mixed,Rice University,Tableau
+259,Exploration et production de données pour les entreprises,,,Beginner,University of Illinois at Urbana-Champaign,Tableau
+260,Ebola : Vaincre ensemble !,4.4,5.3,Mixed,University of Geneva,Tableau
+261,Understanding Your Google Cloud Costs en Français,,,Beginner,Google Cloud,Tableau
+262,Tout Pour Démarrer avec RStudio,,,Beginner,Coursera Project Network,Tableau
+263,Choosing Which Method Is Best For Illustrating Data,,,Beginner,Coursera Project Network,Tableau
+264,Surveiller un hôte Linux avec Prometheus-Grafana dans Docker,,,Intermediate,Coursera Project Network,Tableau
+265,Créer un ingress controller dans Kubernetes avec Traefik,,,Intermediate,Coursera Project Network,Tableau
+266,Créer un Reverse Proxy pour conteneurs Docker avec Traefik,,,Intermediate,Coursera Project Network,Tableau
+267,Utilisation et gestion des pointeurs avec la Programmation C,,,Intermediate,Coursera Project Network,Tableau
+268,Scripting Bash - Découverte du Langage de Programmation,4.7,,Intermediate,Coursera Project Network,Tableau
+269,Quelques instructions en PHP,,,Beginner,Coursera Project Network,Tableau
+270,Python for Everybody,4.8,2700.0,Beginner,University of Michigan,Python
+271,Google IT Automation with Python,4.7,600.0,Beginner,Google,Python
+272,Python 3 Programming,4.7,350.0,Beginner,University of Michigan,Python
+273,Crash Course on Python,4.8,520.0,Beginner,Google,Python
+274,Data Science Fundamentals with Python and SQL,4.6,570.0,Beginner,IBM,Python
+275,Applied Data Science with Python,4.5,800.0,Intermediate,University of Michigan,Python
+276,Programming for Everybody (Getting Started with Python),4.8,2500.0,Mixed,University of Michigan,Python
+277,"Python for Data Science, AI & Development",4.6,380.0,Beginner,IBM,Python
+278,IBM Data Science,4.6,1000.0,Beginner,IBM,Python
+279,Introduction to Programming with Python and Java,4.4,35.0,Beginner,University of Pennsylvania,Python
+280,IBM DevOps and Software Engineering,4.6,470.0,Beginner,IBM,Python
+281,Bachelor of Science in Computer Science,,,,University of London,Python
+282,Программирование на Python,4.5,80.0,Intermediate,Moscow Institute of Physics and Technology,Python
+283,Python Basics,4.8,300.0,Beginner,University of Michigan,Python
+284,Statistics with Python,4.6,110.0,Beginner,University of Michigan,Python
+285,Data Structures and Algorithms,4.6,550.0,Intermediate,University of California San Diego,Python
+286,Master of Science in Data Science,,,,University of Colorado Boulder,Python
+287,Introduction to Scripting in Python,4.7,110.0,Beginner,Rice University,Python
+288,IBM Data Analyst,4.6,720.0,Beginner,IBM,Python
+289,Data Science Foundations: Data Structures and Algorithms,4.6,12.0,Advanced,University of Colorado Boulder,Python
+290,Django for Everybody,4.7,73.0,Intermediate,University of Michigan,Python
+291,Python for Data Analysis: Pandas & NumPy,4.4,3.9,Beginner,Coursera Project Network,Python
+292,Master of Science in Machine Learning and Data Science,,,,Imperial College London,Python
+293,Python and Statistics for Financial Analysis,4.4,120.0,Intermediate,The Hong Kong University of Science and Technology,Python
+294,Python for Cybersecurity,4.4,6.5,Intermediate,Infosec,Python
+295,Python Scripting for DevOps,4.2,3.4,Beginner,LearnQuest,Python
+296,Introduction to Python Programming,4.4,24.0,Beginner,University of Pennsylvania,Python
+297,Master of Computer and Information Technology,,,,University of Pennsylvania,Python
+298,Introduction to Python,4.5,29.0,Beginner,Coursera Project Network,Python
+299,Data Science for Investment Professionals,4.9,1.5,Beginner,CFA Institute,Python
+300,Advanced Data Science with IBM,4.3,110.0,Advanced,IBM,Python
+301,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.4,200.0,Beginner,Pontificia Universidad Católica de Chile,Python
+302,IBM AI Engineering,4.6,300.0,Intermediate,IBM,Python
+303,Learn to Program: The Fundamentals,4.7,280.0,Beginner,University of Toronto,Python
+304,Modern Application Development with Python on AWS,4.7,140.0,Beginner,Amazon Web Services,Python
+305,Programming in Python: A Hands-on Introduction,4.5,5.2,Beginner,Codio,Python
+306,Python Data Products for Predictive Analytics,4.2,25.0,Intermediate,University of California San Diego,Python
+307,Python Data Structures,4.9,830.0,Mixed,University of Michigan,Python
+308,Introdução à Ciência da Computação com Python Parte 1,4.9,190.0,Beginner,Universidade de São Paulo,Python
+309,Programación en Python,4.7,12.0,Beginner,Universidad de los Andes,Python
+310,Investment Management with Python and Machine Learning,4.6,52.0,Beginner,EDHEC Business School,Python
+311,Advanced Machine Learning,4.4,350.0,Advanced,HSE University,Python
+312,IBM Data Engineering,4.6,500.0,Beginner,IBM,Python
+313,Facebook Marketing Analytics,4.7,16.0,Beginner,Meta,Python
+314,Machine Learning,4.9,4700.0,Mixed,Stanford University,Python
+315,Python Classes and Inheritance,4.7,75.0,Intermediate,University of Michigan,Python
+316,DeepLearning.AI TensorFlow Developer,4.7,330.0,Intermediate,DeepLearning.AI,Python
+317,Python Data Structures,4.4,8.4,Intermediate,Coursera Project Network,Python
+318,Databases and SQL for Data Science with Python,4.6,240.0,Beginner,IBM,Python
+319,Python Project for Data Science,4.5,54.0,Intermediate,IBM,Python
+320,Data Analysis with Python,4.7,230.0,Beginner,IBM,Python
+321,Using Python to Access Web Data,4.8,550.0,Mixed,University of Michigan,Python
+322,Introduction to Data Science in Python,4.5,660.0,Intermediate,University of Michigan,Python
+323,Using Python to Interact with the Operating System,4.7,130.0,Beginner,Google,Python
+324,Data Visualization with Python,4.5,150.0,Intermediate,IBM,Python
+325,Fundamentos de Ciencia de Datos con Python y SQL,4.3,4.6,Beginner,IBM,Python
+326,Introduction to Portfolio Construction and Analysis with Python,4.8,44.0,Mixed,EDHEC Business School,Python
+327,Using Databases with Python,4.8,410.0,Mixed,University of Michigan,Python
+328,Aprende a programar con Python,4.5,49.0,Beginner,Universidad Austral,Python
+329,Foundations of Data Science: K-Means Clustering in Python,4.7,27.0,Beginner,University of London,Python
+330,Understanding and Visualizing Data with Python,4.7,97.0,Beginner,University of Michigan,Python
+331,Data Analysis Using Python,4.6,7.5,Beginner,University of Pennsylvania,Python
+332,Python for Genomic Data Science,4.3,46.0,Mixed,Johns Hopkins University,Python
+333,用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1)),4.9,27.0,Beginner,National Taiwan University,Python
+334,Python Project for Data Engineering,4.6,9.3,Intermediate,IBM,Python
+335,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.7,220.0,Mixed,University of Michigan,Python
+336,Exploratory Data Analysis With Python and Pandas,4.6,7.6,Beginner,Coursera Project Network,Python
+337,"Python Functions, Files, and Dictionaries",4.8,85.0,Beginner,University of Michigan,Python
+338,COVID19 Data Analysis Using Python,4.5,28.0,Intermediate,Coursera Project Network,Python
+339,Create Your First Web App with Python and Flask,4.5,13.0,Intermediate,Coursera Project Network,Python
+340,Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript,5.0,8.5,Mixed,University of Michigan,Python
+341,Inferential Statistical Analysis with Python,4.6,32.0,Intermediate,University of Michigan,Python
+342,Practical Python for AI Coding 1,4.7,1.9,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
+343,Python Programming Essentials,4.8,75.0,Beginner,Rice University,Python
+344,Introducción a la programación con Python,4.6,39.0,Beginner,Universidad Austral,Python
+345,Create a Boggle Word Solver using recursion in Python,4.4,2.8,Intermediate,Coursera Project Network,Python
+346,Applied Machine Learning in Python,4.6,250.0,Intermediate,University of Michigan,Python
+347,"Applied Plotting, Charting & Data Representation in Python",4.5,160.0,Intermediate,University of Michigan,Python
+348,Data Collection and Processing with Python,4.7,62.0,Intermediate,University of Michigan,Python
+349,Game Theory with Python,4.3,6.6,Intermediate,Coursera Project Network,Python
+350,Advanced Portfolio Construction and Analysis with Python,4.8,15.0,Intermediate,EDHEC Business School,Python
+351,用Python玩转数据 Data Processing Using Python,4.7,84.0,Mixed,Nanjing University,Python
+352,Data Processing Using Python,4.1,56.0,Beginner,Nanjing University,Python
+353,COVID19 Data Visualization Using Python,4.6,3.3,Intermediate,Coursera Project Network,Python
+354,Build a Data Science Web App with Streamlit and Python,4.6,14.0,Intermediate,Coursera Project Network,Python
+355,Python and Machine Learning for Asset Management,3.1,13.0,Intermediate,EDHEC Business School,Python
+356,Robot Localization with Python and Particle Filters,4.4,,Advanced,Coursera Project Network,Python
+357,"Problem Solving, Python Programming, and Video Games",4.2,36.0,Beginner,University of Alberta,Python
+358,Python Data Representations,4.7,21.0,Beginner,Rice University,Python
+359,An Introduction to Interactive Programming in Python (Part 1),4.8,200.0,Mixed,Rice University,Python
+360,"Python Project: pillow, tesseract, and opencv",4.0,53.0,Intermediate,University of Michigan,Python
+361,Sentimental Analysis on COVID-19 Tweets using python,4.6,,Intermediate,Coursera Project Network,Python
+362,Introduction to Python for Cybersecurity,4.4,6.1,Intermediate,Infosec,Python
+363,Automating Real-World Tasks with Python,4.8,46.0,Beginner,Google,Python
+364,Python Data Analysis,4.7,33.0,Beginner,Rice University,Python
+365,Create Your First Chatbot with Rasa and Python,4.5,17.0,Beginner,Coursera Project Network,Python
+366,Build a Machine Learning Web App with Streamlit and Python,4.7,9.9,Intermediate,Coursera Project Network,Python
+367,Create Interactive Dashboards with Streamlit and Python,4.7,8.5,Intermediate,Coursera Project Network,Python
+368,Python para Data Science y AI,4.8,2.1,Beginner,IBM,Python
+369,Create an interactive fiction adventure game with Python,4.6,3.0,Beginner,Coursera Project Network,Python
+370,Using SAS Viya REST APIs with Python and R,4.6,3.1,Mixed,SAS,Python
+371,"Concepts in Python: Loops, Functions and Returns",4.7,2.6,Beginner,Coursera Project Network,Python
+372,Introduction to Customer Segmentation in Python,4.6,,Beginner,Coursera Project Network,Python
+373,The Raspberry Pi Platform and Python Programming for the Raspberry Pi,4.7,110.0,Mixed,"University of California, Irvine",Python
+374,Advanced Python Scripting for Cybersecurity,4.0,,Beginner,Infosec,Python
+375,Introduction to Python Scripting for DevOps,4.3,2.5,Beginner,LearnQuest,Python
+376,用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2)),4.6,7.9,Intermediate,National Taiwan University,Python
+377,Logistic Regression with Python and Numpy,4.5,5.7,Intermediate,Coursera Project Network,Python
+378,Linear Regression with NumPy and Python,4.4,16.0,Intermediate,Coursera Project Network,Python
+379,Python for Finance: Beta and Capital Asset Pricing Model,4.6,,Beginner,Coursera Project Network,Python
+380,Accounting Data Analytics with Python,4.1,8.6,Intermediate,University of Illinois at Urbana-Champaign,Python
+381,Image Denoising Using AutoEncoders in Keras and Python,4.5,6.6,Intermediate,Coursera Project Network,Python
+382,Create a Python Application using MySQL,4.5,5.0,Intermediate,Coursera Project Network,Python
+383,Python for Data Visualization: Matplotlib & Seaborn,4.7,,Beginner,Coursera Project Network,Python
+384,Introduction to Data Science and scikit-learn in Python,3.8,,Beginner,LearnQuest,Python
+385,Create Your First Game with Python,4.5,12.0,Intermediate,Coursera Project Network,Python
+386,Creating a Wordcloud using NLP and TF-IDF in Python,,,Beginner,Coursera Project Network,Python
+387,Exception Handling in Python,4.7,2.0,Intermediate,Coursera Project Network,Python
+388,Crime Zone Heatmaps with Python and Folium,,,Beginner,Coursera Project Network,Python
+389,FIFA20 Data Exploration using Python,4.6,1.9,Beginner,Coursera Project Network,Python
+390,Processing Data with Python,4.4,5.7,Intermediate,Coursera Project Network,Python
+391,"Python Scripting: Dates, Classes and Collections",4.4,,Beginner,LearnQuest,Python
+392,GUI programming: Create a Calculator in Python,4.8,,Intermediate,Coursera Project Network,Python
+393,Neural Network Visualizer Web App with Python,4.5,6.5,Intermediate,Coursera Project Network,Python
+394,Clustering Geolocation Data Intelligently in Python,4.5,10.0,Intermediate,Coursera Project Network,Python
+395,Basic Statistics in Python (ANOVA),4.4,,Beginner,Coursera Project Network,Python
+396,Build a Bot in Python for Basic File and Interface Chores,,,Intermediate,Coursera Project Network,Python
+397,Support Vector Machine Classification in Python,4.4,6.0,Intermediate,Coursera Project Network,Python
+398,Version Control of a Python Project using Git,4.4,1.8,Intermediate,Coursera Project Network,Python
+399,"Merge, Sort and Filter Data in Python Pandas",4.5,3.4,Intermediate,Coursera Project Network,Python
+400,Language Classification with Naive Bayes in Python,4.5,6.1,Intermediate,Coursera Project Network,Python
+401,Determine Shortest Paths Between Routers Using Python,4.6,,Intermediate,Coursera Project Network,Python
+402,Data Analysis in Python with pandas & matplotlib in Spyder,2.5,,Beginner,Codio,Python
+403,"Python Scripting: Files, Inheritance, and Databases",4.7,,Beginner,LearnQuest,Python
+404,Class Creation in Object Oriented Python,4.3,2.7,Beginner,Coursera Project Network,Python
+405,Data Visualization with Python,4.5,7.7,Intermediate,Coursera Project Network,Python
+406,Basic Statistics in Python (Correlations and T-tests),4.3,,Beginner,Coursera Project Network,Python
+407,Aprendiendo Python con estadística descriptiva,4.7,,Beginner,Coursera Project Network,Python
+408,Creando simulaciones con python,,,Intermediate,Coursera Project Network,Python
+409,Image Compression and Generation using Variational Autoencoders in Python,4.7,3.2,Intermediate,Coursera Project Network,Python
+410,Python for Active Defense,4.4,,Intermediate,Infosec,Python
+411,Estructuras de datos en Python,4.5,14.0,Beginner,Universidad Austral,Python
+412,Improve Your Python Code Using Amazon CodeGuru,4.6,2.1,Intermediate,Amazon Web Services,Python
+413,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python",4.4,,Beginner,Coursera Project Network,Python
+414,Create Python Linux Script to Generate a Disk Usage Report,4.5,4.4,Intermediate,Coursera Project Network,Python
+415,Regex Python - Découvrir les Expressions Régulières,4.8,,Beginner,Coursera Project Network,Python
+416,"Classification Trees in Python, From Start To Finish",4.6,9.0,Intermediate,Coursera Project Network,Python
+417,Create a Memory Puzzle Game in Python Using Pygame,4.3,1.7,Intermediate,Coursera Project Network,Python
+418,Big-O Time Complexity in Python Code,4.6,,Intermediate,Coursera Project Network,Python
+419,Análisis de datos con Python,4.6,1.6,Beginner,IBM,Python
+420,Python 101: Develop Your First Python Program,4.8,3.6,Beginner,Coursera Project Network,Python
+421,Create Your First Python Program From UST,4.6,30.0,Beginner,Coursera Project Network,Python
+422,An Introduction to Interactive Programming in Python (Part 2),4.9,47.0,Beginner,Rice University,Python
+423,Object-Oriented Python: Inheritance and Encapsulation,4.3,2.1,Intermediate,Codio,Python
+424,Programación Orientada a Objetos con Python,4.0,14.0,Beginner,Universidad Austral,Python
+425,Compose and Program Music in Python using Earsketch,4.5,13.0,Beginner,Coursera Project Network,Python
+426,Manejo de bases de datos con Python,4.2,13.0,Beginner,Universidad Austral,Python
+427,用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3)),4.9,5.9,Mixed,National Taiwan University,Python
+428,Uso de Python para Acceder a Datos Web,,,Mixed,University of Michigan,Python
+429,Python Basics: Selection and Iteration,4.6,2.8,Beginner,Codio,Python
+430,Global Warming II: Create Your Own Models in Python,4.1,13.0,Mixed,The University of Chicago,Python
+431,Python Basics: Create a Guessing Number Game from Scratch,4.6,3.5,Beginner,Coursera Project Network,Python
+432,Python Database Connection with MariaDB From Infosys,4.7,2.2,Intermediate,Coursera Project Network,Python
+433,Python para a Ciência de Dados e IA,,,Beginner,IBM,Python
+434,"Python Object Basics: Functions, Recursion, and Objects",4.8,,Intermediate,Codio,Python
+435,"Python Basic Structures: Lists, Strings, and Files",4.4,,Beginner,Codio,Python
+436,Database Operations in MariaDB Using Python From Infosys,4.6,1.8,Advanced,Coursera Project Network,Python
+437,Use Python Regular Expressions to Process File Data,3.3,,Intermediate,Coursera Project Network,Python
+438,"Where, Why, and How of Lambda Functions in Python",,,Beginner,Coursera Project Network,Python
+439,Python에서 데이터베이스 사용하기,,,Mixed,University of Michigan,Python
+440,Dice Game in Python,4.5,,Beginner,Coursera Project Network,Python
+441,Python: обработка и анализ данных и ИИ,,,Beginner,IBM,Python
+442,Statistical Analysis using Python Numpy,,,Intermediate,Coursera Project Network,Python
+443,Python Dynamic HTML Web Server,4.5,6.0,Beginner,Coursera Project Network,Python
+444,Работа с базами данных в Python,,,Mixed,University of Michigan,Python
+445,Визуализация данных с помощью Python,,,Intermediate,IBM,Python
+446,Python Scripting for DevOps,4.3,,Intermediate,Coursera Project Network,Python
+447,"Support Vector Machines in Python, From Start to Finish",4.6,4.6,Intermediate,Coursera Project Network,Python
+448,Analyze Box Office Data with Plotly and Python,4.5,8.5,Beginner,Coursera Project Network,Python
+449,Snake game in Python: use Pygame to build your game,,,Intermediate,Coursera Project Network,Python
+450,Aprendiendo Python con bases de datos,4.7,,Beginner,Coursera Project Network,Python
+451,Primeros pasos en Python,4.6,,Beginner,Coursera Project Network,Python
+452,Create Beautiful Data Visualizations with Python and Altair,,,Intermediate,Coursera Project Network,Python
+453,Introduction to Search Techniques in Python: Binary Search,,,Beginner,Coursera Project Network,Python
+454,Implementing Hangman Game Using Basics of Python 3,4.5,,Beginner,Coursera Project Network,Python
+455,Aprendiendo Python con álgebra lineal,4.6,,Beginner,Coursera Project Network,Python
+456,Aprendiendo Python con circuitos digitales,4.8,,Beginner,Coursera Project Network,Python
+457,Creating a Word Jumble Game in Python Using Tkinter GUI,,,Beginner,Coursera Project Network,Python
+458,Create a Connect Four Game in Python using Pygame,,,Intermediate,Coursera Project Network,Python
+459,Machine Learning with Python,4.7,250.0,Intermediate,IBM,Python
+460,Statistics for Data Science with Python,4.6,12.0,Mixed,IBM,Python
+461,Building Modern Python Applications on AWS,4.5,73.0,Intermediate,Amazon Web Services,Python
+462,Análise de dados com Python,,,Beginner,IBM,Python
+463,Introdução à Ciência da Computação com Python Parte 2,4.9,25.0,Beginner,Universidade de São Paulo,Python
+464,Python Project for AI & Application Development,4.5,7.7,Intermediate,IBM,Python
+465,Data Science con Python e R,4.1,,Intermediate,Università di Napoli Federico II,Python
+466,Programación para todos (Introducción a Python),4.9,2.2,Mixed,University of Michigan,Python
+467,"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",4.7,16.0,Intermediate,Ludwig-Maximilians-Universität München (LMU),Python
+468,Fitting Statistical Models to Data with Python,4.4,26.0,Intermediate,University of Michigan,Python
+469,Programmation pour tous (mise en route de Python),4.9,,Mixed,University of Michigan,Python
+470,Computer Vision - Image Basics with OpenCV and Python,4.3,14.0,Beginner,Coursera Project Network,Python
+471,Applied Text Mining in Python,4.2,120.0,Intermediate,University of Michigan,Python
+472,Programação para todos (Conceitos básicos de Python),5.0,,Mixed,University of Michigan,Python
+473,Python: Istruzioni per l’uso,4.1,,Beginner,Università di Napoli Federico II,Python
+474,Geospatial Data Visualization using Python and Folium,,,Intermediate,Coursera Project Network,Python
+475,Use Python Unit Test to Demonstrate TDD,,,Intermediate,Coursera Project Network,Python
+476,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11.0,Intermediate,EDHEC Business School,Python
+477,Applied Social Network Analysis in Python,4.7,85.0,Intermediate,University of Michigan,Python
+478,Image Processing with Python,4.3,12.0,Intermediate,Coursera Project Network,Python
+479,Traffic Sign Classification Using Deep Learning in Python/Keras,4.6,10.0,Intermediate,Coursera Project Network,Python
+480,Climate Geospatial Analysis on Python with Xarray,4.2,,Intermediate,Coursera Project Network,Python
+481,Create a Python Application using PyMongo and MongoDB Database,4.4,3.2,Intermediate,Coursera Project Network,Python
+482,Network Data Science with NetworkX and Python,4.3,5.0,Intermediate,Coursera Project Network,Python
+483,Машинное обучение с использованием Python,,,Intermediate,IBM,Python
+484,Dimensionality Reduction using an Autoencoder in Python,4.6,3.3,Intermediate,Coursera Project Network,Python
+485,"Activity Recognition using Python, Tensorflow and Keras",,,Beginner,Coursera Project Network,Python
+486,Build a Python GUI with Tkinter,4.4,3.2,Intermediate,Coursera Project Network,Python
+487,Aprendizado de máquina com Python,,,Intermediate,IBM,Python
+488,Python Data Visualization,4.7,33.0,Beginner,Rice University,Python
+489,Estadísticas para la Ciencia de Datos con Python,,,Mixed,IBM,Python
+490,Анализ данных с использованием Python,,,Beginner,IBM,Python
+491,Testing and Debugging Python,4.3,6.2,Intermediate,Coursera Project Network,Python
+492,Use Python to Create a Web Testing Bot,4.0,,Intermediate,Coursera Project Network,Python
+493,Analysing Covid-19 Geospatial data with Python,4.3,,Intermediate,Coursera Project Network,Python
+494,Procesamiento del lenguaje natural con Python y Power BI,5.0,,Intermediate,Coursera Project Network,Python
+495,Extract Text Data with Python and Regex,4.4,,Intermediate,Coursera Project Network,Python
+496,Machine Learning for Accounting with Python,4.5,6.6,Intermediate,University of Illinois at Urbana-Champaign,Python
+497,Logistic Regression with NumPy and Python,4.5,12.0,Beginner,Coursera Project Network,Python
+498,Image Segmentation with Python and Unsupervised Learning,4.6,,Intermediate,Coursera Project Network,Python
+499,Advanced Python - Reconnaissance,4.0,,Mixed,Infosec,Python
+500,Aprendizaje Automático con Python,5.0,,Intermediate,IBM,Python
+501,Python per la Data Science,,,Intermediate,Università di Napoli Federico II,Python
+502,Visualizing & Communicating Results in Python with Jupyter,,,Beginner,Codio,Python
+503,Linear Regression with Python,4.6,10.0,Intermediate,Coursera Project Network,Python
+504,Análisis exploratorio de datos con Python y Pandas,,,Beginner,Coursera Project Network,Python
+505,"Storing, Retrieving, and Processing JSON data with Python",,,Intermediate,Coursera Project Network,Python
+506,Wrangling Data for Data Analysts with Python,,,Beginner,Coursera Project Network,Python
+507,Analyser vos données avec Python,,,Beginner,Coursera Project Network,Python
+508,Test Driven Development Process For Beginners In Python,,,Beginner,Coursera Project Network,Python
+509,"Where, Why, and How of List Comprehension in Python",,,Beginner,Coursera Project Network,Python
+510,Facebook Network Analysis using Python and Networkx,4.3,,Intermediate,Coursera Project Network,Python
+511,Visualización Avanzada de datos con Python,,,Intermediate,Coursera Project Network,Python
+512,Regresión logística con NumPy y Python,,,Beginner,Coursera Project Network,Python
+513,Creating a Color Game in Python Using Tkinter GUI,,,Beginner,Coursera Project Network,Python
+514,Creating a Supermarket App Using Python,4.5,,Intermediate,Coursera Project Network,Python
+515,"Python for Command-and-control, Exfiltration and Impact",5.0,,Intermediate,Infosec,Python
+516,DevOps and Build Automation with Python,4.0,,Beginner,LearnQuest,Python
+517,Detect Fake News in Python with Tensorflow,3.8,,Intermediate,Coursera Project Network,Python
+518,COVID-19 : Les séries temporelles avec Python et Pandas,4.5,,Intermediate,Coursera Project Network,Python
+519,Working with AWS S3 Buckets using Python & boto3,5.0,,Beginner,Coursera Project Network,Python
+520,Introduction to Statistics in Python,,,Intermediate,Coursera Project Network,Python
+521,DataViz - Grammaire des Graphiques avec Python,,,Intermediate,Coursera Project Network,Python
+522,Text Generation with Markov Chains in Python,,,Intermediate,Coursera Project Network,Python
+523,AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application,4.6,1.5,Beginner,Coursera Project Network,Python
+524,Regular Expressions in Python,4.3,,Intermediate,Coursera Project Network,Python
+525,Configuring Python Extension Pack with Visual Studio Code,,,Beginner,Coursera Project Network,Python
+526,Build a User Interface using Python Language,,,Intermediate,Coursera Project Network,Python
+527,Visualización de Datos con Python,4.6,,Intermediate,IBM,Python
+528,Hypothesis Testing with Python and Excel,4.2,2.1,Intermediate,Tufts University,Python
+529,Use Python and Java to Create a GUI Application,,,Intermediate,Coursera Project Network,Python
+530,Программирование для всех (начало работы с Python),,,Mixed,University of Michigan,Python
+531,Create your own Sudoku Solver using AI and Python,4.3,2.7,Intermediate,Coursera Project Network,Python
+532,Create a Tic-Tac-Toe game in Python,4.9,,Intermediate,Coursera Project Network,Python
+533,Practical Python for AI Coding 2,,,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
+534,Applied Calculus with Python,,,Intermediate,Johns Hopkins University,Python
+535,Uso de bancos de dados com Python,,,Mixed,University of Michigan,Python
+536,Uso de bases de datos con Python,,,Mixed,University of Michigan,Python
+537,Juniper Networks Automation Using Python and PyEZ,,,Beginner,Juniper Networks,Python
+538,Estructuras de datos de Python,,,Mixed,University of Michigan,Python
+539,Использование языка Python для доступа к веб-данным,,,Mixed,University of Michigan,Python
+540,Defensive Python,,,Mixed,Infosec,Python
+541,Automatic Machine Learning with H2O AutoML and Python,4.8,6.3,Intermediate,Coursera Project Network,Python
+542,Estruturas de dados Python,,,Mixed,University of Michigan,Python
+543,Deploying a Python Data Analytics web app on Heroku,4.3,,Intermediate,Coursera Project Network,Python
+544,Analyze Box Office Data with Seaborn and Python,4.5,4.1,Intermediate,Coursera Project Network,Python
+545,Working with Amazon DynamoDB using Python & Boto3,,,Beginner,Coursera Project Network,Python
+546,Enhance your python unit testing using Coverage,,,Intermediate,Coursera Project Network,Python
+547,Python Optical Character Recognition using Pytorch,,,Beginner,Coursera Project Network,Python
+548,Структуры данных Python,,,Mixed,University of Michigan,Python
+549,Visualização de dados com o Python,,,Intermediate,IBM,Python
+550,"Le Où, Pourquoi et Comment des Fonctions Lambda en Python",,,Beginner,Coursera Project Network,Python
+551,Series Temporales con Pycaret y Python,,,Intermediate,Coursera Project Network,Python
+552,Data Processing using Python Collections,,,Intermediate,Coursera Project Network,Python
+553,GUI Programming: Create a Login System in Python,3.8,,Intermediate,Coursera Project Network,Python
+554,Plots Creation using Matplotlib Python,,,Beginner,Coursera Project Network,Python
+555,Build a Machine Learning Image Classifier with Python,,,Intermediate,Coursera Project Network,Python
+556,ML: Diagnose the presence of Breast Cancer with Python,,,Intermediate,Coursera Project Network,Python
+557,High-dimensional Data visualization techniques using python,,,Intermediate,Coursera Project Network,Python
+558,Decryption with Python,,,Intermediate,Coursera Project Network,Python
+559,Machine Learning con Python. Nivel intermedio,,,Beginner,Coursera Project Network,Python
+560,Installation et Configuration Python avec Visual Studio Code,,,Beginner,Coursera Project Network,Python
+561,Nettoyer vos données avec Python,,,Beginner,Coursera Project Network,Python
+562,Python استخدام قواعد البيانات مع,,,Mixed,University of Michigan,Python
+563,Write your own Python tool to footprint a web application,,,Intermediate,Coursera Project Network,Python
+564,Personal Desktop Notifier in Python: Covid-19 notifications,,,Intermediate,Coursera Project Network,Python
+565,Python بُنى بيانات,,,Mixed,University of Michigan,Python
+566,Exploring and Analyzing Fifa's Datasets Using Python,,,Beginner,Coursera Project Network,Python
+567,Crea tu primera aplicación web con Python y Flask,,,Intermediate,Coursera Project Network,Python
+568,Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام,,,Intermediate,Coursera Project Network,Python
+569,Message Encoding/Decoding in Python with GUI,,,Beginner,Coursera Project Network,Python
+570,Create Ping-Pong Game in Python using Turtle Graphics,,,Intermediate,Coursera Project Network,Python
+571,Machine Learning con Python. Nivel Avanzado,,,Intermediate,Coursera Project Network,Python
+572,"Creating a Rock, Paper, Scissors Game in Python",,,Beginner,Coursera Project Network,Python
+573,Create a Dynamic-Link Library with DevC++ for Python,,,Intermediate,Coursera Project Network,Python
+574,Design and Develop an Obstacles Game using Pygame in Python,,,Intermediate,Coursera Project Network,Python
+575,Hierarchical relational data analysis using python,,,Intermediate,Coursera Project Network,Python
+576,برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19,,,Intermediate,Coursera Project Network,Python
+577,Python في Pygame تصميم و تطوير لعبة العقبات باستخدام,,,Intermediate,Coursera Project Network,Python
+578,Affectation de variable en Python,,,Beginner,Coursera Project Network,Python
+579,Création de chaînes en Python,,,Beginner,Coursera Project Network,Python
+580,Tirer Parti des Listes Pour un Code Python Plus Simple,,,Beginner,Coursera Project Network,Python
+581,"Aprendiendo Python con textos, números y ecuaciones",4.8,,Beginner,Coursera Project Network,Python
+582,Graficando con Python,,,Intermediate,Coursera Project Network,Python
+583,Chicken Invaders Game in Python using Pygame,,,Beginner,Coursera Project Network,Python
+584,أساسيات python: برمج لعبة تخمين الرقم من الصفر,,,Beginner,Coursera Project Network,Python
+585,بناء Neural Network مكونه من 3 طبقات بأستخدام لغة Python,,,Beginner,Coursera Project Network,Python
+586,Les Expressions Régulières en Python,,,Intermediate,Coursera Project Network,Python
+587,Python معالجة مسبقة للبيانات و تحليلها بواسطة,,,Beginner,Coursera Project Network,Python
+588,Crea tu primer juego de adivinanza con Python,,,Beginner,Coursera Project Network,Python
+589,MatplotLib Python باستخدام plots إنشاء ال,,,Beginner,Coursera Project Network,Python
+590,Des nombres et plus en Python,,,Beginner,Coursera Project Network,Python
+591,Explorando funciones cuadráticas con Python,,,Beginner,Coursera Project Network,Python
+592,Aprendizaje automático con Python y Azure Notebooks,,,Beginner,Coursera Project Network,Python
+593,لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة,,,Intermediate,Coursera Project Network,Python
+594,Explorando funciones lineales con Python,,,Beginner,Coursera Project Network,Python
+595,Extraire des Données de Texte avec Python et Regex,,,Beginner,Coursera Project Network,Python
+596,Python для информационной безопасности,,,Intermediate,E-Learning Development Fund,Python
+597,Python для кибербезопасности,,,Intermediate,E-Learning Development Fund,Python
+598,Introduction to Data Science,4.6,690.0,Beginner,IBM,Python
+599,Applied Data Science,4.6,500.0,Beginner,IBM,Python
+600,IBM Full Stack Cloud Developer,4.6,470.0,Beginner,IBM,Python
+601,IBM Cybersecurity Analyst,4.6,250.0,Beginner,IBM,Python
+602,IBM Applied AI,4.6,530.0,Beginner,IBM,Python
+603,Learn SQL Basics for Data Science,4.6,400.0,Beginner,"University of California, Davis",Python
+604,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350.0,Intermediate,Google Cloud,Python
+605,IBM Machine Learning,4.6,37.0,Intermediate,IBM,Python
+606,Mathematics for Machine Learning,4.6,300.0,Beginner,Imperial College London,Python
+607,Sports Performance Analytics,4.5,8.9,Intermediate,University of Michigan,Python
+608,Computational Thinking for Problem Solving,4.7,75.0,Beginner,University of Pennsylvania,Python
+609,Machine Learning for Trading,3.9,40.0,Intermediate,New York Institute of Finance,Python
+610,Advanced Statistics for Data Science,4.4,94.0,Advanced,Johns Hopkins University,Python
+611,Ciencia de Datos de IBM,4.5,7.4,Beginner,IBM,Python
+612,Introducción a la Ciencia de Datos,4.5,4.4,Beginner,IBM,Python
+613,Spacecraft Dynamics and Control,4.8,26.0,Advanced,University of Colorado Boulder,Python
+614,Biology Meets Programming: Bioinformatics for Beginners,4.2,130.0,Beginner,University of California San Diego,Python
+615,Data Analysis and Interpretation,4.4,140.0,Beginner,Wesleyan University,Python
+616,Introduction to Data Analytics,3.2,4.5,Beginner,Meta,Python
+617,Introduction to MongoDB,4.2,52.0,Intermediate,MongoDB Inc.,Python
+618,Getting started with TensorFlow 2,4.9,25.0,Intermediate,Imperial College London,Python
+619,Machine Learning Foundations: A Case Study Approach,4.6,360.0,Mixed,University of Washington,Python
+620,Reinforcement Learning for Trading Strategies,3.7,11.0,Intermediate,New York Institute of Finance,Python
+621,Mastering Data Analysis with Pandas: Learning Path Part 1,4.6,,Beginner,Coursera Project Network,Python
+622,"Developing Applications with SQL, Databases, and Django",4.5,5.7,Intermediate,IBM,Python
+623,Learn to Program: Crafting Quality Code,4.6,54.0,Mixed,University of Toronto,Python
+624,Advanced Linear Models for Data Science 2: Statistical Linear Models,4.5,20.0,Advanced,Johns Hopkins University,Python
+625,Computer Science: Programming with a Purpose,4.7,150.0,Beginner,Princeton University,Python
+626,Developing AI Applications on Azure,4.4,45.0,Advanced,LearnQuest,Python
+627,Build & Deploy AI Messenger Chatbot using IBM Watson,4.5,4.4,Beginner,Coursera Project Network,Python
+628,Tweet Emotion Recognition with TensorFlow,4.7,4.3,Intermediate,Coursera Project Network,Python
+629,Agile Project: Product Prototype Touchpoint Analysis in Miro,4.6,2.1,Intermediate,Coursera Project Network,Python
+630,Data for Machine Learning,4.4,6.5,Intermediate,Alberta Machine Intelligence Institute,Python
+631,Data Science at Scale,4.2,83.0,Intermediate,University of Washington,Python
+632,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,,,,Universidad de los Andes,Python
+633,Machine Learning for Analytics MasterTrack™ Certificate,,,,University of Chicago,Python
+634,Google IT Support,4.8,1200.0,Beginner,Google,Python
+635,Modern Application Development with Node.js on AWS,4.8,83.0,Beginner,Amazon Web Services,Python
+636,"HTML, CSS, and Javascript for Web Developers",4.7,690.0,Mixed,Johns Hopkins University,Python
+637,Object Oriented Programming in Java,4.6,510.0,Beginner,University of California San Diego,Python
+638,Introduction to Web Development,4.7,190.0,Beginner,"University of California, Davis",Python
+639,Machine Learning for All,4.7,110.0,Beginner,University of London,Python
+640,Introduction to Machine Learning,4.7,160.0,Intermediate,Duke University,Python
+641,Advanced Django: Mastering Django and Django Rest Framework,4.8,1.8,Advanced,Codio,Python
+642,Introduction to Java and Object-Oriented Programming,4.3,9.8,Beginner,University of Pennsylvania,Python
+643,Fundamentals of Scalable Data Science,4.3,63.0,Beginner,IBM,Python
+644,Web Application Technologies and Django,4.7,63.0,Intermediate,University of Michigan,Python
+645,"Introduction to Trading, Machine Learning & GCP",4.0,32.0,Intermediate,Google Cloud,Python
+646,Advanced Machine Learning and Signal Processing,4.5,39.0,Advanced,IBM,Python
+647,Building Web Applications in Django,4.7,31.0,Intermediate,University of Michigan,Python
+648,Guided Tour of Machine Learning in Finance,3.8,28.0,Intermediate,New York University,Python
+649,Using Machine Learning in Trading and Finance,4.0,16.0,Intermediate,New York Institute of Finance,Python
+650,Introduction to Accounting Data Analytics and Visualization,4.8,20.0,Beginner,University of Illinois at Urbana-Champaign,Python
+651,Advanced Django: Building a Blog,4.9,,Advanced,Codio,Python
+652,Object-Oriented Programming Concepts,4.6,1.5,Beginner,LearnQuest,Python
+653,"Cloud Virtualization, Containers and APIs",4.4,2.5,Beginner,Duke University,Python
+654,Statistics for Machine Learning for Investment Professionals,,,Beginner,CFA Institute,Python
+655,Cloud Data Engineering,4.2,2.4,Intermediate,Duke University,Python
+656,Advanced Django: Introduction to Django Rest Framework,4.4,,Advanced,Codio,Python
+657,بايثون لعلوم البيانات والذكاء الصناعي,,,Beginner,IBM,Python
+658,Exploratory Data Analysis,4.2,5.2,Intermediate,Coursera Project Network,Python
+659,Build Your First Android App (Project-Centered Course),4.2,330.0,Mixed,CentraleSupélec,Python
+660,The Fundamental of Data-Driven Investment,,,Beginner,Sungkyunkwan University,Python
+661,Introduction to Bayesian Statistics,3.2,2.1,Beginner,Databricks,Python
+662,Advanced Django: Advanced Django Rest Framework,,,Advanced,Codio,Python
+663,Deploy an NLP Text Generator: Bart Simpson Chalkboard Gag,,,Intermediate,Coursera Project Network,Python
+664,Advanced Django: External APIs and Task Queuing,,,Advanced,Codio,Python
+665,التعلّم الآلي باستخدام لغة بايثون,,,Intermediate,IBM,Python
+666,Build a Classification Model using PyCaret,,,Beginner,Coursera Project Network,Python
+667,Deep Learning,4.8,1200.0,Intermediate,DeepLearning.AI,Python
+668,Data Engineering Foundations,4.6,490.0,Beginner,IBM,Python
+669,IBM Data Warehouse Engineer,4.6,270.0,Beginner,IBM,Python
+670,"BI Foundations with SQL, ETL and Data Warehousing",4.6,250.0,Beginner,IBM,Python
+671,Natural Language Processing,4.6,110.0,Intermediate,DeepLearning.AI,Python
+672,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250.0,Intermediate,Google Cloud,Python
+673,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250.0,Intermediate,Google Cloud,Python
+674,Genomic Data Science,4.5,120.0,Intermediate,Johns Hopkins University,Python
+675,Security Analyst Fundamentals,4.6,36.0,Beginner,IBM,Python
+676,Neural Networks and Deep Learning,4.9,1000.0,Intermediate,DeepLearning.AI,Python
+677,IBM Introduction to Machine Learning,4.6,32.0,Intermediate,IBM,Python
+678,Generative Adversarial Networks (GANs),4.7,40.0,Intermediate,DeepLearning.AI,Python
+679,TensorFlow: Advanced Techniques,4.8,27.0,Intermediate,DeepLearning.AI,Python
+680,Self-Driving Cars,4.7,130.0,Advanced,University of Toronto,Python
+681,"NoSQL, Big Data, and Spark Foundations",4.3,11.0,Beginner,IBM,Python
+682,Practical Data Science,4.5,16.0,Advanced,DeepLearning.AI,Python
+683,Tools for Data Science,4.5,260.0,Beginner,IBM,Python
+684,Introduction to Discrete Mathematics for Computer Science,4.5,160.0,Beginner,University of California San Diego,Python
+685,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440.0,Intermediate,DeepLearning.AI,Python
+686,Machine Learning with TensorFlow on Google Cloud,4.5,120.0,Intermediate,Google Cloud,Python
+687,AI for Medicine,4.7,53.0,Intermediate,DeepLearning.AI,Python
+688,Машинное обучение и анализ данных,4.7,110.0,Intermediate,Moscow Institute of Physics and Technology,Python
+689,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280.0,Intermediate,DeepLearning.AI,Python
+690,Big Data,4.5,340.0,Beginner,University of California San Diego,Python
+691,Convolutional Neural Networks,4.9,400.0,Intermediate,DeepLearning.AI,Python
+692,PostgreSQL for Everybody,4.8,15.0,Intermediate,University of Michigan,Python
+693,Become a Sustainable Business Change Agent,4.7,13.0,Intermediate,University of Colorado System,Python
+694,An Introduction to Programming the Internet of Things (IOT),4.7,440.0,Beginner,"University of California, Irvine",Python
+695,Convolutional Neural Networks in TensorFlow,4.7,110.0,Intermediate,DeepLearning.AI,Python
+696,Build Basic Generative Adversarial Networks (GANs),4.7,38.0,Intermediate,DeepLearning.AI,Python
+697,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,3.2,Intermediate,Microsoft,Python
+698,Advanced Machine Learning on Google Cloud,4.4,69.0,Advanced,Google Cloud,Python
+699,Analista de Datos de IBM,4.4,11.0,Beginner,IBM,Python
+700,Machine Learning,4.6,430.0,Intermediate,University of Washington,Python
+701,"Modern Robotics: Mechanics, Planning, and Control",4.7,44.0,Intermediate,Northwestern University,Python
+702,Natural Language Processing in TensorFlow,4.6,100.0,Intermediate,DeepLearning.AI,Python
+703,TensorFlow: Data and Deployment,4.6,40.0,Intermediate,DeepLearning.AI,Python
+704,Mathematics for Machine Learning: Linear Algebra,4.7,280.0,Beginner,Imperial College London,Python
+705,TensorFlow 2 for Deep Learning,4.9,30.0,Intermediate,Imperial College London,Python
+706,"Sequences, Time Series and Prediction",4.7,91.0,Intermediate,DeepLearning.AI,Python
+707,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,4.7,Intermediate,Google Cloud,Python
+708,Analyze Datasets and Train ML Models using AutoML,4.5,14.0,Advanced,DeepLearning.AI,Python
+709,程序设计与算法,4.8,93.0,Beginner,Peking University,Python
+710,Mastering Software Development in R,4.3,69.0,Beginner,Johns Hopkins University,Python
+711,Machine Learning and Reinforcement Learning in Finance,3.7,41.0,Intermediate,New York University,Python
+712,Natural Language Processing with Probabilistic Models,4.7,43.0,Intermediate,DeepLearning.AI,Python
+713,Exploratory Data Analysis for Machine Learning,4.6,28.0,Intermediate,IBM,Python
+714,Машинное обучение: от статистики до нейросетей,4.4,6.1,Intermediate,HSE University,Python
+715,IBM AI Enterprise Workflow,4.3,9.7,Advanced,IBM,Python
+716,Математика для анализа данных,4.4,4.9,Beginner,HSE University,Python
+717,Mathematics for Data Science,4.4,67.0,Beginner,HSE University,Python
+718,Fundamentals of Computing,4.8,250.0,Beginner,Rice University,Python
+719,"Penetration Testing, Incident Response and Forensics",4.6,30.0,Beginner,IBM,Python
+720,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17.0,Intermediate,DeepLearning.AI,Python
+721,Natural Language Processing with Sequence Models,4.5,37.0,Intermediate,DeepLearning.AI,Python
+722,Accounting Data Analytics,4.7,29.0,Intermediate,University of Illinois at Urbana-Champaign,Python
+723,Advanced Computer Vision with TensorFlow,4.8,16.0,Intermediate,DeepLearning.AI,Python
+724,Psicología,4.8,24.0,Beginner,Universidad de Palermo,Python
+725,Analítica de Datos en Finanzas,4.9,,Intermediate,Universidad de los Andes,Python
+726,Computational Neuroscience,4.6,95.0,Beginner,University of Washington,Python
+727,AI for Scientific Research,3.3,1.7,Beginner,LearnQuest,Python
+728,Custom and Distributed Training with TensorFlow,4.8,9.1,Intermediate,DeepLearning.AI,Python
+729,Serverless Data Processing with Dataflow,4.1,3.8,Intermediate,Google Cloud,Python
+730,Data-driven Astronomy,4.8,26.0,Intermediate,The University of Sydney,Python
+731,Ciencia de Datos Aplicada,4.6,3.5,Beginner,IBM,Python
+732,Introduction to Big Data with Spark and Hadoop,4.4,6.5,Beginner,IBM,Python
+733,AI for Medical Prognosis,4.7,19.0,Intermediate,DeepLearning.AI,Python
+734,Deep Neural Networks with PyTorch,4.4,32.0,Intermediate,IBM,Python
+735,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",4.5,7.4,Mixed,University of Michigan,Python
+736,Introduction to Deep Learning & Neural Networks with Keras,4.7,23.0,Intermediate,IBM,Python
+737,Bases de Inteligencia Artificial para Todos,4.7,8.0,Beginner,IBM,Python
+738,Mental Health and Resilience for Healthcare Workers,4.8,3.6,Beginner,University of Toronto,Python
+739,Machine Learning for Supply Chains,3.3,1.7,Intermediate,LearnQuest,Python
+740,Algorithms for DNA Sequencing,4.7,32.0,Mixed,Johns Hopkins University,Python
+741,Sentiment Analysis with Deep Learning using BERT,4.5,12.0,Intermediate,Coursera Project Network,Python
+742,Hands-on Machine Learning with Google Cloud Labs,3.8,3.0,Intermediate,Google Cloud,Python
+743,SAS Statistical Business Analyst,4.6,6.0,Intermediate,SAS,Python
+744,State Estimation and Localization for Self-Driving Cars,4.7,38.0,Advanced,University of Toronto,Python
+745,Data Science in Stratified Healthcare and Precision Medicine,4.6,17.0,Intermediate,The University of Edinburgh,Python
+746,IBM Data Analyst Capstone Project,4.6,14.0,Intermediate,IBM,Python
+747,Generative Deep Learning with TensorFlow,4.8,7.3,Intermediate,DeepLearning.AI,Python
+748,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,9.9,Intermediate,Coursera Project Network,Python
+749,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,2.3,Intermediate,Google Cloud,Python
+750,Data Science and Analysis Tools - from Jupyter to R Markdown,3.2,3.4,Beginner,Codio,Python
+751,Kinematics: Describing the Motions of Spacecraft,4.9,19.0,Advanced,University of Colorado Boulder,Python
+752,Data Analytics Foundations for Accountancy I,4.1,7.4,Mixed,University of Illinois at Urbana-Champaign,Python
+753,Machine Learning with TensorFlow on Google Cloud en Español,4.6,9.6,Intermediate,Google Cloud,Python
+754,"Modern Robotics, Course 1: Foundations of Robot Motion",4.7,39.0,Intermediate,Northwestern University,Python
+755,Ciencia de datos,4.5,,Beginner,Universidad de los Andes,Python
+756,Data and Statistics Foundation for Investment Professionals,4.8,,Beginner,CFA Institute,Python
+757,SQL for Data Science Capstone Project,4.2,20.0,Intermediate,"University of California, Davis",Python
+758,Django Features and Libraries,4.8,18.0,Intermediate,University of Michigan,Python
+759,More on Change and Sustainability,4.8,3.9,Beginner,University of Colorado System,Python
+760,Browser-based Models with TensorFlow.js,4.7,32.0,Intermediate,DeepLearning.AI,Python
+761,Facial Expression Recognition with Keras,4.5,21.0,Intermediate,Coursera Project Network,Python
+762,Data Analysis Using Pyspark,4.4,7.0,Intermediate,Coursera Project Network,Python
+763,Applied AI with DeepLearning,4.4,48.0,Advanced,IBM,Python
+764,Simulation and modeling of natural processes,4.2,32.0,Mixed,University of Geneva,Python
+765,Data Engineering and Machine Learning using Spark,3.6,3.1,Beginner,IBM,Python
+766,파이썬 단기집중과정,4.8,,Beginner,Google,Python
+767,Create Machine Learning Models in Microsoft Azure,4.7,2.3,Intermediate,Microsoft,Python
+768,Deploy Machine Learning Model into AWS Cloud Servers,4.3,,Intermediate,Coursera Project Network,Python
+769,The R Programming Environment,4.3,48.0,Intermediate,Johns Hopkins University,Python
+770,Machine Learning,4.9,4700.0,Mixed,Stanford University,Machine Learning
+771,IBM Machine Learning,4.6,37.0,Intermediate,IBM,Machine Learning
+772,Machine Learning,4.6,430.0,Intermediate,University of Washington,Machine Learning
+773,Deep Learning,4.8,1200.0,Intermediate,DeepLearning.AI,Machine Learning
+774,Mathematics for Machine Learning,4.6,300.0,Beginner,Imperial College London,Machine Learning
+775,Machine Learning for All,4.7,110.0,Beginner,University of London,Machine Learning
+776,Applied Data Science with Python,4.5,800.0,Intermediate,University of Michigan,Machine Learning
+777,Machine Learning Engineering for Production (MLOps),4.7,47.0,Advanced,DeepLearning.AI,Machine Learning
+778,Advanced Machine Learning,4.4,350.0,Advanced,HSE University,Machine Learning
+779,Google Data Analytics,4.8,740.0,Beginner,Google,Machine Learning
+780,Deep Learning for Healthcare,,,Advanced,University of Illinois at Urbana-Champaign,Machine Learning
+781,Introduction to Machine Learning: Supervised Learning,,,Intermediate,University of Colorado Boulder,Machine Learning
+782,IBM Data Science,4.6,1000.0,Beginner,IBM,Machine Learning
+783,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350.0,Intermediate,Google Cloud,Machine Learning
+784,IBM Introduction to Machine Learning,4.6,32.0,Intermediate,IBM,Machine Learning
+785,Data Science,4.5,1200.0,Beginner,Johns Hopkins University,Machine Learning
+786,Advanced Machine Learning on Google Cloud,4.4,69.0,Advanced,Google Cloud,Machine Learning
+787,DeepLearning.AI TensorFlow Developer,4.7,330.0,Intermediate,DeepLearning.AI,Machine Learning
+788,IBM AI Engineering,4.6,300.0,Intermediate,IBM,Machine Learning
+789,Generative Adversarial Networks (GANs),4.7,40.0,Intermediate,DeepLearning.AI,Machine Learning
+790,AI Product Management,4.5,4.9,Beginner,Duke University,Machine Learning
+791,Bachelor of Science in Computer Science,,,,University of London,Machine Learning
+792,Machine Learning for Telecom Customers Churn Prediction,4.5,,Beginner,Coursera Project Network,Machine Learning
+793,IBM Data Analyst,4.6,720.0,Beginner,IBM,Machine Learning
+794,Applied Machine Learning in Python,4.6,250.0,Intermediate,University of Michigan,Machine Learning
+795,Unsupervised Machine Learning for Customer Market Segmentation,4.8,9.8,Beginner,Coursera Project Network,Machine Learning
+796,Introduction to Machine Learning,4.7,160.0,Intermediate,Duke University,Machine Learning
+797,Machine Learning with Python,4.7,250.0,Intermediate,IBM,Machine Learning
+798,Post Graduate Certificate in Advanced Machine Learning & AI,,,,IIT Roorkee,Machine Learning
+799,Fake News Detection with Machine Learning,4.6,8.8,Beginner,Coursera Project Network,Machine Learning
+800,Master of Computer and Information Technology,,,,University of Pennsylvania,Machine Learning
+801,Google Cloud Digital Leader Training,4.8,37.0,Beginner,Google Cloud,Machine Learning
+802,First Principles of Computer Vision,4.8,3.0,Beginner,Columbia University,Machine Learning
+803,Introduction to Machine Learning: Language Processing,3.9,2.8,Beginner,Google Cloud,Machine Learning
+804,Breast Cancer Prediction Using Machine Learning,4.3,,Intermediate,Coursera Project Network,Machine Learning
+805,Introduction to Statistics,4.6,100.0,Beginner,Stanford University,Machine Learning
+806,Google IT Automation with Python,4.7,600.0,Beginner,Google,Machine Learning
+807,Машинное обучение и анализ данных,4.7,110.0,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+808,Reinforcement Learning,4.7,64.0,Intermediate,University of Alberta,Machine Learning
+809,Practical Data Science with MATLAB,4.7,39.0,Beginner,MathWorks,Machine Learning
+810,SAS Statistical Business Analyst,4.6,6.0,Intermediate,SAS,Machine Learning
+811,Mathematics for Data Science,4.4,67.0,Beginner,HSE University,Machine Learning
+812,Python 3 Programming,4.7,350.0,Beginner,University of Michigan,Machine Learning
+813,Facebook Marketing Analytics,4.7,16.0,Beginner,Meta,Machine Learning
+814,Data Science at Scale,4.2,83.0,Intermediate,University of Washington,Machine Learning
+815,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280.0,Intermediate,DeepLearning.AI,Machine Learning
+816,Hands-on Machine Learning with Google Cloud Labs,3.8,3.0,Intermediate,Google Cloud,Machine Learning
+817,Hands-on Foundations for Data Science and Machine Learning with Google Cloud Labs,4.3,4.6,Intermediate,Google Cloud,Machine Learning
+818,Executive Data Science,4.5,230.0,Beginner,Johns Hopkins University,Machine Learning
+819,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250.0,Intermediate,Google Cloud,Machine Learning
+820,Introduction to Machine Learning in Production,4.8,44.0,Advanced,DeepLearning.AI,Machine Learning
+821,Investment Management with Python and Machine Learning,4.6,52.0,Beginner,EDHEC Business School,Machine Learning
+822,Machine Learning with TensorFlow on Google Cloud,4.5,120.0,Intermediate,Google Cloud,Machine Learning
+823,Data Science: Statistics and Machine Learning,4.4,290.0,Intermediate,Johns Hopkins University,Machine Learning
+824,Structuring Machine Learning Projects,4.8,370.0,Beginner,DeepLearning.AI,Machine Learning
+825,Machine Learning Data Lifecycle in Production,4.4,17.0,Advanced,DeepLearning.AI,Machine Learning
+826,Machine Learning for Trading,3.9,40.0,Intermediate,New York Institute of Finance,Machine Learning
+827,Mathematics for Machine Learning: Linear Algebra,4.7,280.0,Beginner,Imperial College London,Machine Learning
+828,Google Cloud Big Data and Machine Learning Fundamentals,4.7,240.0,Intermediate,Google Cloud,Machine Learning
+829,Machine Learning and Reinforcement Learning in Finance,3.7,41.0,Intermediate,New York University,Machine Learning
+830,Machine Learning Modeling Pipelines in Production,4.5,11.0,Advanced,DeepLearning.AI,Machine Learning
+831,Exploratory Data Analysis for Machine Learning,4.6,28.0,Intermediate,IBM,Machine Learning
+832,Machine Learning Foundations for Product Managers,4.6,4.2,Beginner,Duke University,Machine Learning
+833,Machine Learning Rock Star – the End-to-End Practice,4.8,11.0,Beginner,SAS,Machine Learning
+834,Deploying Machine Learning Models in Production,4.6,9.2,Advanced,DeepLearning.AI,Machine Learning
+835,Fundamentals of Machine Learning for Healthcare,4.8,9.5,Beginner,Stanford University,Machine Learning
+836,Getting Started with AWS Machine Learning,4.5,190.0,Intermediate,Amazon Web Services,Machine Learning
+837,Mathematics for Machine Learning: Multivariate Calculus,4.7,100.0,Beginner,Imperial College London,Machine Learning
+838,Supervised Machine Learning: Regression,4.7,9.8,Intermediate,IBM,Machine Learning
+839,Introduction to Embedded Machine Learning,4.8,15.0,Intermediate,Edge Impulse,Machine Learning
+840,Machine Learning for Supply Chains,3.3,1.7,Intermediate,LearnQuest,Machine Learning
+841,"The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats",4.8,9.2,Beginner,SAS,Machine Learning
+842,"Introduction to Trading, Machine Learning & GCP",4.0,32.0,Intermediate,Google Cloud,Machine Learning
+843,Computer Vision with Embedded Machine Learning,4.7,4.0,Intermediate,Edge Impulse,Machine Learning
+844,Scalable Machine Learning on Big Data using Apache Spark,3.8,20.0,Intermediate,IBM,Machine Learning
+845,Advanced Machine Learning and Signal Processing,4.5,39.0,Advanced,IBM,Machine Learning
+846,機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations,4.9,40.0,Beginner,National Taiwan University,Machine Learning
+847,Machine Learning with TensorFlow on Google Cloud en Français,4.1,1.8,Intermediate,Google Cloud,Machine Learning
+848,Supervised Machine Learning: Classification,4.9,7.8,Intermediate,IBM,Machine Learning
+849,Machine Learning Foundations: A Case Study Approach,4.6,360.0,Mixed,University of Washington,Machine Learning
+850,"Smart Analytics, Machine Learning, and AI on GCP",4.6,26.0,Intermediate,Google Cloud,Machine Learning
+851,How Google does Machine Learning,4.6,110.0,Beginner,Google Cloud,Machine Learning
+852,Mathematics for Machine Learning: PCA,4.0,65.0,Intermediate,Imperial College London,Machine Learning
+853,Machine Learning with TensorFlow on Google Cloud en Español,4.6,9.6,Intermediate,Google Cloud,Machine Learning
+854,Guided Tour of Machine Learning in Finance,3.8,28.0,Intermediate,New York University,Machine Learning
+855,Using Machine Learning in Trading and Finance,4.0,16.0,Intermediate,New York Institute of Finance,Machine Learning
+856,Managing Machine Learning Projects,4.4,,Beginner,Duke University,Machine Learning
+857,Unsupervised Machine Learning,4.8,7.1,Intermediate,IBM,Machine Learning
+858,Python and Machine Learning for Asset Management,3.1,13.0,Intermediate,EDHEC Business School,Machine Learning
+859,Launching into Machine Learning,4.6,39.0,Beginner,Google Cloud,Machine Learning
+860,Machine Learning Rapid Prototyping with IBM Watson Studio,,,Intermediate,IBM,Machine Learning
+861,Data Engineering and Machine Learning using Spark,3.6,3.1,Beginner,IBM,Machine Learning
+862,Create Machine Learning Models in Microsoft Azure,4.7,2.3,Intermediate,Microsoft,Machine Learning
+863,Machine Learning Using SAS Viya,4.7,6.7,Intermediate,SAS,Machine Learning
+864,Deploy Machine Learning Model into AWS Cloud Servers,4.3,,Intermediate,Coursera Project Network,Machine Learning
+865,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,4.5,Intermediate,Google Cloud,Machine Learning
+866,MLOps (Machine Learning Operations) Fundamentals,4.0,24.0,Intermediate,Google Cloud,Machine Learning
+867,Fundamentals of Machine Learning in Finance,3.8,17.0,Intermediate,New York University,Machine Learning
+868,Production Machine Learning Systems,4.6,21.0,Advanced,Google Cloud,Machine Learning
+869,Employee Attrition Prediction Using Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+870,Practical Machine Learning,4.5,140.0,Mixed,Johns Hopkins University,Machine Learning
+871,Building Machine Learning Pipelines in PySpark MLlib,4.3,2.5,Intermediate,Coursera Project Network,Machine Learning
+872,End-to-End Machine Learning with TensorFlow on GCP,4.5,54.0,Advanced,Google Cloud,Machine Learning
+873,Microsoft Azure Machine Learning for Data Scientists,4.6,,Intermediate,Microsoft,Machine Learning
+874,Build a Machine Learning Web App with Streamlit and Python,4.7,9.9,Intermediate,Coursera Project Network,Machine Learning
+875,Machine Learning: Regression,4.8,150.0,Mixed,University of Washington,Machine Learning
+876,Predictive Modeling and Machine Learning with MATLAB,4.8,11.0,Intermediate,MathWorks,Machine Learning
+877,Microsoft Azure Machine Learning,4.7,3.3,Beginner,Microsoft,Machine Learning
+878,Algoritmos de negociación basados en machine learning,,,Intermediate,Universidad de los Andes,Machine Learning
+879,Machine Learning Aplicado ao Marketing,,,Beginner,Fundação Instituto de Administração,Machine Learning
+880,Cloud Machine Learning Engineering and MLOps,4.5,1.7,Intermediate,Duke University,Machine Learning
+881,Statistics for Machine Learning for Investment Professionals,,,Beginner,CFA Institute,Machine Learning
+882,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11.0,Intermediate,EDHEC Business School,Machine Learning
+883,Machine Learning Models in Science,4.0,,Intermediate,LearnQuest,Machine Learning
+884,Art and Science of Machine Learning,4.6,23.0,Intermediate,Google Cloud,Machine Learning
+885,Build and Operate Machine Learning Solutions with Azure,,,Intermediate,Microsoft,Machine Learning
+886,Predictive Modelling with Azure Machine Learning Studio,4.5,9.5,Beginner,Coursera Project Network,Machine Learning
+887,Fundamentals of Machine Learning for Supply Chain,3.9,,Beginner,LearnQuest,Machine Learning
+888,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2.0,Intermediate,Google Cloud,Machine Learning
+889,機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations,4.9,14.0,Intermediate,National Taiwan University,Machine Learning
+890,Applying Machine Learning to your Data with GCP,4.7,16.0,Intermediate,Google Cloud,Machine Learning
+891,Machine Learning With Big Data,4.6,63.0,Mixed,University of California San Diego,Machine Learning
+892,Life Expectancy Prediction Using Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+893,Interpretable Machine Learning Applications: Part 1,4.0,,Beginner,Coursera Project Network,Machine Learning
+894,Using R for Regression and Machine Learning in Investment,,,Intermediate,Sungkyunkwan University,Machine Learning
+895,Interactive Machine Learning Dashboards using Plotly Dash,4.4,,Intermediate,Coursera Project Network,Machine Learning
+896,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18.0,Intermediate,Google Cloud,Machine Learning
+897,Explainable Machine Learning with LIME and H2O in R,4.7,2.0,Intermediate,Coursera Project Network,Machine Learning
+898,Managing Machine Learning Projects with Google Cloud,4.6,110.0,Beginner,Google Cloud,Machine Learning
+899,"Smart Analytics, Machine Learning, and AI on GCP 日本語版",4.6,,Intermediate,Google Cloud,Machine Learning
+900,Practical Machine Learning on H2O,4.5,7.5,Intermediate,H2O,Machine Learning
+901,Ensemble Methods in Machine Learning,4.2,,Intermediate,Coursera Project Network,Machine Learning
+902,Intermediate Machine Learning: TensorFlow on Google Cloud,4.4,,Intermediate,Google Cloud,Machine Learning
+903,Machine Learning: Classification,4.7,110.0,Mixed,University of Washington,Machine Learning
+904,Machine Learning - Anomaly Detection via PyCaret,,,Intermediate,Coursera Project Network,Machine Learning
+905,Machine Learning for Accounting with Python,4.5,6.6,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+906,Train Machine Learning Models,,,Intermediate,CertNexus,Machine Learning
+907,Machine Learning for Kyphosis Disease Classification,,,Beginner,Coursera Project Network,Machine Learning
+908,Machine Learning for Investment Professionals,,,Beginner,CFA Institute,Machine Learning
+909,Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership,4.9,3.4,Beginner,SAS,Machine Learning
+910,How Google does Machine Learning en Español,4.6,6.2,Intermediate,Google Cloud,Machine Learning
+911,"AI Workflow: Machine Learning, Visual Recognition and NLP",4.4,3.1,Advanced,IBM,Machine Learning
+912,Data Science on Google Cloud: Machine Learning,2.3,,Advanced,Google Cloud,Machine Learning
+913,Machine Learning: Clustering & Retrieval,4.7,88.0,Mixed,University of Washington,Machine Learning
+914,Build your first Machine Learning Pipeline using Dataiku,4.6,,Beginner,Coursera Project Network,Machine Learning
+915,Business Application of Machine Learning and Artificial Intelligence in Healthcare,4.2,5.7,Intermediate,Northeastern University,Machine Learning
+916,Machine Learning for Data Analysis,4.2,42.0,Mixed,Wesleyan University,Machine Learning
+917,Solve Business Problems with AI and Machine Learning,4.7,2.0,Intermediate,CertNexus,Machine Learning
+918,Cervical Cancer Risk Prediction Using Machine Learning,4.7,,Beginner,Coursera Project Network,Machine Learning
+919,Explaining machine learning models,,,Intermediate,Coursera Project Network,Machine Learning
+920,Automated Machine Learning en Power BI Clasificación,4.9,,Intermediate,Coursera Project Network,Machine Learning
+921,Visual Machine Learning with Yellowbrick,4.7,3.6,Intermediate,Coursera Project Network,Machine Learning
+922,Diseñando modelos con Azure Machine Learning Studio,4.9,,Beginner,Coursera Project Network,Machine Learning
+923,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2.0,Intermediate,Google Cloud,Machine Learning
+924,Naive Bayes 101: Resume Selection with Machine Learning,4.7,,Intermediate,Coursera Project Network,Machine Learning
+925,Interpretable Machine Learning Applications: Part 2,,,Beginner,Coursera Project Network,Machine Learning
+926,Machine Learning con Spark (MLlib) en Databricks,,,Advanced,Coursera Project Network,Machine Learning
+927,Introduction to Machine Learning in Sports Analytics,,,Intermediate,University of Michigan,Machine Learning
+928,Launching into Machine Learning en Español,4.7,3.0,Intermediate,Google Cloud,Machine Learning
+929,How Google does Machine Learning en Français,4.3,,Intermediate,Google Cloud,Machine Learning
+930,Launching into Machine Learning en Français,4.5,,Intermediate,Google Cloud,Machine Learning
+931,Art and Science of Machine Learning en Français,,,Intermediate,Google Cloud,Machine Learning
+932,Machine Learning Pipelines with Azure ML Studio,4.6,26.0,Beginner,Coursera Project Network,Machine Learning
+933,Introduction to Applied Machine Learning,4.7,20.0,Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+934,Machine Learning Algorithms with R in Business Analytics,4.7,1.5,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+935,機器學習技法 (Machine Learning Techniques),4.9,3.8,Intermediate,National Taiwan University,Machine Learning
+936,Machine Learning Algorithms: Supervised Learning Tip to Tail,4.7,14.0,Mixed,Alberta Machine Intelligence Institute,Machine Learning
+937,Data for Machine Learning,4.4,6.5,Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+938,Project Planning and Machine Learning,4.7,6.0,Intermediate,University of Colorado Boulder,Machine Learning
+939,Deploying Machine Learning Models,3.6,8.8,Mixed,University of California San Diego,Machine Learning
+940,Follow a Machine Learning Workflow,,,Intermediate,CertNexus,Machine Learning
+941,Optimizing Machine Learning Performance,4.6,5.5,Mixed,Alberta Machine Intelligence Institute,Machine Learning
+942,"Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls",4.8,3.5,Beginner,SAS,Machine Learning
+943,Titanic Survival Prediction Using Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+944,How Google does Machine Learning 日本語版,4.5,2.5,Intermediate,Google Cloud,Machine Learning
+945,Machine Learning Basics,,,Mixed,Sungkyunkwan University,Machine Learning
+946,Machine Learning e Data Mining in R,,,Intermediate,Università di Napoli Federico II,Machine Learning
+947,"Smart Analytics, Machine Learning, and AI on GCP en Español",4.7,,Intermediate,Google Cloud,Machine Learning
+948,Advanced Machine Learning: Machine Learning Infrastructure,,,Advanced,Google Cloud,Machine Learning
+949,Automatic Machine Learning with H2O AutoML and Python,4.8,6.3,Intermediate,Coursera Project Network,Machine Learning
+950,Machine Learning with H2O Flow,4.7,3.9,Intermediate,Coursera Project Network,Machine Learning
+951,Curso Completo de Machine Learning en Microsoft Power BI,4.3,,Advanced,Coursera Project Network,Machine Learning
+952,Medical Insurance Premium Prediction with Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+953,"Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R",4.4,4.7,Intermediate,Coursera Project Network,Machine Learning
+954,How Google does Machine Learning em Português Brasileiro,4.8,1.6,Intermediate,Google Cloud,Machine Learning
+955,Automated Machine Learning en Microsoft Power BI,4.3,,Intermediate,Coursera Project Network,Machine Learning
+956,"Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro",4.9,,Intermediate,Google Cloud,Machine Learning
+957,Deploy a predictive machine learning model using IBM Cloud,,,Intermediate,Coursera Project Network,Machine Learning
+958,Build a Machine Learning Image Classifier with Python,,,Intermediate,Coursera Project Network,Machine Learning
+959,Machine Learning Algorithms,,,Mixed,Sungkyunkwan University,Machine Learning
+960,Launching into Machine Learning 日本語版,4.4,,Intermediate,Google Cloud,Machine Learning
+961,Serverless Machine Learning with Tensorflow on Google Cloud auf Deutsch,,,Intermediate,Google Cloud,Machine Learning
+962,Applying Machine Learning to your Data with GCP 日本語版,,,Intermediate,Google Cloud,Machine Learning
+963,Machine Learning con Python. Nivel intermedio,,,Beginner,Coursera Project Network,Machine Learning
+964,Interpretable Machine Learning Applications: Part 4,,,Intermediate,Coursera Project Network,Machine Learning
+965,Preparing Data for Machine Learning Models,,,Intermediate,Coursera Project Network,Machine Learning
+966,"Machine Learning Interpretable: SHAP, PDP y permutacion",,,Intermediate,Coursera Project Network,Machine Learning
+967,"Machine Learning para series temporales con ARIMA, SARIMA...",,,Intermediate,Coursera Project Network,Machine Learning
+968,Machine Learning y Regresión con PySpark. Guía paso a paso,,,Beginner,Coursera Project Network,Machine Learning
+969,Machine Learning con Azure Machine Learning Studio,,,Beginner,Coursera Project Network,Machine Learning
+970,Evaluate Machine Learning Models with Yellowbrick,4.8,2.9,Intermediate,Coursera Project Network,Machine Learning
+971,Generando modelos con Auto Machine Learning,4.4,,Intermediate,Coursera Project Network,Machine Learning
+972,Serverless Machine Learning with Tensorflow on Google Cloud em Português Brasileiro,4.4,,Intermediate,Google Cloud,Machine Learning
+973,Art and Science of Machine Learning em Português Brasileiro,4.6,,Intermediate,Google Cloud,Machine Learning
+974,Interpretable machine learning applications: Part 3,,,Intermediate,Coursera Project Network,Machine Learning
+975,Machine Learning con Python. Nivel Avanzado,,,Intermediate,Coursera Project Network,Machine Learning
+976,Machine Learning Introduction for Everyone,,,Beginner,IBM,Machine Learning
+977,Interpretable machine learning applications: Part 5,,,Beginner,Coursera Project Network,Machine Learning
+978,Machine Learning Interpretable: interpretML y LIME,,,Intermediate,Coursera Project Network,Machine Learning
+979,Interpreting Machine Learning datasets,,,Beginner,Coursera Project Network,Machine Learning
+980,Machine Learning: Predict Poisonous Mushrooms using a Random Forest Model and the FFTrees Package in R,4.6,4.5,Intermediate,Coursera Project Network,Machine Learning
+981,Art and Science of Machine Learning en Español,4.6,2.2,Intermediate,Google Cloud,Machine Learning
+982,Launching into Machine Learning em Português Brasileiro,4.5,,Intermediate,Google Cloud,Machine Learning
+983,"Smart Analytics, Machine Learning, and AI on GCP en Français",,,Intermediate,Google Cloud,Machine Learning
+984,Art and Science of Machine Learning 日本語版,4.3,,Intermediate,Google Cloud,Machine Learning
+985,"Crea un app de Machine Learning con Spark, Synapse Analytics",,,Advanced,Coursera Project Network,Machine Learning
+986,Machine Learning con Pyspark aplicado al campo sanitario,,,Advanced,Coursera Project Network,Machine Learning
+987,Introdução a Machine Learning em uma Competição do Kaggle,,,Beginner,Coursera Project Network,Machine Learning
+988,Desplegando modelos de Machine Learning con Pycaret en Azure,,,Beginner,Coursera Project Network,Machine Learning
+989,Aplicando privacidad en modelos de Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+990,Unsupervised Algorithms in Machine Learning,,,Intermediate,University of Colorado Boulder,Machine Learning
+991,Bike Rental Sharing Demand Prediction with Machine Learning,,,Beginner,Coursera Project Network,Machine Learning
+992,Machine Learning: Algorithms in the Real World,4.6,30.0,Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+993,Machine Learning with TensorFlow Google Cloud 日本語版,4.4,2.8,Intermediate,Google Cloud,Machine Learning
+994,Machine Learning with TensorFlow on Google Cloud em Português Brasileiro,4.7,2.0,Intermediate,Google Cloud,Machine Learning
+995,Machine Learning for Analytics MasterTrack™ Certificate,,,,University of Chicago,Machine Learning
+996,AI and Machine Learning MasterTrack Certificate,,,,Arizona State University,Machine Learning
+997,Master of Science in Machine Learning and Data Science,,,,Imperial College London,Machine Learning
+998,Post Graduate Certificate in Data Science & Machine Learning,,,,IIT Roorkee,Machine Learning
+999,IBM Data Engineering,4.6,500.0,Beginner,IBM,Machine Learning
+1000,AI For Everyone,4.8,750.0,Beginner,DeepLearning.AI,Machine Learning
+1001,TensorFlow: Advanced Techniques,4.8,27.0,Intermediate,DeepLearning.AI,Machine Learning
+1002,Practical Data Science,4.5,16.0,Advanced,DeepLearning.AI,Machine Learning
+1003,Introduction to Discrete Mathematics for Computer Science,4.5,160.0,Beginner,University of California San Diego,Machine Learning
+1004,"Python for Data Science, AI & Development",4.6,380.0,Beginner,IBM,Machine Learning
+1005,Big Data,4.5,340.0,Beginner,University of California San Diego,Machine Learning
+1006,Computational Thinking for Problem Solving,4.7,75.0,Beginner,University of Pennsylvania,Machine Learning
+1007,Convolutional Neural Networks in TensorFlow,4.7,110.0,Intermediate,DeepLearning.AI,Machine Learning
+1008,Advanced Statistics for Data Science,4.4,94.0,Advanced,Johns Hopkins University,Machine Learning
+1009,Data Analysis with Python,4.7,230.0,Beginner,IBM,Machine Learning
+1010,Introduction to Data Science in Python,4.5,660.0,Intermediate,University of Michigan,Machine Learning
+1011,"Sequences, Time Series and Prediction",4.7,91.0,Intermediate,DeepLearning.AI,Machine Learning
+1012,AI for Medical Diagnosis,4.7,50.0,Intermediate,DeepLearning.AI,Machine Learning
+1013,An Intuitive Introduction to Probability,4.8,49.0,Beginner,University of Zurich,Machine Learning
+1014,Applied Social Network Analysis in Python,4.7,85.0,Intermediate,University of Michigan,Machine Learning
+1015,Building Recommendation System Using MXNET on AWS Sagemaker,3.0,,Advanced,Coursera Project Network,Machine Learning
+1016,Exploratory Data Analysis,4.2,5.2,Intermediate,Coursera Project Network,Machine Learning
+1017,Introduction to Data Science and scikit-learn in Python,3.8,,Beginner,LearnQuest,Machine Learning
+1018,Aprendizado de máquina com Python,,,Intermediate,IBM,Machine Learning
+1019,ML Pipelines on Google Cloud,3.5,5.4,Advanced,Google Cloud,Machine Learning
+1020,Object Detection with Amazon Sagemaker,4.5,7.0,Advanced,Coursera Project Network,Machine Learning
+1021,Math for AI beginner part 1 Linear Algebra,,,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Machine Learning
+1022,Semantic Segmentation with Amazon Sagemaker,4.6,5.5,Advanced,Coursera Project Network,Machine Learning
+1023,الشبكات العصبية والتعلم العميق,4.6,3.9,Intermediate,DeepLearning.AI,Machine Learning
+1024,التعلّم الآلي باستخدام لغة بايثون,,,Intermediate,IBM,Machine Learning
+1025,Build a Classification Model using PyCaret,,,Beginner,Coursera Project Network,Machine Learning
+1026,Introduction to Data Science,4.6,690.0,Beginner,IBM,Machine Learning
+1027,Data Science Fundamentals with Python and SQL,4.6,570.0,Beginner,IBM,Machine Learning
+1028,Key Technologies for Business,4.7,730.0,Beginner,IBM,Machine Learning
+1029,Applied Data Science,4.6,500.0,Beginner,IBM,Machine Learning
+1030,IBM AI Foundations for Business,4.7,680.0,Beginner,IBM,Machine Learning
+1031,IBM & Darden Digital Strategy,4.7,360.0,Beginner,IBM,Machine Learning
+1032,IBM Applied AI,4.6,530.0,Beginner,IBM,Machine Learning
+1033,Learn SQL Basics for Data Science,4.6,400.0,Beginner,"University of California, Davis",Machine Learning
+1034,Natural Language Processing,4.6,110.0,Intermediate,DeepLearning.AI,Machine Learning
+1035,Preparing for Google Cloud Certification: Cloud Architect,4.7,610.0,Intermediate,Google Cloud,Machine Learning
+1036,Preparing for Google Cloud Certification: Cloud Engineer,4.7,610.0,Intermediate,Google Cloud,Machine Learning
+1037,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250.0,Intermediate,Google Cloud,Machine Learning
+1038,Blockchain,4.6,190.0,Intermediate,University at Buffalo,Machine Learning
+1039,Architecting with Google Kubernetes Engine,4.7,580.0,Beginner,Google Cloud,Machine Learning
+1040,Preparing for Google Cloud Certification: Cloud Security Engineer,4.7,590.0,Intermediate,Google Cloud,Machine Learning
+1041,AI in Healthcare,4.7,28.0,Beginner,Stanford University,Machine Learning
+1042,Preparing for Google Cloud Certification: Cloud DevOps Engineer,4.7,650.0,Beginner,Google Cloud,Machine Learning
+1043,Preparing for Google Cloud Certification: Cloud Network Engineer,4.7,580.0,Intermediate,Google Cloud,Machine Learning
+1044,Networking in Google Cloud,4.7,580.0,Intermediate,Google Cloud,Machine Learning
+1045,Developing Applications with Google Cloud,4.7,590.0,Intermediate,Google Cloud,Machine Learning
+1046,Algorithms,4.8,220.0,Intermediate,Stanford University,Machine Learning
+1047,Security in Google Cloud,4.7,580.0,Intermediate,Google Cloud,Machine Learning
+1048,Modern Application Development with Java on AWS,4.8,83.0,Beginner,Amazon Web Services,Machine Learning
+1049,Neural Networks and Deep Learning,4.9,1000.0,Intermediate,DeepLearning.AI,Machine Learning
+1050,Accelerated Computer Science Fundamentals,4.7,73.0,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+1051,AI Foundations for Everyone,4.7,180.0,Beginner,IBM,Machine Learning
+1052,Self-Driving Cars,4.7,130.0,Advanced,University of Toronto,Machine Learning
+1053,Geographic Information Systems (GIS),4.8,140.0,Beginner,"University of California, Davis",Machine Learning
+1054,"NoSQL, Big Data, and Spark Foundations",4.3,11.0,Beginner,IBM,Machine Learning
+1055,Tools for Data Science,4.5,260.0,Beginner,IBM,Machine Learning
+1056,Statistics with R,4.6,330.0,Beginner,Duke University,Machine Learning
+1057,Microsoft Azure Fundamentals AZ-900 Exam Prep,4.6,36.0,Beginner,Microsoft,Machine Learning
+1058,Microsoft Azure Data Engineering Associate DP-203 Exam Prep,4.4,7.5,Intermediate,Microsoft,Machine Learning
+1059,MATLAB Programming for Engineers and Scientists,4.8,440.0,Beginner,Vanderbilt University,Machine Learning
+1060,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440.0,Intermediate,DeepLearning.AI,Machine Learning
+1061,Impact Measurement & Management for the SDGs,4.8,7.4,Mixed,Duke University,Machine Learning
+1062,Analyze Data to Answer Questions,4.6,120.0,Beginner,Google,Machine Learning
+1063,AI for Medicine,4.7,53.0,Intermediate,DeepLearning.AI,Machine Learning
+1064,Financial Technology (Fintech) Innovations,4.7,53.0,Beginner,University of Michigan,Machine Learning
+1065,Algorithms for Battery Management Systems,4.7,39.0,Intermediate,University of Colorado Boulder,Machine Learning
+1066,Biostatistics in Public Health,4.8,43.0,Beginner,Johns Hopkins University,Machine Learning
+1067,AI For Everyone （すべての人のためのAIリテラシー講座）,4.8,18.0,Beginner,DeepLearning.AI,Machine Learning
+1068,Advanced Data Science with IBM,4.3,110.0,Advanced,IBM,Machine Learning
+1069,Программирование на Python,4.5,80.0,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+1070,Neuroscience and Neuroimaging,4.6,93.0,Intermediate,Johns Hopkins University,Machine Learning
+1071,Creating Business Value with Data and Looker,4.8,17.0,Intermediate,Google Cloud,Machine Learning
+1072,Natural Language Processing with Classification and Vector Spaces,4.6,100.0,Intermediate,DeepLearning.AI,Machine Learning
+1073,Probabilistic Graphical Models,4.6,84.0,Advanced,Stanford University,Machine Learning
+1074,Statistics with Python,4.6,110.0,Beginner,University of Michigan,Machine Learning
+1075,Convolutional Neural Networks,4.9,400.0,Intermediate,DeepLearning.AI,Machine Learning
+1076,Statistical Analysis with R for Public Health,4.7,42.0,Beginner,Imperial College London,Machine Learning
+1077,Robotics,4.4,150.0,Beginner,University of Pennsylvania,Machine Learning
+1078,Interaction Design,4.5,200.0,Intermediate,University of California San Diego,Machine Learning
+1079,"GIS, Mapping, and Spatial Analysis",4.9,64.0,Beginner,University of Toronto,Machine Learning
+1080,PostgreSQL for Everybody,4.8,15.0,Intermediate,University of Michigan,Machine Learning
+1081,Advanced Business Analytics,4.6,210.0,Intermediate,University of Colorado Boulder,Machine Learning
+1082,Learn English: Beginning Grammar,4.9,12.0,Beginner,"University of California, Irvine",Machine Learning
+1083,Health Informatics,4.4,31.0,Beginner,Johns Hopkins University,Machine Learning
+1084,Build Basic Generative Adversarial Networks (GANs),4.7,38.0,Intermediate,DeepLearning.AI,Machine Learning
+1085,Customer Experiences with Contact Center AI - Dialogflow CX,4.4,3.7,Beginner,Google Cloud,Machine Learning
+1086,From Data to Insights with Google Cloud,4.6,59.0,Beginner,Google Cloud,Machine Learning
+1087,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,3.2,Intermediate,Microsoft,Machine Learning
+1088,Google Cloud Fundamentals: Core Infrastructure,4.7,580.0,Intermediate,Google Cloud,Machine Learning
+1089,Digital Manufacturing & Design Technology,4.6,89.0,Beginner,University at Buffalo,Machine Learning
+1090,Data Mining,4.5,190.0,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+1091,Microsoft Azure Data Fundamentals DP-900 Exam Prep,4.7,7.1,Beginner,Microsoft,Machine Learning
+1092,Ciencia de Datos de IBM,4.5,7.4,Beginner,IBM,Machine Learning
+1093,AI For Business,4.6,2.4,Beginner,University of Pennsylvania,Machine Learning
+1094,Analista de Datos de IBM,4.4,11.0,Beginner,IBM,Machine Learning
+1095,Digital Transformation Using AI/ML with Google Cloud,4.6,150.0,Beginner,Google Cloud,Machine Learning
+1096,Customer Experiences with Contact Center AI - Dialogflow ES,4.4,3.7,Intermediate,Google Cloud,Machine Learning
+1097,Systems Biology and Biotechnology,4.4,66.0,Intermediate,Icahn School of Medicine at Mount Sinai,Machine Learning
+1098,Agile Leadership,4.7,13.0,Beginner,University of Colorado System,Machine Learning
+1099,Recommender Systems,4.3,42.0,Intermediate,University of Minnesota,Machine Learning
+1100,Natural Language Processing in TensorFlow,4.6,100.0,Intermediate,DeepLearning.AI,Machine Learning
+1101,TensorFlow: Data and Deployment,4.6,40.0,Intermediate,DeepLearning.AI,Machine Learning
+1102,Fundamentals of Reinforcement Learning,4.8,61.0,Intermediate,University of Alberta,Machine Learning
+1103,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate 日本語版,4.5,4.9,Intermediate,Google Cloud,Machine Learning
+1104,Extended Reality for Everybody,4.6,9.8,Beginner,University of Michigan,Machine Learning
+1105,Building Cloud Computing Solutions at Scale,4.5,9.2,Intermediate,Duke University,Machine Learning
+1106,TensorFlow 2 for Deep Learning,4.9,30.0,Intermediate,Imperial College London,Machine Learning
+1107,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,4.7,Intermediate,Google Cloud,Machine Learning
+1108,A Crash Course in Causality: Inferring Causal Effects from Observational Data,4.7,30.0,Intermediate,University of Pennsylvania,Machine Learning
+1109,"Open Source Software Development, Linux and Git",4.5,58.0,Beginner,The Linux Foundation,Machine Learning
+1110,Process Mining: Data science in Action,4.7,63.0,Intermediate,Eindhoven University of Technology,Machine Learning
+1111,Business Analytics,4.6,57.0,Beginner,University of Illinois at Urbana-Champaign,Machine Learning
+1112,Analyze Datasets and Train ML Models using AutoML,4.5,14.0,Advanced,DeepLearning.AI,Machine Learning
+1113,Responsive Website Development and Design,4.5,250.0,Beginner,University of London,Machine Learning
+1114,程序设计与算法,4.8,93.0,Beginner,Peking University,Machine Learning
+1115,Swift 5 iOS Application Developer,4.5,23.0,Beginner,LearnQuest,Machine Learning
+1116,Unity XR: How to Build AR and VR Apps,4.1,30.0,Beginner,Unity,Machine Learning
+1117,Natural Language Processing with Probabilistic Models,4.7,43.0,Intermediate,DeepLearning.AI,Machine Learning
+1118,Embedding Sensors and Motors,4.6,61.0,Intermediate,University of Colorado Boulder,Machine Learning
+1119,Data Science with Databricks for Data Analysts,4.5,14.0,Intermediate,Databricks,Machine Learning
+1120,AI & Law,4.7,9.4,Mixed,Lund University,Machine Learning
+1121,Analytics for Decision Making,4.7,4.8,Beginner,University of Minnesota,Machine Learning
+1122,Introduction to Artificial Intelligence (AI),4.7,160.0,Beginner,IBM,Machine Learning
+1123,Машинное обучение: от статистики до нейросетей,4.4,6.1,Intermediate,HSE University,Machine Learning
+1124,Artificial Intelligence in Marketing,4.6,8.7,Beginner,University of Virginia,Machine Learning
+1125,Microsoft Azure AI Fundamentals AI-900 Exam Prep,4.7,7.4,Beginner,Microsoft,Machine Learning
+1126,IBM AI Enterprise Workflow,4.3,9.7,Advanced,IBM,Machine Learning
+1127,Clinical Data Science,4.5,19.0,Intermediate,University of Colorado System,Machine Learning
+1128,Uncommon Sense Teaching,4.8,12.0,Beginner,Deep Teaching Solutions,Machine Learning
+1129,Strategic Sales Management,4.5,21.0,Intermediate,Fundação Instituto de Administração,Machine Learning
+1130,Mind Control: Managing Your Mental Health During COVID-19,4.8,180.0,Beginner,University of Toronto,Machine Learning
+1131,Introduction to Self-Driving Cars,4.7,120.0,Advanced,University of Toronto,Machine Learning
+1132,Introduction to Portfolio Construction and Analysis with Python,4.8,44.0,Mixed,EDHEC Business School,Machine Learning
+1133,Digitalisation in Aeronautics and Space,4.6,8.0,Intermediate,Technische Universität München (TUM),Machine Learning
+1134,Microsoft Azure Developer Associate AZ-204 Test Prep,4.5,2.4,Intermediate,Microsoft,Machine Learning
+1135,Build Better Generative Adversarial Networks (GANs),4.7,16.0,Intermediate,DeepLearning.AI,Machine Learning
+1136,Computational Social Science,4.6,35.0,Beginner,"University of California, Davis",Machine Learning
+1137,Foundations of Teaching for Learning: Being a Teacher,4.6,44.0,Mixed,Commonwealth Education Trust,Machine Learning
+1138,Introduction to Microsoft Azure Cloud Services,4.6,32.0,Beginner,Microsoft,Machine Learning
+1139,Biology Meets Programming: Bioinformatics for Beginners,4.2,130.0,Beginner,University of California San Diego,Machine Learning
+1140,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17.0,Intermediate,DeepLearning.AI,Machine Learning
+1141,Cloud Computing Basics (Cloud 101),4.5,130.0,Beginner,LearnQuest,Machine Learning
+1142,Cloud Computing,4.4,170.0,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+1143,Natural Language Processing with Sequence Models,4.5,37.0,Intermediate,DeepLearning.AI,Machine Learning
+1144,Natural Language Processing with Attention Models,4.3,37.0,Intermediate,DeepLearning.AI,Machine Learning
+1145,Introduction to Augmented Reality and ARCore,4.5,67.0,Beginner,Google AR & VR,Machine Learning
+1146,Image Processing for Engineering and Science,4.6,,Beginner,MathWorks,Machine Learning
+1147,"Sleep: Neurobiology, Medicine, and Society",4.8,46.0,Beginner,University of Michigan,Machine Learning
+1148,Architecting Hybrid Cloud Infrastructure with Anthos,4.7,9.2,Intermediate,Google Cloud,Machine Learning
+1149,Ordered Data Structures,4.8,17.0,Mixed,University of Illinois at Urbana-Champaign,Machine Learning
+1150,Foundations of Data Science: K-Means Clustering in Python,4.7,27.0,Beginner,University of London,Machine Learning
+1151,Interviewing and Resume Writing in English,4.6,110.0,Intermediate,"University of Maryland, College Park",Machine Learning
+1152,Summary Statistics in Public Health,4.8,34.0,Beginner,Johns Hopkins University,Machine Learning
+1153,Accounting Data Analytics,4.7,29.0,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+1154,Advanced Computer Vision with TensorFlow,4.8,16.0,Intermediate,DeepLearning.AI,Machine Learning
+1155,Big Data – Introducción al uso práctico de datos masivos,4.6,44.0,Beginner,Universitat Autònoma de Barcelona,Machine Learning
+1156,Apply Generative Adversarial Networks (GANs),4.8,14.0,Intermediate,DeepLearning.AI,Machine Learning
+1157,Psicología,4.8,24.0,Beginner,Universidad de Palermo,Machine Learning
+1158,"Build, Train, and Deploy ML Pipelines using BERT",4.6,6.4,Advanced,DeepLearning.AI,Machine Learning
+1159,Word Forms and Simple Present Tense,4.9,12.0,Beginner,"University of California, Irvine",Machine Learning
+1160,Model Thinking,4.8,180.0,Mixed,University of Michigan,Machine Learning
+1161,Data Analysis and Interpretation,4.4,140.0,Beginner,Wesleyan University,Machine Learning
+1162,Introduction to Applied Cryptography,4.6,29.0,Beginner,University of Colorado System,Machine Learning
+1163,Healthcare Marketplace,4.5,61.0,Beginner,University of Minnesota,Machine Learning
+1164,Applied Cryptography,4.5,23.0,Intermediate,University of Colorado System,Machine Learning
+1165,Computational Neuroscience,4.6,95.0,Beginner,University of Washington,Machine Learning
+1166,Bayesian Statistics: Techniques and Models,4.8,48.0,Intermediate,"University of California, Santa Cruz",Machine Learning
+1167,Healthcare Trends for Business Professionals,4.4,12.0,Beginner,Northeastern University,Machine Learning
+1168,Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate en Español,4.8,18.0,Intermediate,Google Cloud,Machine Learning
+1169,Introduction to Clinical Data,4.6,8.4,Beginner,Stanford University,Machine Learning
+1170,Custom and Distributed Training with TensorFlow,4.8,9.1,Intermediate,DeepLearning.AI,Machine Learning
+1171,Sample-based Learning Methods,4.8,22.0,Intermediate,University of Alberta,Machine Learning
+1172,Applied Data Science Capstone,4.7,93.0,Intermediate,IBM,Machine Learning
+1173,Innovating with Data and Google Cloud,4.8,8.5,Beginner,Google Cloud,Machine Learning
+1174,Data-driven Astronomy,4.8,26.0,Intermediate,The University of Sydney,Machine Learning
+1175,Practical Time Series Analysis,4.6,66.0,Intermediate,The State University of New York,Machine Learning
+1176,Ciencia de Datos Aplicada,4.6,3.5,Beginner,IBM,Machine Learning
+1177,Developing Industrial Internet of Things,4.6,25.0,Intermediate,University of Colorado Boulder,Machine Learning
+1178,SAS Visual Business Analytics,4.7,26.0,Beginner,SAS,Machine Learning
+1179,Embedded Software and Hardware Architecture,4.5,29.0,Intermediate,University of Colorado Boulder,Machine Learning
+1180,Data-Driven Decision Making (DDDM),4.5,7.7,Beginner,University at Buffalo,Machine Learning
+1181,Statistics with SAS,4.8,24.0,Intermediate,SAS,Machine Learning
+1182,Fundamentals of Digital Image and Video Processing,4.6,110.0,Mixed,Northwestern University,Machine Learning
+1183,Data Literacy,4.6,5.4,Beginner,Johns Hopkins University,Machine Learning
+1184,AI for Medical Prognosis,4.7,19.0,Intermediate,DeepLearning.AI,Machine Learning
+1185,Fundamentals of Scalable Data Science,4.3,63.0,Beginner,IBM,Machine Learning
+1186,Deep Neural Networks with PyTorch,4.4,32.0,Intermediate,IBM,Machine Learning
+1187,Distributed Computing with Spark SQL,4.5,27.0,Intermediate,"University of California, Davis",Machine Learning
+1188,Introduction to Deep Learning & Neural Networks with Keras,4.7,23.0,Intermediate,IBM,Machine Learning
+1189,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate en Español,4.7,20.0,Intermediate,Google Cloud,Machine Learning
+1190,"Data Engineering, Big Data and ML on Google Cloud en Español",4.7,19.0,Intermediate,Google Cloud,Machine Learning
+1191,The Basics of Trauma Surgery,4.5,11.0,Intermediate,Technische Universität München (TUM),Machine Learning
+1192,Bases de Inteligencia Artificial para Todos,4.7,8.0,Beginner,IBM,Machine Learning
+1193,Introduction to Computer Vision and Image Processing,4.4,28.0,Beginner,IBM,Machine Learning
+1194,Protecting the World: Introducing Corrosion Science and Engineering,4.6,12.0,Intermediate,University of Manchester,Machine Learning
+1195,Liderazgo y habilidades de negociación,4.7,3.8,Advanced,Tecnológico de Monterrey,Machine Learning
+1196,Architecting with Google Compute Engine en Español,4.8,17.0,Intermediate,Google Cloud,Machine Learning
+1197,Solving Complex Problems,4.6,24.0,Beginner,Macquarie University,Machine Learning
+1198,"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",4.8,62.0,Intermediate,Stanford University,Machine Learning
+1199,Supply Chain Excellence,4.7,8.8,Intermediate,Rutgers the State University of New Jersey,Machine Learning
+1200,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,4.6,63.0,Mixed,The University of Edinburgh,Machine Learning
+1201,Emerging Technologies: From Smartphones to IoT to Big Data,4.7,75.0,Beginner,Yonsei University,Machine Learning
+1202,Rédaction de contrats,4.8,20.0,Mixed,University of Geneva,Machine Learning
+1203,Supervision du raisonnement clinique,4.8,2.0,Beginner,University of Geneva,Machine Learning
+1204,Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles,4.8,26.0,Beginner,Deep Teaching Solutions,Machine Learning
+1205,Data Science Fundamentals,4.1,5.4,Beginner,"University of California, Irvine",Machine Learning
+1206,Improving your statistical inferences,4.9,61.0,Intermediate,Eindhoven University of Technology,Machine Learning
+1207,A Crash Course in Data Science,4.5,180.0,Beginner,Johns Hopkins University,Machine Learning
+1208,NLP: Twitter Sentiment Analysis,4.6,8.6,Beginner,Coursera Project Network,Machine Learning
+1209,Sentiment Analysis with Deep Learning using BERT,4.5,12.0,Intermediate,Coursera Project Network,Machine Learning
+1210,Evaluations of AI Applications in Healthcare,4.5,5.5,Beginner,Stanford University,Machine Learning
+1211,"Introduction to XR: VR, AR, and MR Foundations",4.2,22.0,Beginner,Unity,Machine Learning
+1212,The Social and Technical Context of Health Informatics,4.2,20.0,Beginner,Johns Hopkins University,Machine Learning
+1213,Mastering Digital Twins,4.0,6.6,Beginner,EIT Digital,Machine Learning
+1214,Getting Started with AI using IBM Watson,4.5,33.0,Beginner,IBM,Machine Learning
+1215,Autodesk Certified Professional: Revit for Structural Design Exam Prep,4.7,27.0,Advanced,Autodesk,Machine Learning
+1216,Infection Prevention in Nursing Homes,4.8,21.0,Mixed,The University of North Carolina at Chapel Hill,Machine Learning
+1217,Applied Digital Literacy,4.8,1.6,Beginner,The State University of New York,Machine Learning
+1218,Probability and Statistics: To p or not to p?,4.6,66.0,Beginner,University of London,Machine Learning
+1219,Strategising: Management for Global Competitive Advantage,4.8,36.0,Beginner,Macquarie University,Machine Learning
+1220,Motion Planning for Self-Driving Cars,4.8,29.0,Advanced,University of Toronto,Machine Learning
+1221,Transformación digital,4.8,1.6,Beginner,BCG,Machine Learning
+1222,The Bilingual Brain,4.6,28.0,Mixed,University of Houston,Machine Learning
+1223,"Intro to AR/VR/MR/XR: Technologies, Applications & Issues",4.7,7.1,Beginner,University of Michigan,Machine Learning
+1224,Analítica de Procesos: Optimización desde los Datos,4.9,,Beginner,Universidad de los Andes,Machine Learning
+1225,HR Analytics- Build an HR dashboard using Power BI,4.3,,Beginner,Coursera Project Network,Machine Learning
+1226,Data Science in Stratified Healthcare and Precision Medicine,4.6,17.0,Intermediate,The University of Edinburgh,Machine Learning
+1227,Particle Physics: an Introduction,4.4,67.0,Mixed,University of Geneva,Machine Learning
+1228,Building AI Powered Chatbots Without Programming,4.8,39.0,Beginner,IBM,Machine Learning
+1229,Generative Deep Learning with TensorFlow,4.8,7.3,Intermediate,DeepLearning.AI,Machine Learning
+1230,MRI Fundamentals,4.6,15.0,Intermediate,Korea Advanced Institute of Science and Technology(KAIST),Machine Learning
+1231,AI in Healthcare Capstone,4.7,3.6,Mixed,Stanford University,Machine Learning
+1232,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,9.9,Intermediate,Coursera Project Network,Machine Learning
+1233,Preparing for the Google Cloud Professional Data Engineer Exam,4.6,37.0,Advanced,Google Cloud,Machine Learning
+1234,Getting started with TensorFlow 2,4.9,25.0,Intermediate,Imperial College London,Machine Learning
+1235,Introduction to High-Performance and Parallel Computing,3.0,5.1,Beginner,University of Colorado Boulder,Machine Learning
+1236,Interactive Teaching（インタラクティブ・ティーチング）,4.7,1.7,Mixed,The University of Tokyo,Machine Learning
+1237,"Philosophy, Science and Religion: Science and Philosophy",4.5,43.0,Beginner,The University of Edinburgh,Machine Learning
+1238,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,2.3,Intermediate,Google Cloud,Machine Learning
+1239,Mind and Machine,4.4,15.0,Beginner,University of Colorado Boulder,Machine Learning
+1240,Optimize ML Models and Deploy Human-in-the-Loop Pipelines,4.7,3.5,Advanced,DeepLearning.AI,Machine Learning
+1241,"AI, Business & the Future of Work",4.6,,Beginner,Lund University,Machine Learning
+1242,AI Fundamentals for Non-Data Scientists,4.8,,Mixed,University of Pennsylvania,Machine Learning
+1243,Materials Data Sciences and Informatics,4.5,13.0,Intermediate,Georgia Institute of Technology,Machine Learning
+1244,Oceanography: a key to better understand our world,4.5,19.0,Mixed,Universitat de Barcelona,Machine Learning
+1245,Architecting with Google Kubernetes Engine en Español,4.8,16.0,Beginner,Google Cloud,Machine Learning
+1246,Blockchain Platforms,4.6,25.0,Intermediate,University at Buffalo,Machine Learning
+1247,New Technologies for Business Leaders,4.4,20.0,Intermediate,Rutgers the State University of New Jersey,Machine Learning
+1248,Introduction to Image Processing,4.7,,Beginner,MathWorks,Machine Learning
+1249,Prediction and Control with Function Approximation,4.8,17.0,Intermediate,University of Alberta,Machine Learning
+1250,Introducción a la inteligencia artificial,4.6,22.0,Intermediate,Universidad Nacional Autónoma de México,Machine Learning
+1251,Cloud Computing Foundations,4.6,6.2,Beginner,Duke University,Machine Learning
+1252,Autodesk Generative Design for Manufacturing,4.8,16.0,Advanced,Autodesk,Machine Learning
+1253,Alternative Mobility Narratives,4.8,1.8,Intermediate,University of Amsterdam,Machine Learning
+1254,Engineering Systems in Motion: Dynamics of Particles and Bodies in 2D Motion,4.9,40.0,Mixed,Georgia Institute of Technology,Machine Learning
+1255,"Introduction to Data, Signal, and Image Analysis with MATLAB",4.8,18.0,Intermediate,Vanderbilt University,Machine Learning
+1256,Introduction to advanced tomography,4.6,3.0,Mixed,Technical University of Denmark (DTU),Machine Learning
+1257,AI For Medical Treatment,4.7,17.0,Intermediate,DeepLearning.AI,Machine Learning
+1258,Ethics in the Age of AI,4.7,7.3,Beginner,LearnQuest,Machine Learning
+1259,Sports and Building Aerodynamics,4.8,12.0,Intermediate,Eindhoven University of Technology,Machine Learning
+1260,Initiation à la programmation (en C++),4.8,39.0,Beginner,École Polytechnique Fédérale de Lausanne,Machine Learning
+1261,Blended Language Learning: Design and Practice for Teachers,4.8,9.4,Intermediate,University of Colorado Boulder,Machine Learning
+1262,Contact Center AI: Conversational Design Fundamentals,4.4,3.4,Beginner,Google Cloud,Machine Learning
+1263,Introduction to Predictive Modeling,4.9,2.6,Mixed,University of Minnesota,Machine Learning
+1264,Preparing for the AZ-900 Microsoft Azure Fundamentals Exam,4.8,8.7,Beginner,Microsoft,Machine Learning
+1265,Equivalent Circuit Cell Model Simulation,4.7,12.0,Intermediate,University of Colorado Boulder,Machine Learning
+1266,Life 101: Mental and Physical Self-Care,4.8,5.2,Beginner,"University of California, Irvine",Machine Learning
+1267,Manejo del enfermo semicrítico y crítico por COVID-19,4.8,8.3,Advanced,Universitat de Barcelona,Machine Learning
+1268,IA para todos,4.9,23.0,Beginner,DeepLearning.AI,Machine Learning
+1269,Microsoft Azure Management Tools and Security Solutions,4.8,7.5,Beginner,Microsoft,Machine Learning
