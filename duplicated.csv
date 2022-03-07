@@ -1,0 +1,415 @@
+,course,rating,students,level,university,skills
+1000,AI For Everyone,4.8,750 mil,Beginner,DeepLearning.AI,Machine Learning
+1300,AI For Everyone,4.8,750 mil,Beginner,DeepLearning.AI,Java
+733,AI for Medical Prognosis,4.7,19 mil,Intermediate,DeepLearning.AI,Python
+1184,AI for Medical Prognosis,4.7,19 mil,Intermediate,DeepLearning.AI,Machine Learning
+687,AI for Medicine,4.7,53 mil,Intermediate,DeepLearning.AI,Python
+1063,AI for Medicine,4.7,53 mil,Intermediate,DeepLearning.AI,Machine Learning
+722,Accounting Data Analytics,4.7,29 mil,Intermediate,University of Illinois at Urbana-Champaign,Python
+1153,Accounting Data Analytics,4.7,29 mil,Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+209,Advanced Business Analytics,4.6,210 mil,Intermediate,University of Colorado Boulder,Tableau
+1081,Advanced Business Analytics,4.6,210 mil,Intermediate,University of Colorado Boulder,Machine Learning
+723,Advanced Computer Vision with TensorFlow,4.8,16 mil,Intermediate,DeepLearning.AI,Python
+1154,Advanced Computer Vision with TensorFlow,4.8,16 mil,Intermediate,DeepLearning.AI,Machine Learning
+300,Advanced Data Science with IBM,4.3,110 mil,Advanced,IBM,Python
+1068,Advanced Data Science with IBM,4.3,110 mil,Advanced,IBM,Machine Learning
+662,Advanced Django: Advanced Django Rest Framework,None,None,Advanced,Codio,Python
+1575,Advanced Django: Advanced Django Rest Framework,None,None,Advanced,Codio,Java
+311,Advanced Machine Learning,4.4,350 mil,Advanced,HSE University,Python
+778,Advanced Machine Learning,4.4,350 mil,Advanced,HSE University,Machine Learning
+646,Advanced Machine Learning and Signal Processing,4.5,39 mil,Advanced,IBM,Python
+845,Advanced Machine Learning and Signal Processing,4.5,39 mil,Advanced,IBM,Machine Learning
+698,Advanced Machine Learning on Google Cloud,4.4,69 mil,Advanced,Google Cloud,Python
+786,Advanced Machine Learning on Google Cloud,4.4,69 mil,Advanced,Google Cloud,Machine Learning
+610,Advanced Statistics for Data Science,4.4,94 mil,Advanced,Johns Hopkins University,Python
+1008,Advanced Statistics for Data Science,4.4,94 mil,Advanced,Johns Hopkins University,Machine Learning
+699,Analista de Datos de IBM,4.4,11 mil,Beginner,IBM,Python
+1094,Analista de Datos de IBM,4.4,11 mil,Beginner,IBM,Machine Learning
+708,Analyze Datasets and Train ML Models using AutoML,4.5,14 mil,Advanced,DeepLearning.AI,Python
+1112,Analyze Datasets and Train ML Models using AutoML,4.5,14 mil,Advanced,DeepLearning.AI,Machine Learning
+599,Applied Data Science,4.6,500 mil,Beginner,IBM,Python
+1029,Applied Data Science,4.6,500 mil,Beginner,IBM,Machine Learning
+275,Applied Data Science with Python,4.5,800 mil,Intermediate,University of Michigan,Python
+776,Applied Data Science with Python,4.5,800 mil,Intermediate,University of Michigan,Machine Learning
+346,Applied Machine Learning in Python,4.6,250 mil,Intermediate,University of Michigan,Python
+794,Applied Machine Learning in Python,4.6,250 mil,Intermediate,University of Michigan,Machine Learning
+477,Applied Social Network Analysis in Python,4.7,85 mil,Intermediate,University of Michigan,Python
+1014,Applied Social Network Analysis in Python,4.7,85 mil,Intermediate,University of Michigan,Machine Learning
+487,Aprendizado de máquina com Python,None,None,Intermediate,IBM,Python
+1018,Aprendizado de máquina com Python,None,None,Intermediate,IBM,Machine Learning
+541,Automatic Machine Learning with H2O AutoML and Python,4.8,"6,3 mil",Intermediate,Coursera Project Network,Python
+949,Automatic Machine Learning with H2O AutoML and Python,4.8,"6,3 mil",Intermediate,Coursera Project Network,Machine Learning
+281,Bachelor of Science in Computer Science,None,None,None,University of London,Python
+791,Bachelor of Science in Computer Science,None,None,None,University of London,Machine Learning
+1501,Bachelor of Science in Computer Science,None,None,None,University of London,Java
+737,Bases de Inteligencia Artificial para Todos,4.7,8 mil,Beginner,IBM,Python
+1192,Bases de Inteligencia Artificial para Todos,4.7,8 mil,Beginner,IBM,Machine Learning
+690,Big Data,4.5,340 mil,Beginner,University of California San Diego,Python
+1005,Big Data,4.5,340 mil,Beginner,University of California San Diego,Machine Learning
+614,Biology Meets Programming: Bioinformatics for Beginners,4.2,130 mil,Beginner,University of California San Diego,Python
+1139,Biology Meets Programming: Bioinformatics for Beginners,4.2,130 mil,Beginner,University of California San Diego,Machine Learning
+143,Blockchain,4.6,190 mil,Intermediate,University at Buffalo,MongoDB
+1038,Blockchain,4.6,190 mil,Intermediate,University at Buffalo,Machine Learning
+760,Browser-based Models with TensorFlow.js,4.7,32 mil,Intermediate,DeepLearning.AI,Python
+1540,Browser-based Models with TensorFlow.js,4.7,32 mil,Intermediate,DeepLearning.AI,Java
+696,Build Basic Generative Adversarial Networks (GANs),4.7,38 mil,Intermediate,DeepLearning.AI,Python
+1084,Build Basic Generative Adversarial Networks (GANs),4.7,38 mil,Intermediate,DeepLearning.AI,Machine Learning
+659,Build Your First Android App (Project-Centered Course),4.2,330 mil,Mixed,CentraleSupélec,Python
+1653,Build Your First Android App (Project-Centered Course),4.2,330 mil,Mixed,CentraleSupélec,Java
+666,Build a Classification Model using PyCaret,None,None,Beginner,Coursera Project Network,Python
+1025,Build a Classification Model using PyCaret,None,None,Beginner,Coursera Project Network,Machine Learning
+555,Build a Machine Learning Image Classifier with Python,None,None,Intermediate,Coursera Project Network,Python
+958,Build a Machine Learning Image Classifier with Python,None,None,Intermediate,Coursera Project Network,Machine Learning
+366,Build a Machine Learning Web App with Streamlit and Python,4.7,"9,9 mil",Intermediate,Coursera Project Network,Python
+874,Build a Machine Learning Web App with Streamlit and Python,4.7,"9,9 mil",Intermediate,Coursera Project Network,Machine Learning
+461,Building Modern Python Applications on AWS,4.5,73 mil,Intermediate,Amazon Web Services,Python
+1618,Building Modern Python Applications on AWS,4.5,73 mil,Intermediate,Amazon Web Services,Java
+4,Building a Dynamic Web App using PHP & MySQL,4.4,"5,8 mil",Beginner,Coursera Project Network,MySQL
+1541,Building a Dynamic Web App using PHP & MySQL,4.4,"5,8 mil",Beginner,Coursera Project Network,Java
+173,"Career planning: Your career, your life",4.8,"7,5 mil",Mixed,Macquarie University,MongoDB
+183,"Career planning: Your career, your life",4.8,"7,5 mil",Mixed,Macquarie University,MongoDB
+731,Ciencia de Datos Aplicada,4.6,"3,5 mil",Beginner,IBM,Python
+1176,Ciencia de Datos Aplicada,4.6,"3,5 mil",Beginner,IBM,Machine Learning
+611,Ciencia de Datos de IBM,4.5,"7,4 mil",Beginner,IBM,Python
+1092,Ciencia de Datos de IBM,4.5,"7,4 mil",Beginner,IBM,Machine Learning
+726,Computational Neuroscience,4.6,95 mil,Beginner,University of Washington,Python
+1165,Computational Neuroscience,4.6,95 mil,Beginner,University of Washington,Machine Learning
+608,Computational Thinking for Problem Solving,4.7,75 mil,Beginner,University of Pennsylvania,Python
+1006,Computational Thinking for Problem Solving,4.7,75 mil,Beginner,University of Pennsylvania,Machine Learning
+625,Computer Science: Programming with a Purpose,4.7,150 mil,Beginner,Princeton University,Python
+1287,Computer Science: Programming with a Purpose,4.7,150 mil,Beginner,Princeton University,Java
+1262,Contact Center AI: Conversational Design Fundamentals,4.4,"3,4 mil",Beginner,Google Cloud,Machine Learning
+1620,Contact Center AI: Conversational Design Fundamentals,4.4,"3,4 mil",Beginner,Google Cloud,Java
+85,Containerize a full-stack NodeJS application in Docker,4.5,"2,7 mil",Intermediate,Coursera Project Network,MongoDB
+1595,Containerize a full-stack NodeJS application in Docker,4.5,"2,7 mil",Intermediate,Coursera Project Network,Java
+691,Convolutional Neural Networks,4.9,400 mil,Intermediate,DeepLearning.AI,Python
+1075,Convolutional Neural Networks,4.9,400 mil,Intermediate,DeepLearning.AI,Machine Learning
+695,Convolutional Neural Networks in TensorFlow,4.7,110 mil,Intermediate,DeepLearning.AI,Python
+1007,Convolutional Neural Networks in TensorFlow,4.7,110 mil,Intermediate,DeepLearning.AI,Machine Learning
+767,Create Machine Learning Models in Microsoft Azure,4.7,"2,3 mil",Intermediate,Microsoft,Python
+862,Create Machine Learning Models in Microsoft Azure,4.7,"2,3 mil",Intermediate,Microsoft,Machine Learning
+68,Create Your First NoSQL Database with MongoDB and Compass,4.6,"2,8 mil",Intermediate,Coursera Project Network,MongoDB
+1574,Create Your First NoSQL Database with MongoDB and Compass,4.6,"2,8 mil",Intermediate,Coursera Project Network,Java
+10,Create a Python Application using MySQL,4.5,5 mil,Intermediate,Coursera Project Network,MySQL
+382,Create a Python Application using MySQL,4.5,5 mil,Intermediate,Coursera Project Network,Python
+64,Create a Python Application using PyMongo and MongoDB Database,4.4,"3,2 mil",Intermediate,Coursera Project Network,MongoDB
+481,Create a Python Application using PyMongo and MongoDB Database,4.4,"3,2 mil",Intermediate,Coursera Project Network,Python
+720,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17 mil,Intermediate,DeepLearning.AI,Python
+1140,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17 mil,Intermediate,DeepLearning.AI,Machine Learning
+728,Custom and Distributed Training with TensorFlow,4.8,"9,1 mil",Intermediate,DeepLearning.AI,Python
+1170,Custom and Distributed Training with TensorFlow,4.8,"9,1 mil",Intermediate,DeepLearning.AI,Machine Learning
+1096,Customer Experiences with Contact Center AI - Dialogflow ES,4.4,"3,7 mil",Intermediate,Google Cloud,Machine Learning
+1512,Customer Experiences with Contact Center AI - Dialogflow ES,4.4,"3,7 mil",Intermediate,Google Cloud,Java
+615,Data Analysis and Interpretation,4.4,140 mil,Beginner,Wesleyan University,Python
+1161,Data Analysis and Interpretation,4.4,140 mil,Beginner,Wesleyan University,Machine Learning
+320,Data Analysis with Python,4.7,230 mil,Beginner,IBM,Python
+1009,Data Analysis with Python,4.7,230 mil,Beginner,IBM,Machine Learning
+749,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,"2,3 mil",Intermediate,Google Cloud,Python
+1238,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,"2,3 mil",Intermediate,Google Cloud,Machine Learning
+765,Data Engineering and Machine Learning using Spark,3.6,"3,1 mil",Beginner,IBM,Python
+861,Data Engineering and Machine Learning using Spark,3.6,"3,1 mil",Beginner,IBM,Machine Learning
+707,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,"4,7 mil",Intermediate,Google Cloud,Python
+1107,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,"4,7 mil",Intermediate,Google Cloud,Machine Learning
+673,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250 mil,Intermediate,Google Cloud,Python
+819,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250 mil,Intermediate,Google Cloud,Machine Learning
+785,Data Science,4.5,"1,2 m",Beginner,Johns Hopkins University,Machine Learning
+1477,Data Science,4.5,"1,2 m",Beginner,Johns Hopkins University,Java
+274,Data Science Fundamentals with Python and SQL,4.6,570 mil,Beginner,IBM,Python
+1027,Data Science Fundamentals with Python and SQL,4.6,570 mil,Beginner,IBM,Machine Learning
+631,Data Science at Scale,4.2,83 mil,Intermediate,University of Washington,Python
+814,Data Science at Scale,4.2,83 mil,Intermediate,University of Washington,Machine Learning
+745,Data Science in Stratified Healthcare and Precision Medicine,4.6,17 mil,Intermediate,The University of Edinburgh,Python
+1226,Data Science in Stratified Healthcare and Precision Medicine,4.6,17 mil,Intermediate,The University of Edinburgh,Machine Learning
+630,Data for Machine Learning,4.4,"6,5 mil",Intermediate,Alberta Machine Intelligence Institute,Python
+937,Data for Machine Learning,4.4,"6,5 mil",Intermediate,Alberta Machine Intelligence Institute,Machine Learning
+730,Data-driven Astronomy,4.8,26 mil,Intermediate,The University of Sydney,Python
+1174,Data-driven Astronomy,4.8,26 mil,Intermediate,The University of Sydney,Machine Learning
+667,Deep Learning,4.8,"1,2 m",Intermediate,DeepLearning.AI,Python
+773,Deep Learning,4.8,"1,2 m",Intermediate,DeepLearning.AI,Machine Learning
+734,Deep Neural Networks with PyTorch,4.4,32 mil,Intermediate,IBM,Python
+1186,Deep Neural Networks with PyTorch,4.4,32 mil,Intermediate,IBM,Machine Learning
+316,DeepLearning.AI TensorFlow Developer,4.7,330 mil,Intermediate,DeepLearning.AI,Python
+787,DeepLearning.AI TensorFlow Developer,4.7,330 mil,Intermediate,DeepLearning.AI,Machine Learning
+768,Deploy Machine Learning Model into AWS Cloud Servers,4.3,None,Intermediate,Coursera Project Network,Python
+864,Deploy Machine Learning Model into AWS Cloud Servers,4.3,None,Intermediate,Coursera Project Network,Machine Learning
+70,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,11 mil,Beginner,Universidad Austral,MongoDB
+1582,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,11 mil,Beginner,Universidad Austral,Java
+748,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,"9,9 mil",Intermediate,Coursera Project Network,Python
+1232,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,"9,9 mil",Intermediate,Coursera Project Network,Machine Learning
+516,DevOps and Build Automation with Python,4,None,Beginner,LearnQuest,Python
+1583,DevOps and Build Automation with Python,4,None,Beginner,LearnQuest,Java
+1045,Developing Applications with Google Cloud,4.7,590 mil,Intermediate,Google Cloud,Machine Learning
+1608,Developing Applications with Google Cloud,4.7,590 mil,Intermediate,Google Cloud,Java
+171,Digital Business - Understand the digital world,4.4,None,Mixed,Institut Mines-Télécom,MongoDB
+181,Digital Business - Understand the digital world,4.4,None,Mixed,Institut Mines-Télécom,MongoDB
+290,Django for Everybody,4.7,73 mil,Intermediate,University of Michigan,Python
+1510,Django for Everybody,4.7,73 mil,Intermediate,University of Michigan,Java
+1,Excel to MySQL: Analytic Techniques for Business,4.6,660 mil,Beginner,Duke University,MySQL
+203,Excel to MySQL: Analytic Techniques for Business,4.6,660 mil,Beginner,Duke University,Tableau
+658,Exploratory Data Analysis,4.2,"5,2 mil",Intermediate,Coursera Project Network,Python
+1016,Exploratory Data Analysis,4.2,"5,2 mil",Intermediate,Coursera Project Network,Machine Learning
+713,Exploratory Data Analysis for Machine Learning,4.6,28 mil,Intermediate,IBM,Python
+831,Exploratory Data Analysis for Machine Learning,4.6,28 mil,Intermediate,IBM,Machine Learning
+1104,Extended Reality for Everybody,4.6,"9,8 mil",Beginner,University of Michigan,Machine Learning
+1513,Extended Reality for Everybody,4.6,"9,8 mil",Beginner,University of Michigan,Java
+248,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Tableau
+313,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Python
+813,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Machine Learning
+329,Foundations of Data Science: K-Means Clustering in Python,4.7,27 mil,Beginner,University of London,Python
+1150,Foundations of Data Science: K-Means Clustering in Python,4.7,27 mil,Beginner,University of London,Machine Learning
+76,Full Stack Web Development with Angular,4.7,350 mil,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+1481,Full Stack Web Development with Angular,4.7,350 mil,Intermediate,The Hong Kong University of Science and Technology,Java
+75,Full-Stack Web Development with React,4.7,360 mil,Intermediate,The Hong Kong University of Science and Technology,MongoDB
+1480,Full-Stack Web Development with React,4.7,360 mil,Intermediate,The Hong Kong University of Science and Technology,Java
+643,Fundamentals of Scalable Data Science,4.3,63 mil,Beginner,IBM,Python
+1185,Fundamentals of Scalable Data Science,4.3,63 mil,Beginner,IBM,Machine Learning
+678,Generative Adversarial Networks (GANs),4.7,40 mil,Intermediate,DeepLearning.AI,Python
+789,Generative Adversarial Networks (GANs),4.7,40 mil,Intermediate,DeepLearning.AI,Machine Learning
+747,Generative Deep Learning with TensorFlow,4.8,"7,3 mil",Intermediate,DeepLearning.AI,Python
+1229,Generative Deep Learning with TensorFlow,4.8,"7,3 mil",Intermediate,DeepLearning.AI,Machine Learning
+618,Getting started with TensorFlow 2,4.9,25 mil,Intermediate,Imperial College London,Python
+1234,Getting started with TensorFlow 2,4.9,25 mil,Intermediate,Imperial College London,Machine Learning
+179,Giving 2.0: The MOOC,4.6,30 mil,Mixed,Stanford University,MongoDB
+189,Giving 2.0: The MOOC,4.6,30 mil,Mixed,Stanford University,MongoDB
+39,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18 mil,Intermediate,Google Cloud,MySQL
+896,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18 mil,Intermediate,Google Cloud,Machine Learning
+38,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2 mil,Intermediate,Google Cloud,MySQL
+888,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2 mil,Intermediate,Google Cloud,Machine Learning
+34,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,"4,5 mil",Intermediate,Google Cloud,MySQL
+865,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,"4,5 mil",Intermediate,Google Cloud,Machine Learning
+42,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2 mil,Intermediate,Google Cloud,MySQL
+923,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2 mil,Intermediate,Google Cloud,Machine Learning
+201,Google Data Analytics,4.8,740 mil,Beginner,Google,Tableau
+779,Google Data Analytics,4.8,740 mil,Beginner,Google,Machine Learning
+271,Google IT Automation with Python,4.7,600 mil,Beginner,Google,Python
+806,Google IT Automation with Python,4.7,600 mil,Beginner,Google,Machine Learning
+648,Guided Tour of Machine Learning in Finance,3.8,28 mil,Intermediate,New York University,Python
+854,Guided Tour of Machine Learning in Finance,3.8,28 mil,Intermediate,New York University,Machine Learning
+636,"HTML, CSS, and Javascript for Web Developers",4.7,690 mil,Mixed,Johns Hopkins University,Python
+1298,"HTML, CSS, and Javascript for Web Developers",4.7,690 mil,Mixed,Johns Hopkins University,Java
+742,Hands-on Machine Learning with Google Cloud Labs,3.8,3 mil,Intermediate,Google Cloud,Python
+816,Hands-on Machine Learning with Google Cloud Labs,3.8,3 mil,Intermediate,Google Cloud,Machine Learning
+910,How Google does Machine Learning en Español,4.6,"6,2 mil",Intermediate,Google Cloud,Machine Learning
+1571,How Google does Machine Learning en Español,4.6,"6,2 mil",Intermediate,Google Cloud,Java
+176,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51 mil,Intermediate,The State University of New York,MongoDB
+186,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51 mil,Intermediate,The State University of New York,MongoDB
+175,How to Use the Lean Canvas to Validate Your Business Model,None,None,Intermediate,Coursera Project Network,MongoDB
+185,How to Use the Lean Canvas to Validate Your Business Model,None,None,Intermediate,Coursera Project Network,MongoDB
+302,IBM AI Engineering,4.6,300 mil,Intermediate,IBM,Python
+788,IBM AI Engineering,4.6,300 mil,Intermediate,IBM,Machine Learning
+715,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Python
+1126,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Machine Learning
+1519,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Java
+602,IBM Applied AI,4.6,530 mil,Beginner,IBM,Python
+1032,IBM Applied AI,4.6,530 mil,Beginner,IBM,Machine Learning
+288,IBM Data Analyst,4.6,720 mil,Beginner,IBM,Python
+793,IBM Data Analyst,4.6,720 mil,Beginner,IBM,Machine Learning
+312,IBM Data Engineering,4.6,500 mil,Beginner,IBM,Python
+999,IBM Data Engineering,4.6,500 mil,Beginner,IBM,Machine Learning
+278,IBM Data Science,4.6,1 m,Beginner,IBM,Python
+782,IBM Data Science,4.6,1 m,Beginner,IBM,Machine Learning
+600,IBM Full Stack Cloud Developer,4.6,470 mil,Beginner,IBM,Python
+1280,IBM Full Stack Cloud Developer,4.6,470 mil,Beginner,IBM,Java
+677,IBM Introduction to Machine Learning,4.6,32 mil,Intermediate,IBM,Python
+784,IBM Introduction to Machine Learning,4.6,32 mil,Intermediate,IBM,Machine Learning
+605,IBM Machine Learning,4.6,37 mil,Intermediate,IBM,Python
+771,IBM Machine Learning,4.6,37 mil,Intermediate,IBM,Machine Learning
+412,Improve Your Python Code Using Amazon CodeGuru,4.6,"2,1 mil",Intermediate,Amazon Web Services,Python
+1675,Improve Your Python Code Using Amazon CodeGuru,4.6,"2,1 mil",Intermediate,Amazon Web Services,Java
+685,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440 mil,Intermediate,DeepLearning.AI,Python
+1060,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440 mil,Intermediate,DeepLearning.AI,Machine Learning
+44,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13 mil,Mixed,Duke University,MySQL
+245,Increasing Real Estate Management Profits: Harnessing Data Analytics,4.7,13 mil,Mixed,Duke University,Tableau
+111,Internet Giants: The Law and Economics of Media Platforms,4.8,53 mil,Mixed,The University of Chicago,MongoDB
+1534,Internet Giants: The Law and Economics of Media Platforms,4.8,53 mil,Mixed,The University of Chicago,Java
+46,Introduction To Java Database Connectivity - JDBC,4.3,None,Advanced,Coursera Project Network,MySQL
+1405,Introduction To Java Database Connectivity - JDBC,4.3,None,Advanced,Coursera Project Network,Java
+220,Introduction to Accounting Data Analytics and Visualization,4.8,20 mil,Beginner,University of Illinois at Urbana-Champaign,Tableau
+650,Introduction to Accounting Data Analytics and Visualization,4.8,20 mil,Beginner,University of Illinois at Urbana-Champaign,Python
+250,Introduction to Data Analytics,3.2,"4,5 mil",Beginner,Meta,Tableau
+616,Introduction to Data Analytics,3.2,"4,5 mil",Beginner,Meta,Python
+598,Introduction to Data Science,4.6,690 mil,Beginner,IBM,Python
+1026,Introduction to Data Science,4.6,690 mil,Beginner,IBM,Machine Learning
+384,Introduction to Data Science and scikit-learn in Python,3.8,None,Beginner,LearnQuest,Python
+1017,Introduction to Data Science and scikit-learn in Python,3.8,None,Beginner,LearnQuest,Machine Learning
+322,Introduction to Data Science in Python,4.5,660 mil,Intermediate,University of Michigan,Python
+1010,Introduction to Data Science in Python,4.5,660 mil,Intermediate,University of Michigan,Machine Learning
+736,Introduction to Deep Learning & Neural Networks with Keras,4.7,23 mil,Intermediate,IBM,Python
+1188,Introduction to Deep Learning & Neural Networks with Keras,4.7,23 mil,Intermediate,IBM,Machine Learning
+684,Introduction to Discrete Mathematics for Computer Science,4.5,160 mil,Beginner,University of California San Diego,Python
+1003,Introduction to Discrete Mathematics for Computer Science,4.5,160 mil,Beginner,University of California San Diego,Machine Learning
+642,Introduction to Java and Object-Oriented Programming,4.3,"9,8 mil",Beginner,University of Pennsylvania,Python
+1276,Introduction to Java and Object-Oriented Programming,4.3,"9,8 mil",Beginner,University of Pennsylvania,Java
+640,Introduction to Machine Learning,4.7,160 mil,Intermediate,Duke University,Python
+796,Introduction to Machine Learning,4.7,160 mil,Intermediate,Duke University,Machine Learning
+83,Introduction to Meteor.js Development,4.6,43 mil,Mixed,University of London,MongoDB
+1670,Introduction to Meteor.js Development,4.6,43 mil,Mixed,University of London,Java
+61,Introduction to MongoDB,4.2,52 mil,Intermediate,MongoDB Inc.,MongoDB
+617,Introduction to MongoDB,4.2,52 mil,Intermediate,MongoDB Inc.,Python
+326,Introduction to Portfolio Construction and Analysis with Python,4.8,44 mil,Mixed,EDHEC Business School,Python
+1132,Introduction to Portfolio Construction and Analysis with Python,4.8,44 mil,Mixed,EDHEC Business School,Machine Learning
+279,Introduction to Programming with Python and Java,4.4,35 mil,Beginner,University of Pennsylvania,Python
+1273,Introduction to Programming with Python and Java,4.4,35 mil,Beginner,University of Pennsylvania,Java
+298,Introduction to Python,4.5,29 mil,Beginner,Coursera Project Network,Python
+1619,Introduction to Python,4.5,29 mil,Beginner,Coursera Project Network,Java
+689,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280 mil,Intermediate,DeepLearning.AI,Python
+815,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280 mil,Intermediate,DeepLearning.AI,Machine Learning
+645,"Introduction to Trading, Machine Learning & GCP",4,32 mil,Intermediate,Google Cloud,Python
+842,"Introduction to Trading, Machine Learning & GCP",4,32 mil,Intermediate,Google Cloud,Machine Learning
+638,Introduction to Web Development,4.7,190 mil,Beginner,"University of California, Davis",Python
+1483,Introduction to Web Development,4.7,190 mil,Beginner,"University of California, Davis",Java
+310,Investment Management with Python and Machine Learning,4.6,52 mil,Beginner,EDHEC Business School,Python
+821,Investment Management with Python and Machine Learning,4.6,52 mil,Beginner,EDHEC Business School,Machine Learning
+0,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",MySQL
+603,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",Python
+1033,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",Machine Learning
+700,Machine Learning,4.6,430 mil,Intermediate,University of Washington,Python
+772,Machine Learning,4.6,430 mil,Intermediate,University of Washington,Machine Learning
+314,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Python
+770,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Machine Learning
+1311,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Java
+619,Machine Learning Foundations: A Case Study Approach,4.6,360 mil,Mixed,University of Washington,Python
+849,Machine Learning Foundations: A Case Study Approach,4.6,360 mil,Mixed,University of Washington,Machine Learning
+711,Machine Learning and Reinforcement Learning in Finance,3.7,41 mil,Intermediate,New York University,Python
+829,Machine Learning and Reinforcement Learning in Finance,3.7,41 mil,Intermediate,New York University,Machine Learning
+571,Machine Learning con Python. Nivel Avanzado,None,None,Intermediate,Coursera Project Network,Python
+975,Machine Learning con Python. Nivel Avanzado,None,None,Intermediate,Coursera Project Network,Machine Learning
+559,Machine Learning con Python. Nivel intermedio,None,None,Beginner,Coursera Project Network,Python
+963,Machine Learning con Python. Nivel intermedio,None,None,Beginner,Coursera Project Network,Machine Learning
+496,Machine Learning for Accounting with Python,4.5,"6,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Python
+905,Machine Learning for Accounting with Python,4.5,"6,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Machine Learning
+639,Machine Learning for All,4.7,110 mil,Beginner,University of London,Python
+775,Machine Learning for All,4.7,110 mil,Beginner,University of London,Machine Learning
+633,Machine Learning for Analytics MasterTrack™ Certificate,None,None,None,University of Chicago,Python
+995,Machine Learning for Analytics MasterTrack™ Certificate,None,None,None,University of Chicago,Machine Learning
+739,Machine Learning for Supply Chains,3.3,"1,7 mil",Intermediate,LearnQuest,Python
+840,Machine Learning for Supply Chains,3.3,"1,7 mil",Intermediate,LearnQuest,Machine Learning
+609,Machine Learning for Trading,3.9,40 mil,Intermediate,New York Institute of Finance,Python
+826,Machine Learning for Trading,3.9,40 mil,Intermediate,New York Institute of Finance,Machine Learning
+459,Machine Learning with Python,4.7,250 mil,Intermediate,IBM,Python
+797,Machine Learning with Python,4.7,250 mil,Intermediate,IBM,Machine Learning
+686,Machine Learning with TensorFlow on Google Cloud,4.5,120 mil,Intermediate,Google Cloud,Python
+822,Machine Learning with TensorFlow on Google Cloud,4.5,120 mil,Intermediate,Google Cloud,Machine Learning
+753,Machine Learning with TensorFlow on Google Cloud en Español,4.6,"9,6 mil",Intermediate,Google Cloud,Python
+853,Machine Learning with TensorFlow on Google Cloud en Español,4.6,"9,6 mil",Intermediate,Google Cloud,Machine Learning
+297,Master of Computer and Information Technology,None,None,None,University of Pennsylvania,Python
+800,Master of Computer and Information Technology,None,None,None,University of Pennsylvania,Machine Learning
+142,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,MongoDB
+292,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,Python
+997,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,Machine Learning
+717,Mathematics for Data Science,4.4,67 mil,Beginner,HSE University,Python
+811,Mathematics for Data Science,4.4,67 mil,Beginner,HSE University,Machine Learning
+606,Mathematics for Machine Learning,4.6,300 mil,Beginner,Imperial College London,Python
+774,Mathematics for Machine Learning,4.6,300 mil,Beginner,Imperial College London,Machine Learning
+704,Mathematics for Machine Learning: Linear Algebra,4.7,280 mil,Beginner,Imperial College London,Python
+827,Mathematics for Machine Learning: Linear Algebra,4.7,280 mil,Beginner,Imperial College London,Machine Learning
+697,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,"3,2 mil",Intermediate,Microsoft,Python
+1087,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,"3,2 mil",Intermediate,Microsoft,Machine Learning
+1048,Modern Application Development with Java on AWS,4.8,83 mil,Beginner,Amazon Web Services,Machine Learning
+1281,Modern Application Development with Java on AWS,4.8,83 mil,Beginner,Amazon Web Services,Java
+635,Modern Application Development with Node.js on AWS,4.8,83 mil,Beginner,Amazon Web Services,Python
+1506,Modern Application Development with Node.js on AWS,4.8,83 mil,Beginner,Amazon Web Services,Java
+304,Modern Application Development with Python on AWS,4.7,140 mil,Beginner,Amazon Web Services,Python
+1609,Modern Application Development with Python on AWS,4.7,140 mil,Beginner,Amazon Web Services,Java
+671,Natural Language Processing,4.6,110 mil,Intermediate,DeepLearning.AI,Python
+1034,Natural Language Processing,4.6,110 mil,Intermediate,DeepLearning.AI,Machine Learning
+702,Natural Language Processing in TensorFlow,4.6,100 mil,Intermediate,DeepLearning.AI,Python
+1100,Natural Language Processing in TensorFlow,4.6,100 mil,Intermediate,DeepLearning.AI,Machine Learning
+712,Natural Language Processing with Probabilistic Models,4.7,43 mil,Intermediate,DeepLearning.AI,Python
+1117,Natural Language Processing with Probabilistic Models,4.7,43 mil,Intermediate,DeepLearning.AI,Machine Learning
+721,Natural Language Processing with Sequence Models,4.5,37 mil,Intermediate,DeepLearning.AI,Python
+1143,Natural Language Processing with Sequence Models,4.5,37 mil,Intermediate,DeepLearning.AI,Machine Learning
+393,Neural Network Visualizer Web App with Python,4.5,"6,5 mil",Intermediate,Coursera Project Network,Python
+1576,Neural Network Visualizer Web App with Python,4.5,"6,5 mil",Intermediate,Coursera Project Network,Java
+676,Neural Networks and Deep Learning,4.9,1 m,Intermediate,DeepLearning.AI,Python
+1049,Neural Networks and Deep Learning,4.9,1 m,Intermediate,DeepLearning.AI,Machine Learning
+178,NoSQL systems,4.3,"9,8 mil",Intermediate,Universidad Nacional Autónoma de México,MongoDB
+188,NoSQL systems,4.3,"9,8 mil",Intermediate,Universidad Nacional Autónoma de México,MongoDB
+79,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,MongoDB
+681,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,Python
+1054,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,Machine Learning
+172,Operations and Patient Safety for Healthcare IT Staff,4.8,"2,3 mil",Mixed,Johns Hopkins University,MongoDB
+182,Operations and Patient Safety for Healthcare IT Staff,4.8,"2,3 mil",Mixed,Johns Hopkins University,MongoDB
+692,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Python
+1080,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Machine Learning
+1511,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Java
+170,PrEParing: PrEP for Providers and Patients,4.7,"5,4 mil",Beginner,Johns Hopkins University,MongoDB
+180,PrEParing: PrEP for Providers and Patients,4.7,"5,4 mil",Beginner,Johns Hopkins University,MongoDB
+682,Practical Data Science,4.5,16 mil,Advanced,DeepLearning.AI,Python
+1002,Practical Data Science,4.5,16 mil,Advanced,DeepLearning.AI,Machine Learning
+672,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250 mil,Intermediate,Google Cloud,Python
+1037,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250 mil,Intermediate,Google Cloud,Machine Learning
+604,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350 mil,Intermediate,Google Cloud,Python
+783,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350 mil,Intermediate,Google Cloud,Machine Learning
+632,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,None,None,None,Universidad de los Andes,Python
+1502,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,None,None,None,Universidad de los Andes,Java
+724,Psicología,4.8,24 mil,Beginner,Universidad de Palermo,Python
+1157,Psicología,4.8,24 mil,Beginner,Universidad de Palermo,Machine Learning
+272,Python 3 Programming,4.7,350 mil,Beginner,University of Michigan,Python
+812,Python 3 Programming,4.7,350 mil,Beginner,University of Michigan,Machine Learning
+443,Python Dynamic HTML Web Server,4.5,6 mil,Beginner,Coursera Project Network,Python
+1687,Python Dynamic HTML Web Server,4.5,6 mil,Beginner,Coursera Project Network,Java
+295,Python Scripting for DevOps,4.2,"3,4 mil",Beginner,LearnQuest,Python
+1526,Python Scripting for DevOps,4.2,"3,4 mil",Beginner,LearnQuest,Java
+355,Python and Machine Learning for Asset Management,3.1,13 mil,Intermediate,EDHEC Business School,Python
+858,Python and Machine Learning for Asset Management,3.1,13 mil,Intermediate,EDHEC Business School,Machine Learning
+476,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11 mil,Intermediate,EDHEC Business School,Python
+882,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11 mil,Intermediate,EDHEC Business School,Machine Learning
+277,"Python for Data Science, AI & Development",4.6,380 mil,Beginner,IBM,Python
+1004,"Python for Data Science, AI & Development",4.6,380 mil,Beginner,IBM,Machine Learning
+270,Python for Everybody,4.8,"2,7 m",Beginner,University of Michigan,Python
+1476,Python for Everybody,4.8,"2,7 m",Beginner,University of Michigan,Java
+1099,Recommender Systems,4.3,42 mil,Intermediate,University of Minnesota,Machine Learning
+1516,Recommender Systems,4.3,42 mil,Intermediate,University of Minnesota,Java
+80,Responsive Website Development and Design,4.5,250 mil,Beginner,University of London,MongoDB
+1113,Responsive Website Development and Design,4.5,250 mil,Beginner,University of London,Machine Learning
+1486,Responsive Website Development and Design,4.5,250 mil,Beginner,University of London,Java
+78,Responsive Website Tutorial and Examples,4.2,35 mil,Mixed,University of London,MongoDB
+1585,Responsive Website Tutorial and Examples,4.2,35 mil,Mixed,University of London,Java
+177,Russian Invasion of Ukraine Teach-Out,None,None,Beginner,University of Michigan,MongoDB
+187,Russian Invasion of Ukraine Teach-Out,None,None,Beginner,University of Michigan,MongoDB
+743,SAS Statistical Business Analyst,4.6,6 mil,Intermediate,SAS,Python
+810,SAS Statistical Business Analyst,4.6,6 mil,Intermediate,SAS,Machine Learning
+680,Self-Driving Cars,4.7,130 mil,Advanced,University of Toronto,Python
+1052,Self-Driving Cars,4.7,130 mil,Advanced,University of Toronto,Machine Learning
+741,Sentiment Analysis with Deep Learning using BERT,4.5,12 mil,Intermediate,Coursera Project Network,Python
+1209,Sentiment Analysis with Deep Learning using BERT,4.5,12 mil,Intermediate,Coursera Project Network,Machine Learning
+706,"Sequences, Time Series and Prediction",4.7,91 mil,Intermediate,DeepLearning.AI,Python
+1011,"Sequences, Time Series and Prediction",4.7,91 mil,Intermediate,DeepLearning.AI,Machine Learning
+449,Snake game in Python: use Pygame to build your game,None,None,Intermediate,Coursera Project Network,Python
+1500,Snake game in Python: use Pygame to build your game,None,None,Intermediate,Coursera Project Network,Java
+654,Statistics for Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Python
+881,Statistics for Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Machine Learning
+284,Statistics with Python,4.6,110 mil,Beginner,University of Michigan,Python
+1074,Statistics with Python,4.6,110 mil,Beginner,University of Michigan,Machine Learning
+174,Strategic Career Self-Management,4.5,37 mil,Mixed,The State University of New York,MongoDB
+184,Strategic Career Self-Management,4.5,37 mil,Mixed,The State University of New York,MongoDB
+447,"Support Vector Machines in Python, From Start to Finish",4.6,"4,6 mil",Intermediate,Coursera Project Network,Python
+1597,"Support Vector Machines in Python, From Start to Finish",4.6,"4,6 mil",Intermediate,Coursera Project Network,Java
+705,TensorFlow 2 for Deep Learning,4.9,30 mil,Intermediate,Imperial College London,Python
+1106,TensorFlow 2 for Deep Learning,4.9,30 mil,Intermediate,Imperial College London,Machine Learning
+679,TensorFlow: Advanced Techniques,4.8,27 mil,Intermediate,DeepLearning.AI,Python
+1001,TensorFlow: Advanced Techniques,4.8,27 mil,Intermediate,DeepLearning.AI,Machine Learning
+703,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Python
+1101,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Machine Learning
+1515,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Java
+683,Tools for Data Science,4.5,260 mil,Beginner,IBM,Python
+1055,Tools for Data Science,4.5,260 mil,Beginner,IBM,Machine Learning
+529,Use Python and Java to Create a GUI Application,None,None,Intermediate,Coursera Project Network,Python
+1387,Use Python and Java to Create a GUI Application,None,None,Intermediate,Coursera Project Network,Java
+649,Using Machine Learning in Trading and Finance,4,16 mil,Intermediate,New York Institute of Finance,Python
+855,Using Machine Learning in Trading and Finance,4,16 mil,Intermediate,New York Institute of Finance,Machine Learning
+321,Using Python to Access Web Data,4.8,550 mil,Mixed,University of Michigan,Python
+1514,Using Python to Access Web Data,4.8,550 mil,Mixed,University of Michigan,Java
+67,Web Application Development with JavaScript and MongoDB,4.6,59 mil,Mixed,University of London,MongoDB
+1365,Web Application Development with JavaScript and MongoDB,4.6,59 mil,Mixed,University of London,Java
+688,Машинное обучение и анализ данных,4.7,110 mil,Intermediate,Moscow Institute of Physics and Technology,Python
+807,Машинное обучение и анализ данных,4.7,110 mil,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+714,Машинное обучение: от статистики до нейросетей,4.4,"6,1 mil",Intermediate,HSE University,Python
+1123,Машинное обучение: от статистики до нейросетей,4.4,"6,1 mil",Intermediate,HSE University,Machine Learning
+282,Программирование на Python,4.5,80 mil,Intermediate,Moscow Institute of Physics and Technology,Python
+1069,Программирование на Python,4.5,80 mil,Intermediate,Moscow Institute of Physics and Technology,Machine Learning
+665,التعلّم الآلي باستخدام لغة بايثون,None,None,Intermediate,IBM,Python
+1024,التعلّم الآلي باستخدام لغة بايثون,None,None,Intermediate,IBM,Machine Learning
+709,程序设计与算法,4.8,93 mil,Beginner,Peking University,Python
+1114,程序设计与算法,4.8,93 mil,Beginner,Peking University,Machine Learning
