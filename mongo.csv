@@ -4,10 +4,10 @@
 2,Introducción a bases de datos NoSQL con MongoDB,None,None,Beginner,Coursera Project Network,MongoDB
 3,Create a C# Application to process MongoDB Data,None,None,Intermediate,Coursera Project Network,MongoDB
 4,Create a Python Application using PyMongo and MongoDB Database,4.4,"3,2 mil",Intermediate,Coursera Project Network,MongoDB
-5,MongoDB Aggregation Framework,4.5,"8,7 mil",Intermediate,MongoDB Inc.,MongoDB
-6,Use the Apache Spark Structured Streaming API with MongoDB,None,None,Intermediate,Coursera Project Network,MongoDB
-7,Web Application Development with JavaScript and MongoDB,4.6,59 mil,Mixed,University of London,MongoDB
-8,Create Your First NoSQL Database with MongoDB and Compass,4.6,"2,8 mil",Intermediate,Coursera Project Network,MongoDB
+5,Use the Apache Spark Structured Streaming API with MongoDB,None,None,Intermediate,Coursera Project Network,MongoDB
+6,MongoDB Aggregation Framework,4.5,"8,7 mil",Intermediate,MongoDB Inc.,MongoDB
+7,Create Your First NoSQL Database with MongoDB and Compass,4.6,"2,8 mil",Intermediate,Coursera Project Network,MongoDB
+8,Web Application Development with JavaScript and MongoDB,4.6,59 mil,Mixed,University of London,MongoDB
 9,CRUD Operations using MongoDB NoSQL,4.4,"1,7 mil",Beginner,Coursera Project Network,MongoDB
 10,"Desarrollo del lado servidor: NodeJS, Express y MongoDB",4.1,11 mil,Beginner,Universidad Austral,MongoDB
 11,Create Fault Tolerant MongoDB Cluster,5,None,Intermediate,Coursera Project Network,MongoDB
@@ -21,121 +21,121 @@
 19,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,MongoDB
 20,Responsive Website Development and Design,4.5,250 mil,Beginner,University of London,MongoDB
 21,Network Security & Database Vulnerabilities,4.7,46 mil,Beginner,IBM,MongoDB
-22,History of Russia,4.4,None,Beginner,Saint Petersburg State University,MongoDB
-23,Introduction to Meteor.js Development,4.6,43 mil,Mixed,University of London,MongoDB
-24,Working with Big Data,None,None,Intermediate,Coursera Project Network,MongoDB
-25,Containerize a full-stack NodeJS application in Docker,4.5,"2,7 mil",Intermediate,Coursera Project Network,MongoDB
-26,The amazing world of the ethnic groups of Yunnan Province,None,None,Intermediate,Shanghai Jiao Tong University,MongoDB
-27,بناء Backend لنسخة من Twitter,None,None,Beginner,Coursera Project Network,MongoDB
-28,Build a Full Stack App using React and Express,None,None,Intermediate,Coursera Project Network,MongoDB
-29,Microeconomics: When Markets Fail,4.8,29 mil,Mixed,University of Pennsylvania,MongoDB
-30,إلهام الأفراد وتحفيزهم,None,None,Mixed,University of Michigan,MongoDB
-31,Microeconomics: The Power of Markets,4.7,50 mil,Mixed,University of Pennsylvania,MongoDB
-32,Cómo inspirar y a motivar personas,None,None,Mixed,University of Michigan,MongoDB
-33,Inspiração e motivação de indivíduos,None,None,Mixed,University of Michigan,MongoDB
-34,Business Analytics,4.6,370 mil,Beginner,University of Pennsylvania,MongoDB
-35,Leading People and Teams,4.7,350 mil,Beginner,University of Michigan,MongoDB
-36,Marketing Mix Implementation,4.7,160 mil,Beginner,IE Business School,MongoDB
-37,Business English Communication Skills,4.8,240 mil,Intermediate,University of Washington,MongoDB
-38,Business English: Planning & Negotiating,4.8,45 mil,Intermediate,University of Washington,MongoDB
-39,Accounting Analytics,4.5,95 mil,Mixed,University of Pennsylvania,MongoDB
-40,Inspiring and Motivating Individuals,4.8,170 mil,Mixed,University of Michigan,MongoDB
-41,Brand and Product Management,4.7,82 mil,Mixed,IE Business School,MongoDB
-42,Business English: Networking,4.8,170 mil,Intermediate,University of Washington,MongoDB
-43,Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails,4.4,50 mil,Intermediate,University of Washington,MongoDB
-44,"Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails",4.5,28 mil,Intermediate,University of Washington,MongoDB
-45,Lesson | Business English Skills: Introducing Yourself in Business Settings,4.3,21 mil,Intermediate,University of Washington,MongoDB
-46,Migrating a Monolithic Website to Microservices on Google Kubernetes Engine,4.7,None,Intermediate,Google Cloud,MongoDB
-47,Create a C# UI on Linux using MonoDevelop,None,None,Beginner,Coursera Project Network,MongoDB
-48,Design of Experiments,4.7,12 mil,Beginner,Arizona State University,MongoDB
-49,Spring Framework,3.7,"5,6 mil",Beginner,LearnQuest,MongoDB
-50,Building Containerized Applications on AWS,4.5,20 mil,Mixed,Amazon Web Services,MongoDB
-51,Internet Giants: The Law and Economics of Media Platforms,4.8,53 mil,Mixed,The University of Chicago,MongoDB
-52,Introduction to solar cells,4.8,53 mil,Beginner,Technical University of Denmark (DTU),MongoDB
-53,Natural Gas,4.7,28 mil,Beginner,University at Buffalo,MongoDB
-54,Smart Working: Lavoro agile e Business English,None,None,Beginner,Università di Napoli Federico II,MongoDB
-55,Real-Time Embedded Systems Theory and Analysis,4.4,"3,4 mil",Advanced,University of Colorado Boulder,MongoDB
-56,Basic Cryptography and Programming with Crypto API,4.3,11 mil,Intermediate,University of Colorado System,MongoDB
-57,Administrasi Sistem dan Layanan Infrastruktur TI,5,None,Beginner,Google,MongoDB
-58,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya,4.9,None,Beginner,Google,MongoDB
+22,Introduction to Meteor.js Development,4.6,43 mil,Mixed,University of London,MongoDB
+23,Working with Big Data,None,None,Intermediate,Coursera Project Network,MongoDB
+24,Containerize a full-stack NodeJS application in Docker,4.5,"2,7 mil",Intermediate,Coursera Project Network,MongoDB
+25,The amazing world of the ethnic groups of Yunnan Province,None,None,Intermediate,Shanghai Jiao Tong University,MongoDB
+26,بناء Backend لنسخة من Twitter,None,None,Beginner,Coursera Project Network,MongoDB
+27,Build a Full Stack App using React and Express,None,None,Intermediate,Coursera Project Network,MongoDB
+28,Microeconomics: When Markets Fail,4.8,29 mil,Mixed,University of Pennsylvania,MongoDB
+29,إلهام الأفراد وتحفيزهم,None,None,Mixed,University of Michigan,MongoDB
+30,Microeconomics: The Power of Markets,4.7,50 mil,Mixed,University of Pennsylvania,MongoDB
+31,Cómo inspirar y a motivar personas,None,None,Mixed,University of Michigan,MongoDB
+32,Inspiração e motivação de indivíduos,None,None,Mixed,University of Michigan,MongoDB
+33,Business Analytics,4.6,370 mil,Beginner,University of Pennsylvania,MongoDB
+34,Leading People and Teams,4.7,350 mil,Beginner,University of Michigan,MongoDB
+35,Marketing Mix Implementation,4.7,160 mil,Beginner,IE Business School,MongoDB
+36,Business English Communication Skills,4.8,240 mil,Intermediate,University of Washington,MongoDB
+37,Business English: Planning & Negotiating,4.8,45 mil,Intermediate,University of Washington,MongoDB
+38,Accounting Analytics,4.5,95 mil,Mixed,University of Pennsylvania,MongoDB
+39,Inspiring and Motivating Individuals,4.8,170 mil,Mixed,University of Michigan,MongoDB
+40,Brand and Product Management,4.7,82 mil,Mixed,IE Business School,MongoDB
+41,Business English: Networking,4.8,170 mil,Intermediate,University of Washington,MongoDB
+42,Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails,4.5,50 mil,Intermediate,University of Washington,MongoDB
+43,"Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails",4.5,28 mil,Intermediate,University of Washington,MongoDB
+44,Lesson | Business English Skills: Introducing Yourself in Business Settings,4.3,21 mil,Intermediate,University of Washington,MongoDB
+45,Migrating a Monolithic Website to Microservices on Google Kubernetes Engine,4.7,None,Intermediate,Google Cloud,MongoDB
+46,Create a C# UI on Linux using MonoDevelop,None,None,Beginner,Coursera Project Network,MongoDB
+47,Design of Experiments,4.7,12 mil,Beginner,Arizona State University,MongoDB
+48,Spring Framework,3.7,"5,7 mil",Beginner,LearnQuest,MongoDB
+49,Building Containerized Applications on AWS,4.5,20 mil,Mixed,Amazon Web Services,MongoDB
+50,Internet Giants: The Law and Economics of Media Platforms,4.8,53 mil,Mixed,The University of Chicago,MongoDB
+51,Introduction to solar cells,4.8,53 mil,Beginner,Technical University of Denmark (DTU),MongoDB
+52,Natural Gas,4.7,28 mil,Beginner,University at Buffalo,MongoDB
+53,Smart Working: Lavoro agile e Business English,None,None,Beginner,Università di Napoli Federico II,MongoDB
+54,Real-Time Embedded Systems Theory and Analysis,4.4,"3,4 mil",Advanced,University of Colorado Boulder,MongoDB
+55,Basic Cryptography and Programming with Crypto API,4.3,11 mil,Intermediate,University of Colorado System,MongoDB
+56,Creating Azure Serverless Functions in a Real-World Scenario,None,None,Intermediate,Coursera Project Network,MongoDB
+57,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya,4.9,None,Beginner,Google,MongoDB
+58,Administrasi Sistem dan Layanan Infrastruktur TI,5,None,Beginner,Google,MongoDB
 59,结构生物化学（Structural Biochemistry),4.8,12 mil,Mixed,Nanjing University,MongoDB
 60,Spring - Cloud Overview,4.5,None,Intermediate,LearnQuest,MongoDB
 61,IBM Data Topology,4.8,"1,5 mil",Intermediate,IBM,MongoDB
 62,The Power of Markets III: Input Markets and Promoting Efficiency,4.8,"4,3 mil",Mixed,University of Rochester,MongoDB
 63,Customizing color pickers and swatches in Adobe Photoshop,None,None,Beginner,Coursera Project Network,MongoDB
-64,Creating Azure Serverless Functions in a Real-World Scenario,None,None,Intermediate,Coursera Project Network,MongoDB
-65,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,4.7,14 mil,Beginner,Tecnológico de Monterrey,MongoDB
-66,Digital Marketing for E-commerce,4.4,"2,3 mil",Beginner,Universidad de Palermo,MongoDB
-67,Foundations of Healthcare Systems Engineering,4.6,"5,2 mil",Mixed,Johns Hopkins University,MongoDB
-68,Experimental Design Basics,4.7,11 mil,Intermediate,Arizona State University,MongoDB
-69,Diseño instruccional para el aprendizaje activo,4.7,11 mil,Beginner,Tecnológico de Monterrey,MongoDB
-70,E-Business: Negocios Online,4.6,"6,9 mil",Beginner,Universidad de Palermo,MongoDB
-71,Factorial and Fractional Factorial Designs,4.8,"3,3 mil",Intermediate,Arizona State University,MongoDB
-72,La formación del pensamiento crítico en la era digital,4.8,None,Beginner,Universitat Autònoma de Barcelona,MongoDB
+64,Diseño Instruccional: Aprendizaje activo y Pedagogía digital,4.7,14 mil,Beginner,Tecnológico de Monterrey,MongoDB
+65,Digital Marketing for E-commerce,4.4,"2,4 mil",Beginner,Universidad de Palermo,MongoDB
+66,Foundations of Healthcare Systems Engineering,4.6,"5,2 mil",Mixed,Johns Hopkins University,MongoDB
+67,Experimental Design Basics,4.7,11 mil,Intermediate,Arizona State University,MongoDB
+68,Diseño instruccional para el aprendizaje activo,4.7,11 mil,Beginner,Tecnológico de Monterrey,MongoDB
+69,E-Business: Negocios Online,4.6,"6,9 mil",Beginner,Universidad de Palermo,MongoDB
+70,Factorial and Fractional Factorial Designs,4.8,"3,3 mil",Intermediate,Arizona State University,MongoDB
+71,La formación del pensamiento crítico en la era digital,4.8,None,Beginner,Universitat Autònoma de Barcelona,MongoDB
+72,Modelos de diseño instruccional para ambientes digitales,4.7,"4,7 mil",Beginner,Tecnológico de Monterrey,MongoDB
 73,"Response Surfaces, Mixtures, and Model Building",4.7,"2,5 mil",Intermediate,Arizona State University,MongoDB
 74,"Random Models, Nested and Split-plot Designs",4.6,2 mil,Intermediate,Arizona State University,MongoDB
-75,Modelos de diseño instruccional para ambientes digitales,4.7,"4,7 mil",Beginner,Tecnológico de Monterrey,MongoDB
-76,Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales,4.6,"2,8 mil",Beginner,Tecnológico de Monterrey,MongoDB
-77,UX and Interface Design for Embedded Systems,4,"2,7 mil",Intermediate,University of Colorado Boulder,MongoDB
-78,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,None,Intermediate,University of Colorado Boulder,MongoDB
-79,Rapid Prototyping of Embedded Interface Designs,None,None,Intermediate,University of Colorado Boulder,MongoDB
-80,"Oralpha: Literacy for new citizens, a course for trainers",None,None,Beginner,Universitat Autònoma de Barcelona,MongoDB
-81,Embedded Interface Design,3.7,"4,2 mil",Intermediate,University of Colorado Boulder,MongoDB
-82,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,MongoDB
-83,Blockchain,4.6,190 mil,Intermediate,University at Buffalo,MongoDB
-84,Photography Basics and Beyond: From Smartphone to DSLR,4.7,270 mil,Beginner,Michigan State University,MongoDB
-85,Social Media Management,4.9,70 mil,Beginner,Meta,MongoDB
-86,International Humanitarian Law in Theory and Practice,4.8,41 mil,Beginner,Universiteit Leiden,MongoDB
-87,Healthcare IT Support,4.7,"7,5 mil",Beginner,Johns Hopkins University,MongoDB
-88,Precision Medicine,4,"7,5 mil",Intermediate,University of Geneva,MongoDB
-89,Suporte em TI do Google,4.9,18 mil,Beginner,Cresça com o Google,MongoDB
-90,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,4.6,44 mil,Intermediate,HEC Paris,MongoDB
-91,Electric Vehicles and Mobility,4.5,35 mil,Beginner,École des Ponts ParisTech,MongoDB
+75,Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales,4.6,"2,8 mil",Beginner,Tecnológico de Monterrey,MongoDB
+76,UX and Interface Design for Embedded Systems,4,"2,7 mil",Intermediate,University of Colorado Boulder,MongoDB
+77,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,None,Intermediate,University of Colorado Boulder,MongoDB
+78,Rapid Prototyping of Embedded Interface Designs,None,None,Intermediate,University of Colorado Boulder,MongoDB
+79,"Oralpha: Literacy for new citizens, a course for trainers",None,None,Beginner,Universitat Autònoma de Barcelona,MongoDB
+80,Embedded Interface Design,3.7,"4,2 mil",Intermediate,University of Colorado Boulder,MongoDB
+81,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,MongoDB
+82,Blockchain,4.6,190 mil,Intermediate,University at Buffalo,MongoDB
+83,Photography Basics and Beyond: From Smartphone to DSLR,4.7,270 mil,Beginner,Michigan State University,MongoDB
+84,Social Media Management,4.9,70 mil,Beginner,Meta,MongoDB
+85,International Humanitarian Law in Theory and Practice,4.8,41 mil,Beginner,Universiteit Leiden,MongoDB
+86,Healthcare IT Support,4.7,"7,5 mil",Beginner,Johns Hopkins University,MongoDB
+87,Suporte em TI do Google,4.9,18 mil,Beginner,Cresça com o Google,MongoDB
+88,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,4.6,44 mil,Intermediate,HEC Paris,MongoDB
+89,Precision Medicine,4,"7,6 mil",Intermediate,University of Geneva,MongoDB
+90,Electric Vehicles and Mobility,4.5,35 mil,Beginner,École des Ponts ParisTech,MongoDB
+91,Negociações de sucesso: estratégias e habilidades essenciais (em Português),4.9,70 mil,Mixed,University of Michigan,MongoDB
 92,Diabetes – the Essential Facts,4.7,59 mil,Beginner,University of Copenhagen,MongoDB
-93,Negociações de sucesso: estratégias e habilidades essenciais (em Português),4.9,70 mil,Mixed,University of Michigan,MongoDB
-94,Leadership in 21st Century Organizations,4.7,58 mil,Mixed,Copenhagen Business School,MongoDB
-95,"Faster Together, Enhancing the Recruitment of Minorities in Clinical Trials",4.8,"2,5 mil",Beginner,Vanderbilt University,MongoDB
-96,Designing Effective Science Communication,4.5,None,Beginner,University of Colorado Boulder,MongoDB
-97,Marketing de Mídias Sociais do Facebook,4.8,None,Beginner,Meta,MongoDB
-98,Data and Urban Governance,None,None,Beginner,Sciences Po,MongoDB
-99,Relational Database Administration (DBA),5,"2,2 mil",Beginner,IBM,MongoDB
-100,"Impacting the Opioid Crisis: Prevention, Education, and Practice for Non-Prescribing Providers",4.9,"3,6 mil",Beginner,University of Michigan,MongoDB
-101,Trademark Law,4.8,"6,1 mil",Mixed,University of Pennsylvania,MongoDB
-102,Inteligência Artificial Aplicada ao CRM,None,None,Beginner,Fundação Instituto de Administração,MongoDB
-103,Economic systems in different countries of the world,None,None,Beginner,National Research Tomsk State University,MongoDB
-104,Writing and Editing: Drafting,4.8,12 mil,Beginner,University of Michigan,MongoDB
-105,Gestão de produtos digitais: Princípios básicos modernos,4.9,None,Beginner,University of Virginia,MongoDB
-106,Life After COVID-19: Get Ready for our Post-Pandemic Future,4.8,"4,8 mil",Beginner,Institute for the Future,MongoDB
-107,Kids with Cancer Still Need School: The Providers Role,None,None,Intermediate,Johns Hopkins University,MongoDB
-108,When Disaster Meets Conflict,4.8,"3,5 mil",Intermediate,Erasmus University Rotterdam,MongoDB
-109,"Professional development: Improve yourself, always",4.8,17 mil,Mixed,Macquarie University,MongoDB
-110,PrEParing: PrEP for Providers and Patients,4.7,"5,4 mil",Beginner,Johns Hopkins University,MongoDB
-111,Digital Business - Understand the digital world,4.4,None,Mixed,Institut Mines-Télécom,MongoDB
-112,Operations and Patient Safety for Healthcare IT Staff,4.8,"2,3 mil",Mixed,Johns Hopkins University,MongoDB
-113,"Career planning: Your career, your life",4.8,"7,5 mil",Mixed,Macquarie University,MongoDB
-114,Strategic Career Self-Management,4.5,37 mil,Mixed,The State University of New York,MongoDB
-115,How to Use the Lean Canvas to Validate Your Business Model,None,None,Intermediate,Coursera Project Network,MongoDB
-116,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51 mil,Intermediate,The State University of New York,MongoDB
-117,Russian Invasion of Ukraine Teach-Out,None,None,Beginner,University of Michigan,MongoDB
-118,NoSQL systems,4.3,"9,8 mil",Intermediate,Universidad Nacional Autónoma de México,MongoDB
-119,Giving 2.0: The MOOC,4.6,30 mil,Mixed,Stanford University,MongoDB
-120,PrEParing: PrEP for Providers and Patients,4.7,"5,4 mil",Beginner,Johns Hopkins University,MongoDB
-121,Digital Business - Understand the digital world,4.4,None,Mixed,Institut Mines-Télécom,MongoDB
-122,Operations and Patient Safety for Healthcare IT Staff,4.8,"2,3 mil",Mixed,Johns Hopkins University,MongoDB
-123,"Career planning: Your career, your life",4.8,"7,5 mil",Mixed,Macquarie University,MongoDB
-124,Strategic Career Self-Management,4.5,37 mil,Mixed,The State University of New York,MongoDB
-125,How to Use the Lean Canvas to Validate Your Business Model,None,None,Intermediate,Coursera Project Network,MongoDB
-126,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51 mil,Intermediate,The State University of New York,MongoDB
-127,Russian Invasion of Ukraine Teach-Out,None,None,Beginner,University of Michigan,MongoDB
-128,NoSQL systems,4.3,"9,8 mil",Intermediate,Universidad Nacional Autónoma de México,MongoDB
-129,Giving 2.0: The MOOC,4.6,30 mil,Mixed,Stanford University,MongoDB
-130,Explorando os recursos educacionais da Khan Academy,4.8,"6,5 mil",Mixed,Fundação Lemann,MongoDB
-131,Business Transformation with Google Cloud em Português,4.9,None,Beginner,Google Cloud,MongoDB
-132,"Gestão de Stakeholders, Ética e Sustentabilidade Empresarial",None,None,Beginner,Fundação Instituto de Administração,MongoDB
-133,Vieses Inconscientes e Comportamentos,None,None,Beginner,Fundação Instituto de Administração,MongoDB
-134,Validating Your Business Model with Innovator’s Canvas,None,None,Intermediate,Coursera Project Network,MongoDB
-135,Fundamentos de IA Aplicados ao CRM,None,None,Beginner,Fundação Instituto de Administração,MongoDB
-136,Conclusão do Marketing de Mídias Sociais do Facebook,None,None,Beginner,Meta,MongoDB
-137,Vozes da Mudança Social,4.8,None,Beginner,Laureate Education,MongoDB
-138,Introdução a Mapas de Relação com Kumu,None,None,Beginner,Coursera Project Network,MongoDB
-139,Fundamentos da Gestão do Sucesso do Cliente,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+93,Leadership in 21st Century Organizations,4.7,58 mil,Mixed,Copenhagen Business School,MongoDB
+94,"Faster Together, Enhancing the Recruitment of Minorities in Clinical Trials",4.8,"2,5 mil",Beginner,Vanderbilt University,MongoDB
+95,Designing Effective Science Communication,4.5,None,Beginner,University of Colorado Boulder,MongoDB
+96,Marketing de Mídias Sociais do Facebook,4.8,None,Beginner,Meta,MongoDB
+97,Relational Database Administration (DBA),5,"2,2 mil",Beginner,IBM,MongoDB
+98,"Impacting the Opioid Crisis: Prevention, Education, and Practice for Non-Prescribing Providers",4.9,"3,6 mil",Beginner,University of Michigan,MongoDB
+99,Inteligência Artificial Aplicada ao CRM,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+100,Data and Urban Governance,None,None,Beginner,Sciences Po,MongoDB
+101,Gestão de produtos digitais: Princípios básicos modernos,4.9,None,Beginner,University of Virginia,MongoDB
+102,Writing and Editing: Drafting,4.8,12 mil,Beginner,University of Michigan,MongoDB
+103,Trademark Law,4.8,"6,1 mil",Mixed,University of Pennsylvania,MongoDB
+104,Life After COVID-19: Get Ready for our Post-Pandemic Future,4.8,"4,8 mil",Beginner,Institute for the Future,MongoDB
+105,Kids with Cancer Still Need School: The Providers Role,None,None,Intermediate,Johns Hopkins University,MongoDB
+106,When Disaster Meets Conflict,4.8,"3,5 mil",Intermediate,Erasmus University Rotterdam,MongoDB
+107,"Professional development: Improve yourself, always",4.8,17 mil,Mixed,Macquarie University,MongoDB
+108,PrEParing: PrEP for Providers and Patients,4.7,"5,4 mil",Beginner,Johns Hopkins University,MongoDB
+109,Digital Business - Understand the digital world,4.5,None,Mixed,Institut Mines-Télécom,MongoDB
+110,Operations and Patient Safety for Healthcare IT Staff,4.8,"2,3 mil",Mixed,Johns Hopkins University,MongoDB
+111,"Career planning: Your career, your life",4.8,"7,5 mil",Mixed,Macquarie University,MongoDB
+112,Strategic Career Self-Management,4.5,37 mil,Mixed,The State University of New York,MongoDB
+113,How to Use the Lean Canvas to Validate Your Business Model,None,None,Intermediate,Coursera Project Network,MongoDB
+114,Russian Invasion of Ukraine Teach-Out,None,None,Beginner,University of Michigan,MongoDB
+115,How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course),3.8,51 mil,Intermediate,The State University of New York,MongoDB
+116,NoSQL systems,4.3,"9,8 mil",Intermediate,Universidad Nacional Autónoma de México,MongoDB
+117,PRINCÍPIOS GERAIS DA TÉCNICA DO VIOLINO E DA VIOLA DE ARCO,4.9,"2,1 mil",Intermediate,Universidade Estadual de Campinas,MongoDB
+118,Giving 2.0: The MOOC,4.6,30 mil,Mixed,Stanford University,MongoDB
+119,"Health, Society, and Wellness in COVID-19 Times",4.7,None,Beginner,University of Colorado Boulder,MongoDB
+120,Capitalismo Consciente,4.5,12 mil,Mixed,Insper,MongoDB
+121,Google Cloud Product Fundamentals em Português Brasileiro,4.6,None,Beginner,Google Cloud,MongoDB
+122,Design Research para Estratégia e Inovação,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+123,Sistemática de Comércio Exterior,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+124,Controle a Tempo Discreto,None,None,Intermediate,Instituto Tecnológico de Aeronáutica,MongoDB
+125,Transportes e Logística,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+126,In the footsteps of Zika… approaching the unknown,4.7,"5,3 mil",Intermediate,University of Geneva,MongoDB
+127,Finanças Orientada a Dados,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+128,Explorando os recursos educacionais da Khan Academy,4.8,"6,5 mil",Mixed,Fundação Lemann,MongoDB
+129,Business Transformation with Google Cloud em Português,4.9,None,Beginner,Google Cloud,MongoDB
+130,Vieses Inconscientes e Comportamentos,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+131,"Gestão de Stakeholders, Ética e Sustentabilidade Empresarial",None,None,Beginner,Fundação Instituto de Administração,MongoDB
+132,Validating Your Business Model with Innovator’s Canvas,None,None,Intermediate,Coursera Project Network,MongoDB
+133,Fundamentos de IA Aplicados ao CRM,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+134,Conclusão do Marketing de Mídias Sociais do Facebook,None,None,Beginner,Meta,MongoDB
+135,Vozes da Mudança Social,4.8,None,Beginner,Laureate Education,MongoDB
+136,Introdução a Mapas de Relação com Kumu,None,None,Beginner,Coursera Project Network,MongoDB
+137,Fundamentos da Gestão do Sucesso do Cliente,None,None,Beginner,Fundação Instituto de Administração,MongoDB
+138,None,None,None,None,None,MongoDB
+139,None,None,None,None,None,MongoDB

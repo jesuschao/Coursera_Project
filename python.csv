@@ -7,495 +7,865 @@
 5,Applied Data Science with Python,4.5,800 mil,Intermediate,University of Michigan,Python
 6,Programming for Everybody (Getting Started with Python),4.8,"2,5 m",Mixed,University of Michigan,Python
 7,"Python for Data Science, AI & Development",4.6,380 mil,Beginner,IBM,Python
-8,IBM Data Science,4.6,1 m,Beginner,IBM,Python
+8,IBM Data Science,4.6,"1,1 m",Beginner,IBM,Python
 9,Introduction to Programming with Python and Java,4.4,35 mil,Beginner,University of Pennsylvania,Python
 10,IBM DevOps and Software Engineering,4.6,470 mil,Beginner,IBM,Python
-11,Bachelor of Science in Computer Science,None,None,None,University of London,Python
-12,Программирование на Python,4.5,80 mil,Intermediate,Moscow Institute of Physics and Technology,Python
-13,Python Basics,4.8,300 mil,Beginner,University of Michigan,Python
+11,IBM Data Analyst,4.6,720 mil,Beginner,IBM,Python
+12,Python Basics,4.8,300 mil,Beginner,University of Michigan,Python
+13,Bachelor of Science in Computer Science,None,None,None,University of London,Python
 14,Statistics with Python,4.6,110 mil,Beginner,University of Michigan,Python
-15,Data Structures and Algorithms,4.6,550 mil,Intermediate,University of California San Diego,Python
-16,Master of Science in Data Science,None,None,None,University of Colorado Boulder,Python
-17,Introduction to Scripting in Python,4.7,110 mil,Beginner,Rice University,Python
-18,IBM Data Analyst,4.6,720 mil,Beginner,IBM,Python
-19,Data Science Foundations: Data Structures and Algorithms,4.6,12 mil,Advanced,University of Colorado Boulder,Python
-20,Django for Everybody,4.7,73 mil,Intermediate,University of Michigan,Python
-21,Python for Data Analysis: Pandas & NumPy,4.4,"3,9 mil",Beginner,Coursera Project Network,Python
+15,Introduction to Scripting in Python,4.7,110 mil,Beginner,Rice University,Python
+16,Data Science Foundations: Data Structures and Algorithms,4.6,12 mil,Advanced,University of Colorado Boulder,Python
+17,Django for Everybody,4.7,73 mil,Intermediate,University of Michigan,Python
+18,Python Scripting for DevOps,4.2,"3,4 mil",Beginner,LearnQuest,Python
+19,Introduction to Python Programming,4.4,24 mil,Beginner,University of Pennsylvania,Python
+20,Python for Cybersecurity,4.4,"6,5 mil",Intermediate,Infosec,Python
+21,Python and Statistics for Financial Analysis,4.4,120 mil,Intermediate,The Hong Kong University of Science and Technology,Python
 22,Master of Science in Machine Learning and Data Science,None,None,None,Imperial College London,Python
-23,Python and Statistics for Financial Analysis,4.4,120 mil,Intermediate,The Hong Kong University of Science and Technology,Python
-24,Python for Cybersecurity,4.4,"6,5 mil",Intermediate,Infosec,Python
-25,Python Scripting for DevOps,4.2,"3,4 mil",Beginner,LearnQuest,Python
-26,Introduction to Python Programming,4.4,24 mil,Beginner,University of Pennsylvania,Python
-27,Master of Computer and Information Technology,None,None,None,University of Pennsylvania,Python
-28,Introduction to Python,4.5,29 mil,Beginner,Coursera Project Network,Python
-29,Data Science for Investment Professionals,4.9,"1,5 mil",Beginner,CFA Institute,Python
-30,Advanced Data Science with IBM,4.3,110 mil,Advanced,IBM,Python
-31,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.4,200 mil,Beginner,Pontificia Universidad Católica de Chile,Python
-32,IBM AI Engineering,4.6,300 mil,Intermediate,IBM,Python
-33,Learn to Program: The Fundamentals,4.7,280 mil,Beginner,University of Toronto,Python
-34,Modern Application Development with Python on AWS,4.7,140 mil,Beginner,Amazon Web Services,Python
-35,Programming in Python: A Hands-on Introduction,4.5,"5,2 mil",Beginner,Codio,Python
-36,Python Data Products for Predictive Analytics,4.2,25 mil,Intermediate,University of California San Diego,Python
-37,Python Data Structures,4.9,830 mil,Mixed,University of Michigan,Python
-38,Introdução à Ciência da Computação com Python Parte 1,4.9,190 mil,Beginner,Universidade de São Paulo,Python
-39,Programación en Python,4.7,12 mil,Beginner,Universidad de los Andes,Python
-40,Investment Management with Python and Machine Learning,4.6,52 mil,Beginner,EDHEC Business School,Python
-41,Advanced Machine Learning,4.4,350 mil,Advanced,HSE University,Python
-42,IBM Data Engineering,4.6,500 mil,Beginner,IBM,Python
-43,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Python
-44,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Python
-45,Python Classes and Inheritance,4.7,75 mil,Intermediate,University of Michigan,Python
-46,DeepLearning.AI TensorFlow Developer,4.7,330 mil,Intermediate,DeepLearning.AI,Python
-47,Python Data Structures,4.4,"8,4 mil",Intermediate,Coursera Project Network,Python
-48,Databases and SQL for Data Science with Python,4.6,240 mil,Beginner,IBM,Python
-49,Python Project for Data Science,4.5,54 mil,Intermediate,IBM,Python
-50,Data Analysis with Python,4.7,230 mil,Beginner,IBM,Python
-51,Using Python to Access Web Data,4.8,550 mil,Mixed,University of Michigan,Python
-52,Introduction to Data Science in Python,4.5,660 mil,Intermediate,University of Michigan,Python
-53,Using Python to Interact with the Operating System,4.7,130 mil,Beginner,Google,Python
-54,Data Visualization with Python,4.5,150 mil,Intermediate,IBM,Python
-55,Fundamentos de Ciencia de Datos con Python y SQL,4.3,"4,6 mil",Beginner,IBM,Python
-56,Introduction to Portfolio Construction and Analysis with Python,4.8,44 mil,Mixed,EDHEC Business School,Python
-57,Using Databases with Python,4.8,410 mil,Mixed,University of Michigan,Python
-58,Aprende a programar con Python,4.5,49 mil,Beginner,Universidad Austral,Python
-59,Foundations of Data Science: K-Means Clustering in Python,4.7,27 mil,Beginner,University of London,Python
-60,Understanding and Visualizing Data with Python,4.7,97 mil,Beginner,University of Michigan,Python
-61,Data Analysis Using Python,4.6,"7,5 mil",Beginner,University of Pennsylvania,Python
-62,Python for Genomic Data Science,4.3,46 mil,Mixed,Johns Hopkins University,Python
-63,用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1)),4.9,27 mil,Beginner,National Taiwan University,Python
-64,Python Project for Data Engineering,4.6,"9,3 mil",Intermediate,IBM,Python
-65,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.7,220 mil,Mixed,University of Michigan,Python
-66,Exploratory Data Analysis With Python and Pandas,4.6,"7,6 mil",Beginner,Coursera Project Network,Python
-67,"Python Functions, Files, and Dictionaries",4.8,85 mil,Beginner,University of Michigan,Python
-68,COVID19 Data Analysis Using Python,4.5,28 mil,Intermediate,Coursera Project Network,Python
-69,Create Your First Web App with Python and Flask,4.5,13 mil,Intermediate,Coursera Project Network,Python
-70,Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript,5,"8,5 mil",Mixed,University of Michigan,Python
-71,Inferential Statistical Analysis with Python,4.6,32 mil,Intermediate,University of Michigan,Python
-72,Practical Python for AI Coding 1,4.7,"1,9 mil",Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
+23,Python for Data Analysis: Pandas & NumPy,4.4,4 mil,Beginner,Coursera Project Network,Python
+24,IBM AI Engineering,4.6,300 mil,Intermediate,IBM,Python
+25,Advanced Data Science with IBM,4.3,110 mil,Advanced,IBM,Python
+26,Introduction to Python,4.5,29 mil,Beginner,Coursera Project Network,Python
+27,Modern Application Development with Python on AWS,4.7,140 mil,Beginner,Amazon Web Services,Python
+28,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.4,200 mil,Beginner,Pontificia Universidad Católica de Chile,Python
+29,Data Science for Investment Professionals,4.9,"1,6 mil",Beginner,CFA Institute,Python
+30,Learn to Program: The Fundamentals,4.7,280 mil,Beginner,University of Toronto,Python
+31,Python Data Products for Predictive Analytics,4.2,25 mil,Intermediate,University of California San Diego,Python
+32,Master of Computer and Information Technology,None,None,None,University of Pennsylvania,Python
+33,Programación en Python,4.7,12 mil,Beginner,Universidad de los Andes,Python
+34,Investment Management with Python and Machine Learning,4.6,52 mil,Beginner,EDHEC Business School,Python
+35,IBM Data Engineering,4.6,500 mil,Beginner,IBM,Python
+36,Facebook Marketing Analytics,4.7,16 mil,Beginner,Meta,Python
+37,Introdução à Ciência da Computação com Python Parte 1,4.9,190 mil,Beginner,Universidade de São Paulo,Python
+38,Programming in Python: A Hands-on Introduction,4.5,"5,3 mil",Beginner,Codio,Python
+39,Python Classes and Inheritance,4.7,75 mil,Intermediate,University of Michigan,Python
+40,Machine Learning,4.9,"4,7 m",Mixed,Stanford University,Python
+41,Data Analysis with Python,4.7,230 mil,Beginner,IBM,Python
+42,Python Data Structures,4.9,830 mil,Mixed,University of Michigan,Python
+43,Exploratory Data Analysis With Python and Pandas,4.6,"7,6 mil",Beginner,Coursera Project Network,Python
+44,DeepLearning.AI TensorFlow Developer,4.7,330 mil,Intermediate,DeepLearning.AI,Python
+45,Databases and SQL for Data Science with Python,4.6,240 mil,Beginner,IBM,Python
+46,Python Project for Data Science,4.5,54 mil,Intermediate,IBM,Python
+47,Using Python to Access Web Data,4.8,550 mil,Mixed,University of Michigan,Python
+48,Introduction to Data Science in Python,4.5,660 mil,Intermediate,University of Michigan,Python
+49,Using Python to Interact with the Operating System,4.7,130 mil,Beginner,Google,Python
+50,Fundamentos de Ciencia de Datos con Python y SQL,4.3,"4,6 mil",Beginner,IBM,Python
+51,Data Visualization with Python,4.5,150 mil,Intermediate,IBM,Python
+52,Introduction to Portfolio Construction and Analysis with Python,4.8,44 mil,Mixed,EDHEC Business School,Python
+53,Using Databases with Python,4.8,410 mil,Mixed,University of Michigan,Python
+54,Aprende a programar con Python,4.5,49 mil,Beginner,Universidad Austral,Python
+55,Foundations of Data Science: K-Means Clustering in Python,4.7,27 mil,Beginner,University of London,Python
+56,Understanding and Visualizing Data with Python,4.7,97 mil,Beginner,University of Michigan,Python
+57,用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1)),4.9,27 mil,Beginner,National Taiwan University,Python
+58,Python for Genomic Data Science,4.3,46 mil,Mixed,Johns Hopkins University,Python
+59,Data Analysis Using Python,4.6,"7,6 mil",Beginner,University of Pennsylvania,Python
+60,Python Project for Data Engineering,4.6,"9,3 mil",Intermediate,IBM,Python
+61,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.7,220 mil,Mixed,University of Michigan,Python
+62,Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript,5,"8,6 mil",Mixed,University of Michigan,Python
+63,"Python Functions, Files, and Dictionaries",4.8,85 mil,Beginner,University of Michigan,Python
+64,COVID19 Data Analysis Using Python,4.5,28 mil,Intermediate,Coursera Project Network,Python
+65,Create Your First Web App with Python and Flask,4.5,13 mil,Intermediate,Coursera Project Network,Python
+66,Inferential Statistical Analysis with Python,4.6,32 mil,Intermediate,University of Michigan,Python
+67,Create a Boggle Word Solver using recursion in Python,4.4,"2,8 mil",Intermediate,Coursera Project Network,Python
+68,Practical Python for AI Coding 1,4.7,"1,9 mil",Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
+69,Applied Machine Learning in Python,4.6,250 mil,Intermediate,University of Michigan,Python
+70,Introducción a la programación con Python,4.6,39 mil,Beginner,Universidad Austral,Python
+71,"Applied Plotting, Charting & Data Representation in Python",4.5,160 mil,Intermediate,University of Michigan,Python
+72,Data Collection and Processing with Python,4.7,62 mil,Intermediate,University of Michigan,Python
 73,Python Programming Essentials,4.8,75 mil,Beginner,Rice University,Python
-74,Introducción a la programación con Python,4.6,39 mil,Beginner,Universidad Austral,Python
-75,Create a Boggle Word Solver using recursion in Python,4.4,"2,8 mil",Intermediate,Coursera Project Network,Python
-76,Applied Machine Learning in Python,4.6,250 mil,Intermediate,University of Michigan,Python
-77,"Applied Plotting, Charting & Data Representation in Python",4.5,160 mil,Intermediate,University of Michigan,Python
-78,Data Collection and Processing with Python,4.7,62 mil,Intermediate,University of Michigan,Python
-79,Game Theory with Python,4.3,"6,6 mil",Intermediate,Coursera Project Network,Python
-80,Advanced Portfolio Construction and Analysis with Python,4.8,15 mil,Intermediate,EDHEC Business School,Python
-81,用Python玩转数据 Data Processing Using Python,4.7,84 mil,Mixed,Nanjing University,Python
-82,Data Processing Using Python,4.1,56 mil,Beginner,Nanjing University,Python
-83,COVID19 Data Visualization Using Python,4.6,"3,3 mil",Intermediate,Coursera Project Network,Python
-84,Build a Data Science Web App with Streamlit and Python,4.6,14 mil,Intermediate,Coursera Project Network,Python
-85,Python and Machine Learning for Asset Management,3.1,13 mil,Intermediate,EDHEC Business School,Python
-86,Robot Localization with Python and Particle Filters,4.4,None,Advanced,Coursera Project Network,Python
-87,"Problem Solving, Python Programming, and Video Games",4.2,36 mil,Beginner,University of Alberta,Python
-88,Python Data Representations,4.7,21 mil,Beginner,Rice University,Python
-89,An Introduction to Interactive Programming in Python (Part 1),4.8,200 mil,Mixed,Rice University,Python
-90,"Python Project: pillow, tesseract, and opencv",4,53 mil,Intermediate,University of Michigan,Python
-91,Sentimental Analysis on COVID-19 Tweets using python,4.6,None,Intermediate,Coursera Project Network,Python
+74,用Python玩转数据 Data Processing Using Python,4.7,84 mil,Mixed,Nanjing University,Python
+75,COVID19 Data Visualization Using Python,4.6,"3,3 mil",Intermediate,Coursera Project Network,Python
+76,Game Theory with Python,4.3,"6,6 mil",Intermediate,Coursera Project Network,Python
+77,Advanced Portfolio Construction and Analysis with Python,4.8,16 mil,Intermediate,EDHEC Business School,Python
+78,Robot Localization with Python and Particle Filters,4.4,None,Advanced,Coursera Project Network,Python
+79,Data Processing Using Python,4.1,56 mil,Beginner,Nanjing University,Python
+80,Python and Machine Learning for Asset Management,3.1,13 mil,Intermediate,EDHEC Business School,Python
+81,Build a Data Science Web App with Streamlit and Python,4.6,14 mil,Intermediate,Coursera Project Network,Python
+82,"Problem Solving, Python Programming, and Video Games",4.2,36 mil,Beginner,University of Alberta,Python
+83,An Introduction to Interactive Programming in Python (Part 1),4.8,200 mil,Mixed,Rice University,Python
+84,"Python Project: pillow, tesseract, and opencv",4,53 mil,Intermediate,University of Michigan,Python
+85,Python Data Representations,4.7,21 mil,Beginner,Rice University,Python
+86,Automating Real-World Tasks with Python,4.8,46 mil,Beginner,Google,Python
+87,Sentimental Analysis on COVID-19 Tweets using python,4.6,None,Intermediate,Coursera Project Network,Python
+88,Create Interactive Dashboards with Streamlit and Python,4.7,"8,5 mil",Intermediate,Coursera Project Network,Python
+89,Create Your First Chatbot with Rasa and Python,4.5,17 mil,Beginner,Coursera Project Network,Python
+90,Build a Machine Learning Web App with Streamlit and Python,4.7,"9,9 mil",Intermediate,Coursera Project Network,Python
+91,Python para Data Science y AI,4.8,"2,1 mil",Beginner,IBM,Python
 92,Introduction to Python for Cybersecurity,4.4,"6,1 mil",Intermediate,Infosec,Python
-93,Automating Real-World Tasks with Python,4.8,46 mil,Beginner,Google,Python
-94,Python Data Analysis,4.7,33 mil,Beginner,Rice University,Python
-95,Create Your First Chatbot with Rasa and Python,4.5,17 mil,Beginner,Coursera Project Network,Python
-96,Build a Machine Learning Web App with Streamlit and Python,4.7,"9,9 mil",Intermediate,Coursera Project Network,Python
-97,Create Interactive Dashboards with Streamlit and Python,4.7,"8,5 mil",Intermediate,Coursera Project Network,Python
-98,Python para Data Science y AI,4.8,"2,1 mil",Beginner,IBM,Python
-99,Create an interactive fiction adventure game with Python,4.6,3 mil,Beginner,Coursera Project Network,Python
-100,Using SAS Viya REST APIs with Python and R,4.6,"3,1 mil",Mixed,SAS,Python
-101,"Concepts in Python: Loops, Functions and Returns",4.7,"2,6 mil",Beginner,Coursera Project Network,Python
-102,Introduction to Customer Segmentation in Python,4.6,None,Beginner,Coursera Project Network,Python
-103,The Raspberry Pi Platform and Python Programming for the Raspberry Pi,4.7,110 mil,Mixed,"University of California, Irvine",Python
-104,Advanced Python Scripting for Cybersecurity,4,None,Beginner,Infosec,Python
+93,Python Data Analysis,4.7,33 mil,Beginner,Rice University,Python
+94,Create an interactive fiction adventure game with Python,4.6,3 mil,Beginner,Coursera Project Network,Python
+95,Using SAS Viya REST APIs with Python and R,4.6,"3,1 mil",Mixed,SAS,Python
+96,Python for Data Visualization: Matplotlib & Seaborn,4.7,None,Beginner,Coursera Project Network,Python
+97,Python for Finance: Beta and Capital Asset Pricing Model,4.6,None,Beginner,Coursera Project Network,Python
+98,"Concepts in Python: Loops, Functions and Returns",4.7,"2,6 mil",Beginner,Coursera Project Network,Python
+99,Introduction to Customer Segmentation in Python,4.6,None,Beginner,Coursera Project Network,Python
+100,None,4.7,110 mil,Mixed,"University of California, Irvine",Python
+101,Advanced Python Scripting for Cybersecurity,4.1,None,Beginner,Infosec,Python
+102,用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2)),4.6,"7,9 mil",Intermediate,National Taiwan University,Python
+103,用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3)),4.9,"5,9 mil",Mixed,National Taiwan University,Python
+104,Logistic Regression with Python and Numpy,4.5,"5,7 mil",Intermediate,Coursera Project Network,Python
 105,Introduction to Python Scripting for DevOps,4.3,"2,5 mil",Beginner,LearnQuest,Python
-106,用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2)),4.6,"7,9 mil",Intermediate,National Taiwan University,Python
-107,Logistic Regression with Python and Numpy,4.5,"5,7 mil",Intermediate,Coursera Project Network,Python
-108,Linear Regression with NumPy and Python,4.4,16 mil,Intermediate,Coursera Project Network,Python
-109,Python for Finance: Beta and Capital Asset Pricing Model,4.6,None,Beginner,Coursera Project Network,Python
-110,Accounting Data Analytics with Python,4.1,"8,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Python
-111,Image Denoising Using AutoEncoders in Keras and Python,4.5,"6,6 mil",Intermediate,Coursera Project Network,Python
-112,Create a Python Application using MySQL,4.5,5 mil,Intermediate,Coursera Project Network,Python
-113,Python for Data Visualization: Matplotlib & Seaborn,4.7,None,Beginner,Coursera Project Network,Python
-114,Introduction to Data Science and scikit-learn in Python,3.8,None,Beginner,LearnQuest,Python
-115,Create Your First Game with Python,4.5,12 mil,Intermediate,Coursera Project Network,Python
-116,Creating a Wordcloud using NLP and TF-IDF in Python,None,None,Beginner,Coursera Project Network,Python
-117,Exception Handling in Python,4.7,2 mil,Intermediate,Coursera Project Network,Python
-118,Crime Zone Heatmaps with Python and Folium,None,None,Beginner,Coursera Project Network,Python
-119,FIFA20 Data Exploration using Python,4.6,"1,9 mil",Beginner,Coursera Project Network,Python
-120,Processing Data with Python,4.4,"5,7 mil",Intermediate,Coursera Project Network,Python
-121,"Python Scripting: Dates, Classes and Collections",4.4,None,Beginner,LearnQuest,Python
-122,GUI programming: Create a Calculator in Python,4.8,None,Intermediate,Coursera Project Network,Python
-123,Neural Network Visualizer Web App with Python,4.5,"6,5 mil",Intermediate,Coursera Project Network,Python
-124,Clustering Geolocation Data Intelligently in Python,4.5,10 mil,Intermediate,Coursera Project Network,Python
-125,Basic Statistics in Python (ANOVA),4.4,None,Beginner,Coursera Project Network,Python
-126,Build a Bot in Python for Basic File and Interface Chores,None,None,Intermediate,Coursera Project Network,Python
-127,Support Vector Machine Classification in Python,4.4,6 mil,Intermediate,Coursera Project Network,Python
-128,Version Control of a Python Project using Git,4.4,"1,8 mil",Intermediate,Coursera Project Network,Python
-129,"Merge, Sort and Filter Data in Python Pandas",4.5,"3,4 mil",Intermediate,Coursera Project Network,Python
-130,Language Classification with Naive Bayes in Python,4.5,"6,1 mil",Intermediate,Coursera Project Network,Python
-131,Determine Shortest Paths Between Routers Using Python,4.6,None,Intermediate,Coursera Project Network,Python
-132,Data Analysis in Python with pandas & matplotlib in Spyder,2.5,None,Beginner,Codio,Python
-133,"Python Scripting: Files, Inheritance, and Databases",4.7,None,Beginner,LearnQuest,Python
-134,Class Creation in Object Oriented Python,4.3,"2,7 mil",Beginner,Coursera Project Network,Python
-135,Data Visualization with Python,4.5,"7,7 mil",Intermediate,Coursera Project Network,Python
-136,Basic Statistics in Python (Correlations and T-tests),4.3,None,Beginner,Coursera Project Network,Python
-137,Aprendiendo Python con estadística descriptiva,4.7,None,Beginner,Coursera Project Network,Python
-138,Creando simulaciones con python,None,None,Intermediate,Coursera Project Network,Python
-139,Image Compression and Generation using Variational Autoencoders in Python,4.7,"3,2 mil",Intermediate,Coursera Project Network,Python
-140,Python for Active Defense,4.4,None,Intermediate,Infosec,Python
-141,Estructuras de datos en Python,4.5,14 mil,Beginner,Universidad Austral,Python
-142,Improve Your Python Code Using Amazon CodeGuru,4.6,"2,1 mil",Intermediate,Amazon Web Services,Python
-143,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python",4.4,None,Beginner,Coursera Project Network,Python
-144,Create Python Linux Script to Generate a Disk Usage Report,4.5,"4,4 mil",Intermediate,Coursera Project Network,Python
-145,Regex Python - Découvrir les Expressions Régulières,4.8,None,Beginner,Coursera Project Network,Python
-146,"Classification Trees in Python, From Start To Finish",4.6,9 mil,Intermediate,Coursera Project Network,Python
-147,Create a Memory Puzzle Game in Python Using Pygame,4.3,"1,7 mil",Intermediate,Coursera Project Network,Python
-148,Big-O Time Complexity in Python Code,4.6,None,Intermediate,Coursera Project Network,Python
-149,Análisis de datos con Python,4.6,"1,6 mil",Beginner,IBM,Python
-150,Python 101: Develop Your First Python Program,4.8,"3,6 mil",Beginner,Coursera Project Network,Python
-151,Create Your First Python Program From UST,4.6,30 mil,Beginner,Coursera Project Network,Python
-152,An Introduction to Interactive Programming in Python (Part 2),4.9,47 mil,Beginner,Rice University,Python
-153,Object-Oriented Python: Inheritance and Encapsulation,4.3,"2,1 mil",Intermediate,Codio,Python
-154,Programación Orientada a Objetos con Python,4,14 mil,Beginner,Universidad Austral,Python
-155,Compose and Program Music in Python using Earsketch,4.5,13 mil,Beginner,Coursera Project Network,Python
-156,Manejo de bases de datos con Python,4.2,13 mil,Beginner,Universidad Austral,Python
-157,用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3)),4.9,"5,9 mil",Mixed,National Taiwan University,Python
-158,Uso de Python para Acceder a Datos Web,None,None,Mixed,University of Michigan,Python
-159,Python Basics: Selection and Iteration,4.6,"2,8 mil",Beginner,Codio,Python
-160,Global Warming II: Create Your Own Models in Python,4.1,13 mil,Mixed,The University of Chicago,Python
-161,Python Basics: Create a Guessing Number Game from Scratch,4.6,"3,5 mil",Beginner,Coursera Project Network,Python
-162,Python Database Connection with MariaDB From Infosys,4.7,"2,2 mil",Intermediate,Coursera Project Network,Python
-163,Python para a Ciência de Dados e IA,None,None,Beginner,IBM,Python
-164,"Python Object Basics: Functions, Recursion, and Objects",4.8,None,Intermediate,Codio,Python
-165,"Python Basic Structures: Lists, Strings, and Files",4.4,None,Beginner,Codio,Python
-166,Database Operations in MariaDB Using Python From Infosys,4.6,"1,8 mil",Advanced,Coursera Project Network,Python
-167,Use Python Regular Expressions to Process File Data,3.3,None,Intermediate,Coursera Project Network,Python
-168,"Where, Why, and How of Lambda Functions in Python",None,None,Beginner,Coursera Project Network,Python
-169,Python에서 데이터베이스 사용하기,None,None,Mixed,University of Michigan,Python
+106,Linear Regression with NumPy and Python,4.4,16 mil,Intermediate,Coursera Project Network,Python
+107,Image Denoising Using AutoEncoders in Keras and Python,4.5,"6,6 mil",Intermediate,Coursera Project Network,Python
+108,Create a Python Application using MySQL,4.5,5 mil,Intermediate,Coursera Project Network,Python
+109,Language Classification with Naive Bayes in Python,4.5,"6,1 mil",Intermediate,Coursera Project Network,Python
+110,Create Your First Game with Python,4.5,12 mil,Intermediate,Coursera Project Network,Python
+111,Creating a Wordcloud using NLP and TF-IDF in Python,None,None,Beginner,Coursera Project Network,Python
+112,Exception Handling in Python,4.7,2 mil,Intermediate,Coursera Project Network,Python
+113,Crime Zone Heatmaps with Python and Folium,None,None,Beginner,Coursera Project Network,Python
+114,FIFA20 Data Exploration using Python,4.6,"1,9 mil",Beginner,Coursera Project Network,Python
+115,Processing Data with Python,4.4,"5,7 mil",Intermediate,Coursera Project Network,Python
+116,Introduction to Data Science and scikit-learn in Python,3.8,None,Beginner,LearnQuest,Python
+117,GUI programming: Create a Calculator in Python,4.8,None,Intermediate,Coursera Project Network,Python
+118,"Python Scripting: Dates, Classes and Collections",4.4,None,Beginner,LearnQuest,Python
+119,Clustering Geolocation Data Intelligently in Python,4.5,10 mil,Intermediate,Coursera Project Network,Python
+120,Basic Statistics in Python (ANOVA),4.4,None,Beginner,Coursera Project Network,Python
+121,Build a Bot in Python for Basic File and Interface Chores,None,None,Intermediate,Coursera Project Network,Python
+122,Support Vector Machine Classification in Python,4.4,6 mil,Intermediate,Coursera Project Network,Python
+123,Version Control of a Python Project using Git,4.4,"1,8 mil",Intermediate,Coursera Project Network,Python
+124,"Merge, Sort and Filter Data in Python Pandas",4.5,"3,4 mil",Intermediate,Coursera Project Network,Python
+125,Determine Shortest Paths Between Routers Using Python,4.6,None,Intermediate,Coursera Project Network,Python
+126,Data Analysis in Python with pandas & matplotlib in Spyder,2.8,None,Beginner,Codio,Python
+127,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python",4.4,None,Beginner,Coursera Project Network,Python
+128,Accounting Data Analytics with Python,4.1,"8,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Python
+129,Neural Network Visualizer Web App with Python,4.5,"6,5 mil",Intermediate,Coursera Project Network,Python
+130,Python Data Structures,4.4,"8,4 mil",Intermediate,Coursera Project Network,Python
+131,Class Creation in Object Oriented Python,4.3,"2,7 mil",Beginner,Coursera Project Network,Python
+132,Data Visualization with Python,4.5,"7,7 mil",Intermediate,Coursera Project Network,Python
+133,Basic Statistics in Python (Correlations and T-tests),4.3,None,Beginner,Coursera Project Network,Python
+134,Aprendiendo Python con estadística descriptiva,4.7,None,Beginner,Coursera Project Network,Python
+135,Creando simulaciones con python,None,None,Intermediate,Coursera Project Network,Python
+136,Image Compression and Generation using Variational Autoencoders in Python,4.7,"3,2 mil",Intermediate,Coursera Project Network,Python
+137,Estructuras de datos en Python,4.5,14 mil,Beginner,Universidad Austral,Python
+138,"Python Scripting: Files, Inheritance, and Databases",4.7,None,Beginner,LearnQuest,Python
+139,Create Python Linux Script to Generate a Disk Usage Report,4.5,"4,4 mil",Intermediate,Coursera Project Network,Python
+140,Regex Python - Découvrir les Expressions Régulières,4.8,None,Beginner,Coursera Project Network,Python
+141,"Classification Trees in Python, From Start To Finish",4.6,9 mil,Intermediate,Coursera Project Network,Python
+142,Create a Memory Puzzle Game in Python Using Pygame,4.3,"1,7 mil",Intermediate,Coursera Project Network,Python
+143,Big-O Time Complexity in Python Code,4.6,None,Intermediate,Coursera Project Network,Python
+144,Análisis de datos con Python,4.6,"1,6 mil",Beginner,IBM,Python
+145,Python 101: Develop Your First Python Program,4.7,"3,7 mil",Beginner,Coursera Project Network,Python
+146,Create Your First Python Program From UST,4.6,30 mil,Beginner,Coursera Project Network,Python
+147,An Introduction to Interactive Programming in Python (Part 2),4.9,47 mil,Beginner,Rice University,Python
+148,Object-Oriented Python: Inheritance and Encapsulation,4.3,"2,1 mil",Intermediate,Codio,Python
+149,Programación Orientada a Objetos con Python,4,14 mil,Beginner,Universidad Austral,Python
+150,Manejo de bases de datos con Python,4.2,13 mil,Beginner,Universidad Austral,Python
+151,Compose and Program Music in Python using Earsketch,4.5,13 mil,Beginner,Coursera Project Network,Python
+152,Improve Your Python Code Using Amazon CodeGuru,4.6,"2,1 mil",Intermediate,Amazon Web Services,Python
+153,Uso de Python para Acceder a Datos Web,None,None,Mixed,University of Michigan,Python
+154,Python Basics: Create a Guessing Number Game from Scratch,4.6,"3,5 mil",Beginner,Coursera Project Network,Python
+155,Python para a Ciência de Dados e IA,None,None,Beginner,IBM,Python
+156,Python Basics: Selection and Iteration,4.6,"2,8 mil",Beginner,Codio,Python
+157,Global Warming II: Create Your Own Models in Python,4.1,13 mil,Mixed,The University of Chicago,Python
+158,Python Database Connection with MariaDB From Infosys,4.7,"2,2 mil",Intermediate,Coursera Project Network,Python
+159,"Python Object Basics: Functions, Recursion, and Objects",4.8,None,Intermediate,Codio,Python
+160,Database Operations in MariaDB Using Python From Infosys,4.6,"1,8 mil",Advanced,Coursera Project Network,Python
+161,Use Python Regular Expressions to Process File Data,3.3,None,Intermediate,Coursera Project Network,Python
+162,"Python Basic Structures: Lists, Strings, and Files",4.4,None,Beginner,Codio,Python
+163,Python for Active Defense,4.4,None,Intermediate,Infosec,Python
+164,"Where, Why, and How of Lambda Functions in Python",None,None,Beginner,Coursera Project Network,Python
+165,Python에서 데이터베이스 사용하기,None,None,Mixed,University of Michigan,Python
+166,Statistical Analysis using Python Numpy,None,None,Intermediate,Coursera Project Network,Python
+167,Python Dynamic HTML Web Server,4.5,6 mil,Beginner,Coursera Project Network,Python
+168,Python: обработка и анализ данных и ИИ,None,None,Beginner,IBM,Python
+169,Python Scripting for DevOps,4.3,None,Intermediate,Coursera Project Network,Python
 170,Dice Game in Python,4.5,None,Beginner,Coursera Project Network,Python
-171,Python: обработка и анализ данных и ИИ,None,None,Beginner,IBM,Python
-172,Statistical Analysis using Python Numpy,None,None,Intermediate,Coursera Project Network,Python
-173,Python Dynamic HTML Web Server,4.5,6 mil,Beginner,Coursera Project Network,Python
-174,Работа с базами данных в Python,None,None,Mixed,University of Michigan,Python
-175,Визуализация данных с помощью Python,None,None,Intermediate,IBM,Python
-176,Python Scripting for DevOps,4.3,None,Intermediate,Coursera Project Network,Python
-177,"Support Vector Machines in Python, From Start to Finish",4.6,"4,6 mil",Intermediate,Coursera Project Network,Python
-178,Analyze Box Office Data with Plotly and Python,4.5,"8,5 mil",Beginner,Coursera Project Network,Python
-179,Snake game in Python: use Pygame to build your game,None,None,Intermediate,Coursera Project Network,Python
-180,Aprendiendo Python con bases de datos,4.7,None,Beginner,Coursera Project Network,Python
-181,Primeros pasos en Python,4.6,None,Beginner,Coursera Project Network,Python
-182,Create Beautiful Data Visualizations with Python and Altair,None,None,Intermediate,Coursera Project Network,Python
-183,Introduction to Search Techniques in Python: Binary Search,None,None,Beginner,Coursera Project Network,Python
-184,Implementing Hangman Game Using Basics of Python 3,4.5,None,Beginner,Coursera Project Network,Python
-185,Aprendiendo Python con álgebra lineal,4.6,None,Beginner,Coursera Project Network,Python
-186,Aprendiendo Python con circuitos digitales,4.8,None,Beginner,Coursera Project Network,Python
-187,Creating a Word Jumble Game in Python Using Tkinter GUI,None,None,Beginner,Coursera Project Network,Python
-188,Create a Connect Four Game in Python using Pygame,None,None,Intermediate,Coursera Project Network,Python
-189,Machine Learning with Python,4.7,250 mil,Intermediate,IBM,Python
-190,Statistics for Data Science with Python,4.6,12 mil,Mixed,IBM,Python
-191,Building Modern Python Applications on AWS,4.5,73 mil,Intermediate,Amazon Web Services,Python
-192,Análise de dados com Python,None,None,Beginner,IBM,Python
-193,Introdução à Ciência da Computação com Python Parte 2,4.9,25 mil,Beginner,Universidade de São Paulo,Python
-194,Python Project for AI & Application Development,4.5,"7,7 mil",Intermediate,IBM,Python
-195,Data Science con Python e R,4.1,None,Intermediate,Università di Napoli Federico II,Python
-196,Programación para todos (Introducción a Python),4.9,"2,2 mil",Mixed,University of Michigan,Python
-197,"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",4.7,16 mil,Intermediate,Ludwig-Maximilians-Universität München (LMU),Python
-198,Fitting Statistical Models to Data with Python,4.4,26 mil,Intermediate,University of Michigan,Python
-199,Programmation pour tous (mise en route de Python),4.9,None,Mixed,University of Michigan,Python
-200,Computer Vision - Image Basics with OpenCV and Python,4.3,14 mil,Beginner,Coursera Project Network,Python
-201,Applied Text Mining in Python,4.2,120 mil,Intermediate,University of Michigan,Python
-202,Programação para todos (Conceitos básicos de Python),5,None,Mixed,University of Michigan,Python
-203,Python: Istruzioni per l’uso,4.1,None,Beginner,Università di Napoli Federico II,Python
-204,Geospatial Data Visualization using Python and Folium,None,None,Intermediate,Coursera Project Network,Python
-205,Use Python Unit Test to Demonstrate TDD,None,None,Intermediate,Coursera Project Network,Python
-206,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11 mil,Intermediate,EDHEC Business School,Python
-207,Applied Social Network Analysis in Python,4.7,85 mil,Intermediate,University of Michigan,Python
-208,Image Processing with Python,4.3,12 mil,Intermediate,Coursera Project Network,Python
-209,Traffic Sign Classification Using Deep Learning in Python/Keras,4.6,10 mil,Intermediate,Coursera Project Network,Python
-210,Climate Geospatial Analysis on Python with Xarray,4.2,None,Intermediate,Coursera Project Network,Python
-211,Create a Python Application using PyMongo and MongoDB Database,4.4,"3,2 mil",Intermediate,Coursera Project Network,Python
-212,Network Data Science with NetworkX and Python,4.3,5 mil,Intermediate,Coursera Project Network,Python
-213,Машинное обучение с использованием Python,None,None,Intermediate,IBM,Python
-214,Dimensionality Reduction using an Autoencoder in Python,4.6,"3,3 mil",Intermediate,Coursera Project Network,Python
-215,"Activity Recognition using Python, Tensorflow and Keras",None,None,Beginner,Coursera Project Network,Python
-216,Build a Python GUI with Tkinter,4.4,"3,2 mil",Intermediate,Coursera Project Network,Python
-217,Aprendizado de máquina com Python,None,None,Intermediate,IBM,Python
-218,Python Data Visualization,4.7,33 mil,Beginner,Rice University,Python
-219,Estadísticas para la Ciencia de Datos con Python,None,None,Mixed,IBM,Python
-220,Анализ данных с использованием Python,None,None,Beginner,IBM,Python
-221,Testing and Debugging Python,4.3,"6,2 mil",Intermediate,Coursera Project Network,Python
-222,Use Python to Create a Web Testing Bot,4,None,Intermediate,Coursera Project Network,Python
-223,Analysing Covid-19 Geospatial data with Python,4.3,None,Intermediate,Coursera Project Network,Python
-224,Procesamiento del lenguaje natural con Python y Power BI,5,None,Intermediate,Coursera Project Network,Python
-225,Extract Text Data with Python and Regex,4.4,None,Intermediate,Coursera Project Network,Python
-226,Machine Learning for Accounting with Python,4.5,"6,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Python
-227,Logistic Regression with NumPy and Python,4.5,12 mil,Beginner,Coursera Project Network,Python
-228,Image Segmentation with Python and Unsupervised Learning,4.6,None,Intermediate,Coursera Project Network,Python
-229,Advanced Python - Reconnaissance,4,None,Mixed,Infosec,Python
-230,Aprendizaje Automático con Python,5,None,Intermediate,IBM,Python
-231,Python per la Data Science,None,None,Intermediate,Università di Napoli Federico II,Python
-232,Visualizing & Communicating Results in Python with Jupyter,None,None,Beginner,Codio,Python
-233,Linear Regression with Python,4.6,10 mil,Intermediate,Coursera Project Network,Python
-234,Análisis exploratorio de datos con Python y Pandas,None,None,Beginner,Coursera Project Network,Python
-235,"Storing, Retrieving, and Processing JSON data with Python",None,None,Intermediate,Coursera Project Network,Python
-236,Wrangling Data for Data Analysts with Python,None,None,Beginner,Coursera Project Network,Python
-237,Analyser vos données avec Python,None,None,Beginner,Coursera Project Network,Python
-238,Test Driven Development Process For Beginners In Python,None,None,Beginner,Coursera Project Network,Python
-239,"Where, Why, and How of List Comprehension in Python",None,None,Beginner,Coursera Project Network,Python
-240,Facebook Network Analysis using Python and Networkx,4.3,None,Intermediate,Coursera Project Network,Python
-241,Visualización Avanzada de datos con Python,None,None,Intermediate,Coursera Project Network,Python
-242,Regresión logística con NumPy y Python,None,None,Beginner,Coursera Project Network,Python
-243,Creating a Color Game in Python Using Tkinter GUI,None,None,Beginner,Coursera Project Network,Python
-244,Creating a Supermarket App Using Python,4.5,None,Intermediate,Coursera Project Network,Python
-245,"Python for Command-and-control, Exfiltration and Impact",5,None,Intermediate,Infosec,Python
-246,DevOps and Build Automation with Python,4,None,Beginner,LearnQuest,Python
-247,Detect Fake News in Python with Tensorflow,3.8,None,Intermediate,Coursera Project Network,Python
-248,COVID-19 : Les séries temporelles avec Python et Pandas,4.5,None,Intermediate,Coursera Project Network,Python
-249,Working with AWS S3 Buckets using Python & boto3,5,None,Beginner,Coursera Project Network,Python
-250,Introduction to Statistics in Python,None,None,Intermediate,Coursera Project Network,Python
-251,DataViz - Grammaire des Graphiques avec Python,None,None,Intermediate,Coursera Project Network,Python
-252,Text Generation with Markov Chains in Python,None,None,Intermediate,Coursera Project Network,Python
-253,AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application,4.6,"1,5 mil",Beginner,Coursera Project Network,Python
-254,Regular Expressions in Python,4.3,None,Intermediate,Coursera Project Network,Python
-255,Configuring Python Extension Pack with Visual Studio Code,None,None,Beginner,Coursera Project Network,Python
-256,Build a User Interface using Python Language,None,None,Intermediate,Coursera Project Network,Python
-257,Visualización de Datos con Python,4.6,None,Intermediate,IBM,Python
-258,Hypothesis Testing with Python and Excel,4.2,"2,1 mil",Intermediate,Tufts University,Python
-259,Use Python and Java to Create a GUI Application,None,None,Intermediate,Coursera Project Network,Python
-260,Программирование для всех (начало работы с Python),None,None,Mixed,University of Michigan,Python
-261,Create your own Sudoku Solver using AI and Python,4.3,"2,7 mil",Intermediate,Coursera Project Network,Python
-262,Create a Tic-Tac-Toe game in Python,4.9,None,Intermediate,Coursera Project Network,Python
-263,Practical Python for AI Coding 2,None,None,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
-264,Applied Calculus with Python,None,None,Intermediate,Johns Hopkins University,Python
-265,Uso de bancos de dados com Python,None,None,Mixed,University of Michigan,Python
-266,Uso de bases de datos con Python,None,None,Mixed,University of Michigan,Python
-267,Juniper Networks Automation Using Python and PyEZ,None,None,Beginner,Juniper Networks,Python
-268,Estructuras de datos de Python,None,None,Mixed,University of Michigan,Python
-269,Использование языка Python для доступа к веб-данным,None,None,Mixed,University of Michigan,Python
-270,Defensive Python,None,None,Mixed,Infosec,Python
-271,Automatic Machine Learning with H2O AutoML and Python,4.8,"6,3 mil",Intermediate,Coursera Project Network,Python
-272,Estruturas de dados Python,None,None,Mixed,University of Michigan,Python
-273,Deploying a Python Data Analytics web app on Heroku,4.3,None,Intermediate,Coursera Project Network,Python
-274,Analyze Box Office Data with Seaborn and Python,4.5,"4,1 mil",Intermediate,Coursera Project Network,Python
-275,Working with Amazon DynamoDB using Python & Boto3,None,None,Beginner,Coursera Project Network,Python
-276,Enhance your python unit testing using Coverage,None,None,Intermediate,Coursera Project Network,Python
-277,Python Optical Character Recognition using Pytorch,None,None,Beginner,Coursera Project Network,Python
-278,Структуры данных Python,None,None,Mixed,University of Michigan,Python
-279,Visualização de dados com o Python,None,None,Intermediate,IBM,Python
-280,"Le Où, Pourquoi et Comment des Fonctions Lambda en Python",None,None,Beginner,Coursera Project Network,Python
-281,Series Temporales con Pycaret y Python,None,None,Intermediate,Coursera Project Network,Python
-282,Data Processing using Python Collections,None,None,Intermediate,Coursera Project Network,Python
-283,GUI Programming: Create a Login System in Python,3.8,None,Intermediate,Coursera Project Network,Python
-284,Plots Creation using Matplotlib Python,None,None,Beginner,Coursera Project Network,Python
-285,Build a Machine Learning Image Classifier with Python,None,None,Intermediate,Coursera Project Network,Python
-286,ML: Diagnose the presence of Breast Cancer with Python,None,None,Intermediate,Coursera Project Network,Python
-287,High-dimensional Data visualization techniques using python,None,None,Intermediate,Coursera Project Network,Python
-288,Decryption with Python,None,None,Intermediate,Coursera Project Network,Python
-289,Machine Learning con Python. Nivel intermedio,None,None,Beginner,Coursera Project Network,Python
-290,Installation et Configuration Python avec Visual Studio Code,None,None,Beginner,Coursera Project Network,Python
-291,Nettoyer vos données avec Python,None,None,Beginner,Coursera Project Network,Python
-292,Python استخدام قواعد البيانات مع,None,None,Mixed,University of Michigan,Python
-293,Write your own Python tool to footprint a web application,None,None,Intermediate,Coursera Project Network,Python
-294,Personal Desktop Notifier in Python: Covid-19 notifications,None,None,Intermediate,Coursera Project Network,Python
-295,Python بُنى بيانات,None,None,Mixed,University of Michigan,Python
-296,Exploring and Analyzing Fifa's Datasets Using Python,None,None,Beginner,Coursera Project Network,Python
-297,Crea tu primera aplicación web con Python y Flask,None,None,Intermediate,Coursera Project Network,Python
-298,Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام,None,None,Intermediate,Coursera Project Network,Python
-299,Message Encoding/Decoding in Python with GUI,None,None,Beginner,Coursera Project Network,Python
-300,Create Ping-Pong Game in Python using Turtle Graphics,None,None,Intermediate,Coursera Project Network,Python
-301,Machine Learning con Python. Nivel Avanzado,None,None,Intermediate,Coursera Project Network,Python
-302,"Creating a Rock, Paper, Scissors Game in Python",None,None,Beginner,Coursera Project Network,Python
-303,Create a Dynamic-Link Library with DevC++ for Python,None,None,Intermediate,Coursera Project Network,Python
-304,Design and Develop an Obstacles Game using Pygame in Python,None,None,Intermediate,Coursera Project Network,Python
-305,Hierarchical relational data analysis using python,None,None,Intermediate,Coursera Project Network,Python
-306,برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19,None,None,Intermediate,Coursera Project Network,Python
-307,Python في Pygame تصميم و تطوير لعبة العقبات باستخدام,None,None,Intermediate,Coursera Project Network,Python
-308,Affectation de variable en Python,None,None,Beginner,Coursera Project Network,Python
-309,Création de chaînes en Python,None,None,Beginner,Coursera Project Network,Python
-310,Tirer Parti des Listes Pour un Code Python Plus Simple,None,None,Beginner,Coursera Project Network,Python
-311,"Aprendiendo Python con textos, números y ecuaciones",4.8,None,Beginner,Coursera Project Network,Python
-312,Graficando con Python,None,None,Intermediate,Coursera Project Network,Python
-313,Chicken Invaders Game in Python using Pygame,None,None,Beginner,Coursera Project Network,Python
-314,أساسيات python: برمج لعبة تخمين الرقم من الصفر,None,None,Beginner,Coursera Project Network,Python
-315,بناء Neural Network مكونه من 3 طبقات بأستخدام لغة Python,None,None,Beginner,Coursera Project Network,Python
-316,Les Expressions Régulières en Python,None,None,Intermediate,Coursera Project Network,Python
-317,Python معالجة مسبقة للبيانات و تحليلها بواسطة,None,None,Beginner,Coursera Project Network,Python
-318,Crea tu primer juego de adivinanza con Python,None,None,Beginner,Coursera Project Network,Python
-319,MatplotLib Python باستخدام plots إنشاء ال,None,None,Beginner,Coursera Project Network,Python
-320,Des nombres et plus en Python,None,None,Beginner,Coursera Project Network,Python
-321,Explorando funciones cuadráticas con Python,None,None,Beginner,Coursera Project Network,Python
-322,Aprendizaje automático con Python y Azure Notebooks,None,None,Beginner,Coursera Project Network,Python
-323,لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة,None,None,Intermediate,Coursera Project Network,Python
-324,Explorando funciones lineales con Python,None,None,Beginner,Coursera Project Network,Python
-325,Extraire des Données de Texte avec Python et Regex,None,None,Beginner,Coursera Project Network,Python
-326,Python для информационной безопасности,None,None,Intermediate,E-Learning Development Fund,Python
-327,Python для кибербезопасности,None,None,Intermediate,E-Learning Development Fund,Python
-328,Introduction to Data Science,4.6,690 mil,Beginner,IBM,Python
-329,Applied Data Science,4.6,500 mil,Beginner,IBM,Python
-330,IBM Full Stack Cloud Developer,4.6,470 mil,Beginner,IBM,Python
-331,IBM Cybersecurity Analyst,4.6,250 mil,Beginner,IBM,Python
-332,IBM Applied AI,4.6,530 mil,Beginner,IBM,Python
-333,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",Python
-334,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350 mil,Intermediate,Google Cloud,Python
-335,IBM Machine Learning,4.6,37 mil,Intermediate,IBM,Python
-336,Mathematics for Machine Learning,4.6,300 mil,Beginner,Imperial College London,Python
-337,Sports Performance Analytics,4.5,"8,9 mil",Intermediate,University of Michigan,Python
-338,Computational Thinking for Problem Solving,4.7,75 mil,Beginner,University of Pennsylvania,Python
-339,Machine Learning for Trading,3.9,40 mil,Intermediate,New York Institute of Finance,Python
-340,Advanced Statistics for Data Science,4.4,94 mil,Advanced,Johns Hopkins University,Python
-341,Ciencia de Datos de IBM,4.5,"7,4 mil",Beginner,IBM,Python
-342,Introducción a la Ciencia de Datos,4.5,"4,4 mil",Beginner,IBM,Python
-343,Spacecraft Dynamics and Control,4.8,26 mil,Advanced,University of Colorado Boulder,Python
-344,Biology Meets Programming: Bioinformatics for Beginners,4.2,130 mil,Beginner,University of California San Diego,Python
-345,Data Analysis and Interpretation,4.4,140 mil,Beginner,Wesleyan University,Python
-346,Introduction to Data Analytics,3.2,"4,5 mil",Beginner,Meta,Python
-347,Introduction to MongoDB,4.2,52 mil,Intermediate,MongoDB Inc.,Python
-348,Getting started with TensorFlow 2,4.9,25 mil,Intermediate,Imperial College London,Python
-349,Machine Learning Foundations: A Case Study Approach,4.6,360 mil,Mixed,University of Washington,Python
-350,Reinforcement Learning for Trading Strategies,3.7,11 mil,Intermediate,New York Institute of Finance,Python
-351,Mastering Data Analysis with Pandas: Learning Path Part 1,4.6,None,Beginner,Coursera Project Network,Python
-352,"Developing Applications with SQL, Databases, and Django",4.5,"5,7 mil",Intermediate,IBM,Python
-353,Learn to Program: Crafting Quality Code,4.6,54 mil,Mixed,University of Toronto,Python
-354,Advanced Linear Models for Data Science 2: Statistical Linear Models,4.5,20 mil,Advanced,Johns Hopkins University,Python
-355,Computer Science: Programming with a Purpose,4.7,150 mil,Beginner,Princeton University,Python
-356,Developing AI Applications on Azure,4.4,45 mil,Advanced,LearnQuest,Python
-357,Build & Deploy AI Messenger Chatbot using IBM Watson,4.5,"4,4 mil",Beginner,Coursera Project Network,Python
-358,Tweet Emotion Recognition with TensorFlow,4.7,"4,3 mil",Intermediate,Coursera Project Network,Python
-359,Agile Project: Product Prototype Touchpoint Analysis in Miro,4.6,"2,1 mil",Intermediate,Coursera Project Network,Python
-360,Data for Machine Learning,4.4,"6,5 mil",Intermediate,Alberta Machine Intelligence Institute,Python
-361,Data Science at Scale,4.2,83 mil,Intermediate,University of Washington,Python
-362,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,None,None,None,Universidad de los Andes,Python
-363,Machine Learning for Analytics MasterTrack™ Certificate,None,None,None,University of Chicago,Python
-364,Google IT Support,4.8,"1,2 m",Beginner,Google,Python
-365,Modern Application Development with Node.js on AWS,4.8,83 mil,Beginner,Amazon Web Services,Python
-366,"HTML, CSS, and Javascript for Web Developers",4.7,690 mil,Mixed,Johns Hopkins University,Python
-367,Object Oriented Programming in Java,4.6,510 mil,Beginner,University of California San Diego,Python
-368,Introduction to Web Development,4.7,190 mil,Beginner,"University of California, Davis",Python
-369,Machine Learning for All,4.7,110 mil,Beginner,University of London,Python
-370,Introduction to Machine Learning,4.7,160 mil,Intermediate,Duke University,Python
-371,Advanced Django: Mastering Django and Django Rest Framework,4.8,"1,8 mil",Advanced,Codio,Python
-372,Introduction to Java and Object-Oriented Programming,4.3,"9,8 mil",Beginner,University of Pennsylvania,Python
-373,Fundamentals of Scalable Data Science,4.3,63 mil,Beginner,IBM,Python
-374,Web Application Technologies and Django,4.7,63 mil,Intermediate,University of Michigan,Python
-375,"Introduction to Trading, Machine Learning & GCP",4,32 mil,Intermediate,Google Cloud,Python
-376,Advanced Machine Learning and Signal Processing,4.5,39 mil,Advanced,IBM,Python
-377,Building Web Applications in Django,4.7,31 mil,Intermediate,University of Michigan,Python
-378,Guided Tour of Machine Learning in Finance,3.8,28 mil,Intermediate,New York University,Python
-379,Using Machine Learning in Trading and Finance,4,16 mil,Intermediate,New York Institute of Finance,Python
-380,Introduction to Accounting Data Analytics and Visualization,4.8,20 mil,Beginner,University of Illinois at Urbana-Champaign,Python
-381,Advanced Django: Building a Blog,4.9,None,Advanced,Codio,Python
-382,Object-Oriented Programming Concepts,4.6,"1,5 mil",Beginner,LearnQuest,Python
-383,"Cloud Virtualization, Containers and APIs",4.4,"2,5 mil",Beginner,Duke University,Python
-384,Statistics for Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Python
-385,Cloud Data Engineering,4.2,"2,4 mil",Intermediate,Duke University,Python
-386,Advanced Django: Introduction to Django Rest Framework,4.4,None,Advanced,Codio,Python
-387,بايثون لعلوم البيانات والذكاء الصناعي,None,None,Beginner,IBM,Python
-388,Exploratory Data Analysis,4.2,"5,2 mil",Intermediate,Coursera Project Network,Python
-389,Build Your First Android App (Project-Centered Course),4.2,330 mil,Mixed,CentraleSupélec,Python
-390,The Fundamental of Data-Driven Investment,None,None,Beginner,Sungkyunkwan University,Python
-391,Introduction to Bayesian Statistics,3.2,"2,1 mil",Beginner,Databricks,Python
-392,Advanced Django: Advanced Django Rest Framework,None,None,Advanced,Codio,Python
-393,Deploy an NLP Text Generator: Bart Simpson Chalkboard Gag,None,None,Intermediate,Coursera Project Network,Python
-394,Advanced Django: External APIs and Task Queuing,None,None,Advanced,Codio,Python
-395,التعلّم الآلي باستخدام لغة بايثون,None,None,Intermediate,IBM,Python
-396,Build a Classification Model using PyCaret,None,None,Beginner,Coursera Project Network,Python
-397,Deep Learning,4.8,"1,2 m",Intermediate,DeepLearning.AI,Python
-398,Data Engineering Foundations,4.6,490 mil,Beginner,IBM,Python
-399,IBM Data Warehouse Engineer,4.6,270 mil,Beginner,IBM,Python
-400,"BI Foundations with SQL, ETL and Data Warehousing",4.6,250 mil,Beginner,IBM,Python
-401,Natural Language Processing,4.6,110 mil,Intermediate,DeepLearning.AI,Python
-402,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250 mil,Intermediate,Google Cloud,Python
-403,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250 mil,Intermediate,Google Cloud,Python
-404,Genomic Data Science,4.5,120 mil,Intermediate,Johns Hopkins University,Python
-405,Security Analyst Fundamentals,4.6,36 mil,Beginner,IBM,Python
-406,Neural Networks and Deep Learning,4.9,1 m,Intermediate,DeepLearning.AI,Python
-407,IBM Introduction to Machine Learning,4.6,32 mil,Intermediate,IBM,Python
-408,Generative Adversarial Networks (GANs),4.7,40 mil,Intermediate,DeepLearning.AI,Python
-409,TensorFlow: Advanced Techniques,4.8,27 mil,Intermediate,DeepLearning.AI,Python
-410,Self-Driving Cars,4.7,130 mil,Advanced,University of Toronto,Python
-411,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,Python
-412,Practical Data Science,4.5,16 mil,Advanced,DeepLearning.AI,Python
-413,Tools for Data Science,4.5,260 mil,Beginner,IBM,Python
-414,Introduction to Discrete Mathematics for Computer Science,4.5,160 mil,Beginner,University of California San Diego,Python
-415,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",4.9,440 mil,Intermediate,DeepLearning.AI,Python
-416,Machine Learning with TensorFlow on Google Cloud,4.5,120 mil,Intermediate,Google Cloud,Python
-417,AI for Medicine,4.7,53 mil,Intermediate,DeepLearning.AI,Python
-418,Машинное обучение и анализ данных,4.7,110 mil,Intermediate,Moscow Institute of Physics and Technology,Python
-419,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280 mil,Intermediate,DeepLearning.AI,Python
-420,Big Data,4.5,340 mil,Beginner,University of California San Diego,Python
-421,Convolutional Neural Networks,4.9,400 mil,Intermediate,DeepLearning.AI,Python
-422,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Python
-423,Become a Sustainable Business Change Agent,4.7,13 mil,Intermediate,University of Colorado System,Python
-424,An Introduction to Programming the Internet of Things (IOT),4.7,440 mil,Beginner,"University of California, Irvine",Python
-425,Convolutional Neural Networks in TensorFlow,4.7,110 mil,Intermediate,DeepLearning.AI,Python
-426,Build Basic Generative Adversarial Networks (GANs),4.7,38 mil,Intermediate,DeepLearning.AI,Python
-427,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,"3,2 mil",Intermediate,Microsoft,Python
-428,Advanced Machine Learning on Google Cloud,4.4,69 mil,Advanced,Google Cloud,Python
-429,Analista de Datos de IBM,4.4,11 mil,Beginner,IBM,Python
-430,Machine Learning,4.6,430 mil,Intermediate,University of Washington,Python
-431,"Modern Robotics: Mechanics, Planning, and Control",4.7,44 mil,Intermediate,Northwestern University,Python
-432,Natural Language Processing in TensorFlow,4.6,100 mil,Intermediate,DeepLearning.AI,Python
-433,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Python
-434,Mathematics for Machine Learning: Linear Algebra,4.7,280 mil,Beginner,Imperial College London,Python
-435,TensorFlow 2 for Deep Learning,4.9,30 mil,Intermediate,Imperial College London,Python
-436,"Sequences, Time Series and Prediction",4.7,91 mil,Intermediate,DeepLearning.AI,Python
-437,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,"4,7 mil",Intermediate,Google Cloud,Python
-438,Analyze Datasets and Train ML Models using AutoML,4.5,14 mil,Advanced,DeepLearning.AI,Python
-439,程序设计与算法,4.8,93 mil,Beginner,Peking University,Python
-440,Mastering Software Development in R,4.3,69 mil,Beginner,Johns Hopkins University,Python
-441,Machine Learning and Reinforcement Learning in Finance,3.7,41 mil,Intermediate,New York University,Python
-442,Natural Language Processing with Probabilistic Models,4.7,43 mil,Intermediate,DeepLearning.AI,Python
-443,Exploratory Data Analysis for Machine Learning,4.6,28 mil,Intermediate,IBM,Python
-444,Машинное обучение: от статистики до нейросетей,4.4,"6,1 mil",Intermediate,HSE University,Python
-445,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Python
-446,Математика для анализа данных,4.4,"4,9 mil",Beginner,HSE University,Python
-447,Mathematics for Data Science,4.4,67 mil,Beginner,HSE University,Python
-448,Fundamentals of Computing,4.8,250 mil,Beginner,Rice University,Python
-449,"Penetration Testing, Incident Response and Forensics",4.6,30 mil,Beginner,IBM,Python
-450,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17 mil,Intermediate,DeepLearning.AI,Python
-451,Natural Language Processing with Sequence Models,4.5,37 mil,Intermediate,DeepLearning.AI,Python
-452,Accounting Data Analytics,4.7,29 mil,Intermediate,University of Illinois at Urbana-Champaign,Python
-453,Advanced Computer Vision with TensorFlow,4.8,16 mil,Intermediate,DeepLearning.AI,Python
-454,Psicología,4.8,24 mil,Beginner,Universidad de Palermo,Python
-455,Analítica de Datos en Finanzas,4.9,None,Intermediate,Universidad de los Andes,Python
-456,Computational Neuroscience,4.6,95 mil,Beginner,University of Washington,Python
-457,AI for Scientific Research,3.3,"1,7 mil",Beginner,LearnQuest,Python
-458,Custom and Distributed Training with TensorFlow,4.8,"9,1 mil",Intermediate,DeepLearning.AI,Python
-459,Serverless Data Processing with Dataflow,4.1,"3,8 mil",Intermediate,Google Cloud,Python
-460,Data-driven Astronomy,4.8,26 mil,Intermediate,The University of Sydney,Python
-461,Ciencia de Datos Aplicada,4.6,"3,5 mil",Beginner,IBM,Python
-462,Introduction to Big Data with Spark and Hadoop,4.4,"6,5 mil",Beginner,IBM,Python
-463,AI for Medical Prognosis,4.7,19 mil,Intermediate,DeepLearning.AI,Python
-464,Deep Neural Networks with PyTorch,4.4,32 mil,Intermediate,IBM,Python
-465,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",4.5,"7,4 mil",Mixed,University of Michigan,Python
-466,Introduction to Deep Learning & Neural Networks with Keras,4.7,23 mil,Intermediate,IBM,Python
-467,Bases de Inteligencia Artificial para Todos,4.7,8 mil,Beginner,IBM,Python
-468,Mental Health and Resilience for Healthcare Workers,4.8,"3,6 mil",Beginner,University of Toronto,Python
-469,Machine Learning for Supply Chains,3.3,"1,7 mil",Intermediate,LearnQuest,Python
-470,Algorithms for DNA Sequencing,4.7,32 mil,Mixed,Johns Hopkins University,Python
-471,Sentiment Analysis with Deep Learning using BERT,4.5,12 mil,Intermediate,Coursera Project Network,Python
-472,Hands-on Machine Learning with Google Cloud Labs,3.8,3 mil,Intermediate,Google Cloud,Python
-473,SAS Statistical Business Analyst,4.6,6 mil,Intermediate,SAS,Python
-474,State Estimation and Localization for Self-Driving Cars,4.7,38 mil,Advanced,University of Toronto,Python
-475,Data Science in Stratified Healthcare and Precision Medicine,4.6,17 mil,Intermediate,The University of Edinburgh,Python
-476,IBM Data Analyst Capstone Project,4.6,14 mil,Intermediate,IBM,Python
-477,Generative Deep Learning with TensorFlow,4.8,"7,3 mil",Intermediate,DeepLearning.AI,Python
-478,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,"9,9 mil",Intermediate,Coursera Project Network,Python
-479,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,"2,3 mil",Intermediate,Google Cloud,Python
-480,Data Science and Analysis Tools - from Jupyter to R Markdown,3.2,"3,4 mil",Beginner,Codio,Python
-481,Kinematics: Describing the Motions of Spacecraft,4.9,19 mil,Advanced,University of Colorado Boulder,Python
-482,Data Analytics Foundations for Accountancy I,4.1,"7,4 mil",Mixed,University of Illinois at Urbana-Champaign,Python
-483,Machine Learning with TensorFlow on Google Cloud en Español,4.6,"9,6 mil",Intermediate,Google Cloud,Python
-484,"Modern Robotics, Course 1: Foundations of Robot Motion",4.7,39 mil,Intermediate,Northwestern University,Python
-485,Ciencia de datos,4.5,None,Beginner,Universidad de los Andes,Python
-486,Data and Statistics Foundation for Investment Professionals,4.8,None,Beginner,CFA Institute,Python
-487,SQL for Data Science Capstone Project,4.2,20 mil,Intermediate,"University of California, Davis",Python
-488,Django Features and Libraries,4.8,18 mil,Intermediate,University of Michigan,Python
-489,More on Change and Sustainability,4.8,"3,9 mil",Beginner,University of Colorado System,Python
-490,Browser-based Models with TensorFlow.js,4.7,32 mil,Intermediate,DeepLearning.AI,Python
-491,Facial Expression Recognition with Keras,4.5,21 mil,Intermediate,Coursera Project Network,Python
-492,Data Analysis Using Pyspark,4.4,7 mil,Intermediate,Coursera Project Network,Python
-493,Applied AI with DeepLearning,4.4,48 mil,Advanced,IBM,Python
-494,Simulation and modeling of natural processes,4.2,32 mil,Mixed,University of Geneva,Python
-495,Data Engineering and Machine Learning using Spark,3.6,"3,1 mil",Beginner,IBM,Python
-496,파이썬 단기집중과정,4.8,None,Beginner,Google,Python
-497,Create Machine Learning Models in Microsoft Azure,4.7,"2,3 mil",Intermediate,Microsoft,Python
-498,Deploy Machine Learning Model into AWS Cloud Servers,4.3,None,Intermediate,Coursera Project Network,Python
-499,The R Programming Environment,4.3,48 mil,Intermediate,Johns Hopkins University,Python
+171,Работа с базами данных в Python,None,None,Mixed,University of Michigan,Python
+172,Визуализация данных с помощью Python,None,None,Intermediate,IBM,Python
+173,"Support Vector Machines in Python, From Start to Finish",4.6,"4,6 mil",Intermediate,Coursera Project Network,Python
+174,Analyze Box Office Data with Plotly and Python,4.5,"8,5 mil",Beginner,Coursera Project Network,Python
+175,Snake game in Python: use Pygame to build your game,None,None,Intermediate,Coursera Project Network,Python
+176,Primeros pasos en Python,4.6,None,Beginner,Coursera Project Network,Python
+177,Aprendiendo Python con bases de datos,4.7,None,Beginner,Coursera Project Network,Python
+178,Create Beautiful Data Visualizations with Python and Altair,None,None,Intermediate,Coursera Project Network,Python
+179,Implementing Hangman Game Using Basics of Python 3,4.5,None,Beginner,Coursera Project Network,Python
+180,Aprendiendo Python con álgebra lineal,4.6,None,Beginner,Coursera Project Network,Python
+181,Introduction to Search Techniques in Python: Binary Search,None,None,Beginner,Coursera Project Network,Python
+182,Aprendiendo Python con circuitos digitales,4.8,None,Beginner,Coursera Project Network,Python
+183,Create a Connect Four Game in Python using Pygame,None,None,Intermediate,Coursera Project Network,Python
+184,Creating a Word Jumble Game in Python Using Tkinter GUI,None,None,Beginner,Coursera Project Network,Python
+185,Machine Learning with Python,4.7,250 mil,Intermediate,IBM,Python
+186,Statistics for Data Science with Python,4.6,12 mil,Mixed,IBM,Python
+187,Building Modern Python Applications on AWS,4.5,73 mil,Intermediate,Amazon Web Services,Python
+188,Análise de dados com Python,None,None,Beginner,IBM,Python
+189,Data Science con Python e R,4.1,None,Intermediate,Università di Napoli Federico II,Python
+190,Introdução à Ciência da Computação com Python Parte 2,4.9,25 mil,Beginner,Universidade de São Paulo,Python
+191,Python Project for AI & Application Development,4.4,"7,8 mil",Intermediate,IBM,Python
+192,"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",4.7,16 mil,Intermediate,Ludwig-Maximilians-Universität München (LMU),Python
+193,Programación para todos (Introducción a Python),4.9,"2,2 mil",Mixed,University of Michigan,Python
+194,Fitting Statistical Models to Data with Python,4.4,26 mil,Intermediate,University of Michigan,Python
+195,Computer Vision - Image Basics with OpenCV and Python,4.3,14 mil,Beginner,Coursera Project Network,Python
+196,Applied Text Mining in Python,4.2,120 mil,Intermediate,University of Michigan,Python
+197,Programação para todos (Conceitos básicos de Python),5,None,Mixed,University of Michigan,Python
+198,Python and Machine-Learning for Asset Management with Alternative Data Sets,4.4,11 mil,Intermediate,EDHEC Business School,Python
+199,Applied Social Network Analysis in Python,4.7,85 mil,Intermediate,University of Michigan,Python
+200,Python: Istruzioni per l’uso,4.1,None,Beginner,Università di Napoli Federico II,Python
+201,Use Python Unit Test to Demonstrate TDD,None,None,Intermediate,Coursera Project Network,Python
+202,Create a Python Application using PyMongo and MongoDB Database,4.4,"3,2 mil",Intermediate,Coursera Project Network,Python
+203,Image Processing with Python,4.3,12 mil,Intermediate,Coursera Project Network,Python
+204,Traffic Sign Classification Using Deep Learning in Python/Keras,4.6,10 mil,Intermediate,Coursera Project Network,Python
+205,Climate Geospatial Analysis on Python with Xarray,4.2,None,Intermediate,Coursera Project Network,Python
+206,Network Data Science with NetworkX and Python,4.3,5 mil,Intermediate,Coursera Project Network,Python
+207,Detect Fake News in Python with Tensorflow,3.8,None,Intermediate,Coursera Project Network,Python
+208,Машинное обучение с использованием Python,None,None,Intermediate,IBM,Python
+209,Dimensionality Reduction using an Autoencoder in Python,4.6,"3,3 mil",Intermediate,Coursera Project Network,Python
+210,Geospatial Data Visualization using Python and Folium,None,None,Intermediate,Coursera Project Network,Python
+211,"Activity Recognition using Python, Tensorflow and Keras",None,None,Beginner,Coursera Project Network,Python
+212,Build a Python GUI with Tkinter,4.4,"3,2 mil",Intermediate,Coursera Project Network,Python
+213,Aprendizado de máquina com Python,None,None,Intermediate,IBM,Python
+214,Python Data Visualization,4.7,33 mil,Beginner,Rice University,Python
+215,Estadísticas para la Ciencia de Datos con Python,None,None,Mixed,IBM,Python
+216,Анализ данных с использованием Python,None,None,Beginner,IBM,Python
+217,Testing and Debugging Python,4.3,"6,2 mil",Intermediate,Coursera Project Network,Python
+218,Use Python to Create a Web Testing Bot,4,None,Intermediate,Coursera Project Network,Python
+219,Analysing Covid-19 Geospatial data with Python,4.3,None,Intermediate,Coursera Project Network,Python
+220,Extract Text Data with Python and Regex,4.4,None,Intermediate,Coursera Project Network,Python
+221,Logistic Regression with NumPy and Python,4.5,12 mil,Beginner,Coursera Project Network,Python
+222,Procesamiento del lenguaje natural con Python y Power BI,5,None,Intermediate,Coursera Project Network,Python
+223,Text Generation with Markov Chains in Python,None,None,Intermediate,Coursera Project Network,Python
+224,Image Segmentation with Python and Unsupervised Learning,4.6,None,Intermediate,Coursera Project Network,Python
+225,Advanced Python - Reconnaissance,4,None,Mixed,Infosec,Python
+226,Aprendizaje Automático con Python,5,None,Intermediate,IBM,Python
+227,Python per la Data Science,None,None,Intermediate,Università di Napoli Federico II,Python
+228,Visualizing & Communicating Results in Python with Jupyter,None,None,Beginner,Codio,Python
+229,Linear Regression with Python,4.6,10 mil,Intermediate,Coursera Project Network,Python
+230,Análisis exploratorio de datos con Python y Pandas,None,None,Beginner,Coursera Project Network,Python
+231,"Storing, Retrieving, and Processing JSON data with Python",None,None,Intermediate,Coursera Project Network,Python
+232,Wrangling Data for Data Analysts with Python,None,None,Beginner,Coursera Project Network,Python
+233,Analyser vos données avec Python,None,None,Beginner,Coursera Project Network,Python
+234,Test Driven Development Process For Beginners In Python,None,None,Beginner,Coursera Project Network,Python
+235,"Where, Why, and How of List Comprehension in Python",None,None,Beginner,Coursera Project Network,Python
+236,Facebook Network Analysis using Python and Networkx,4.3,None,Intermediate,Coursera Project Network,Python
+237,Regresión logística con NumPy y Python,None,None,Beginner,Coursera Project Network,Python
+238,Visualización Avanzada de datos con Python,None,None,Intermediate,Coursera Project Network,Python
+239,Creating a Color Game in Python Using Tkinter GUI,None,None,Beginner,Coursera Project Network,Python
+240,Creating a Supermarket App Using Python,4.5,None,Intermediate,Coursera Project Network,Python
+241,DevOps and Build Automation with Python,4,None,Beginner,LearnQuest,Python
+242,COVID-19 : Les séries temporelles avec Python et Pandas,4.5,None,Intermediate,Coursera Project Network,Python
+243,Working with AWS S3 Buckets using Python & boto3,5,None,Beginner,Coursera Project Network,Python
+244,Introduction to Statistics in Python,None,None,Intermediate,Coursera Project Network,Python
+245,DataViz - Grammaire des Graphiques avec Python,None,None,Intermediate,Coursera Project Network,Python
+246,AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application,4.6,"1,5 mil",Beginner,Coursera Project Network,Python
+247,Regular Expressions in Python,4.3,None,Intermediate,Coursera Project Network,Python
+248,Configuring Python Extension Pack with Visual Studio Code,None,None,Beginner,Coursera Project Network,Python
+249,Build a User Interface using Python Language,None,None,Intermediate,Coursera Project Network,Python
+250,Visualización de Datos con Python,4.6,None,Intermediate,IBM,Python
+251,Juniper Networks Automation Using Python and PyEZ,None,None,Beginner,Juniper Networks,Python
+252,Hypothesis Testing with Python and Excel,4.2,"2,2 mil",Intermediate,Tufts University,Python
+253,Programmation pour tous (mise en route de Python),4.7,None,Mixed,University of Michigan,Python
+254,Machine Learning for Accounting with Python,4.5,"6,6 mil",Intermediate,University of Illinois at Urbana-Champaign,Python
+255,Use Python and Java to Create a GUI Application,None,None,Intermediate,Coursera Project Network,Python
+256,Программирование для всех (начало работы с Python),None,None,Mixed,University of Michigan,Python
+257,Create your own Sudoku Solver using AI and Python,4.3,"2,7 mil",Intermediate,Coursera Project Network,Python
+258,Applied Calculus with Python,None,None,Intermediate,Johns Hopkins University,Python
+259,"Python for Command-and-control, Exfiltration and Impact",5,None,Intermediate,Infosec,Python
+260,Create a Tic-Tac-Toe game in Python,4.9,None,Intermediate,Coursera Project Network,Python
+261,Practical Python for AI Coding 2,None,None,Beginner,Korea Advanced Institute of Science and Technology(KAIST),Python
+262,Uso de bancos de dados com Python,None,None,Mixed,University of Michigan,Python
+263,Uso de bases de datos con Python,None,None,Mixed,University of Michigan,Python
+264,Estructuras de datos de Python,None,None,Mixed,University of Michigan,Python
+265,Defensive Python,None,None,Mixed,Infosec,Python
+266,Использование языка Python для доступа к веб-данным,None,None,Mixed,University of Michigan,Python
+267,Automatic Machine Learning with H2O AutoML and Python,4.8,"6,3 mil",Intermediate,Coursera Project Network,Python
+268,Working with Amazon DynamoDB using Python & Boto3,None,None,Beginner,Coursera Project Network,Python
+269,Deploying a Python Data Analytics web app on Heroku,4.3,None,Intermediate,Coursera Project Network,Python
+270,Analyze Box Office Data with Seaborn and Python,4.5,"4,1 mil",Intermediate,Coursera Project Network,Python
+271,Estruturas de dados Python,None,None,Mixed,University of Michigan,Python
+272,Структуры данных Python,None,None,Mixed,University of Michigan,Python
+273,Python Optical Character Recognition using Pytorch,None,None,Beginner,Coursera Project Network,Python
+274,Enhance your python unit testing using Coverage,None,None,Intermediate,Coursera Project Network,Python
+275,"Le Où, Pourquoi et Comment des Fonctions Lambda en Python",None,None,Beginner,Coursera Project Network,Python
+276,Plots Creation using Matplotlib Python,None,None,Beginner,Coursera Project Network,Python
+277,Build a Machine Learning Image Classifier with Python,None,None,Intermediate,Coursera Project Network,Python
+278,Series Temporales con Pycaret y Python,None,None,Intermediate,Coursera Project Network,Python
+279,GUI Programming: Create a Login System in Python,3.8,None,Intermediate,Coursera Project Network,Python
+280,Visualização de dados com o Python,None,None,Intermediate,IBM,Python
+281,ML: Diagnose the presence of Breast Cancer with Python,None,None,Intermediate,Coursera Project Network,Python
+282,High-dimensional Data visualization techniques using python,None,None,Intermediate,Coursera Project Network,Python
+283,Decryption with Python,None,None,Intermediate,Coursera Project Network,Python
+284,Installation et Configuration Python avec Visual Studio Code,None,None,Beginner,Coursera Project Network,Python
+285,Data Processing using Python Collections,None,None,Intermediate,Coursera Project Network,Python
+286,Machine Learning con Python. Nivel intermedio,None,None,Beginner,Coursera Project Network,Python
+287,Exploring and Analyzing Fifa's Datasets Using Python,None,None,Beginner,Coursera Project Network,Python
+288,Crea tu primera aplicación web con Python y Flask,None,None,Intermediate,Coursera Project Network,Python
+289,Message Encoding/Decoding in Python with GUI,None,None,Beginner,Coursera Project Network,Python
+290,Nettoyer vos données avec Python,None,None,Beginner,Coursera Project Network,Python
+291,Python استخدام قواعد البيانات مع,None,None,Mixed,University of Michigan,Python
+292,Write your own Python tool to footprint a web application,None,None,Intermediate,Coursera Project Network,Python
+293,Personal Desktop Notifier in Python: Covid-19 notifications,None,None,Intermediate,Coursera Project Network,Python
+294,Python بُنى بيانات,None,None,Mixed,University of Michigan,Python
+295,Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام,None,None,Intermediate,Coursera Project Network,Python
+296,Hierarchical relational data analysis using python,None,None,Intermediate,Coursera Project Network,Python
+297,Create Ping-Pong Game in Python using Turtle Graphics,None,None,Intermediate,Coursera Project Network,Python
+298,Machine Learning con Python. Nivel Avanzado,None,None,Intermediate,Coursera Project Network,Python
+299,"Creating a Rock, Paper, Scissors Game in Python",None,None,Beginner,Coursera Project Network,Python
+300,Chicken Invaders Game in Python using Pygame,None,None,Beginner,Coursera Project Network,Python
+301,Create a Dynamic-Link Library with DevC++ for Python,None,None,Intermediate,Coursera Project Network,Python
+302,Design and Develop an Obstacles Game using Pygame in Python,None,None,Intermediate,Coursera Project Network,Python
+303,برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19,None,None,Intermediate,Coursera Project Network,Python
+304,Python في Pygame تصميم و تطوير لعبة العقبات باستخدام,None,None,Intermediate,Coursera Project Network,Python
+305,Affectation de variable en Python,None,None,Beginner,Coursera Project Network,Python
+306,Création de chaînes en Python,None,None,Beginner,Coursera Project Network,Python
+307,Tirer Parti des Listes Pour un Code Python Plus Simple,None,None,Beginner,Coursera Project Network,Python
+308,"Aprendiendo Python con textos, números y ecuaciones",4.8,None,Beginner,Coursera Project Network,Python
+309,Graficando con Python,None,None,Intermediate,Coursera Project Network,Python
+310,أساسيات python: برمج لعبة تخمين الرقم من الصفر,None,None,Beginner,Coursera Project Network,Python
+311,بناء Neural Network مكونه من 3 طبقات بأستخدام لغة Python,None,None,Beginner,Coursera Project Network,Python
+312,Les Expressions Régulières en Python,None,None,Intermediate,Coursera Project Network,Python
+313,Python معالجة مسبقة للبيانات و تحليلها بواسطة,None,None,Beginner,Coursera Project Network,Python
+314,Crea tu primer juego de adivinanza con Python,None,None,Beginner,Coursera Project Network,Python
+315,MatplotLib Python باستخدام plots إنشاء ال,None,None,Beginner,Coursera Project Network,Python
+316,Des nombres et plus en Python,None,None,Beginner,Coursera Project Network,Python
+317,لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة,None,None,Intermediate,Coursera Project Network,Python
+318,Explorando funciones cuadráticas con Python,None,None,Beginner,Coursera Project Network,Python
+319,Aprendizaje automático con Python y Azure Notebooks,None,None,Beginner,Coursera Project Network,Python
+320,Explorando funciones lineales con Python,None,None,Beginner,Coursera Project Network,Python
+321,Extraire des Données de Texte avec Python et Regex,None,None,Beginner,Coursera Project Network,Python
+322,Introduction to Data Science,4.6,690 mil,Beginner,IBM,Python
+323,Applied Data Science,4.6,500 mil,Beginner,IBM,Python
+324,IBM Cybersecurity Analyst,4.6,250 mil,Beginner,IBM,Python
+325,IBM Applied AI,4.6,530 mil,Beginner,IBM,Python
+326,Learn SQL Basics for Data Science,4.6,400 mil,Beginner,"University of California, Davis",Python
+327,Preparing for Google Cloud Certification: Machine Learning Engineer,4.6,350 mil,Intermediate,Google Cloud,Python
+328,IBM Machine Learning,4.6,37 mil,Intermediate,IBM,Python
+329,Mathematics for Machine Learning,4.6,300 mil,Beginner,Imperial College London,Python
+330,Computational Thinking for Problem Solving,4.7,75 mil,Beginner,University of Pennsylvania,Python
+331,Machine Learning for Trading,3.9,40 mil,Intermediate,New York Institute of Finance,Python
+332,Ciencia de Datos de IBM,4.6,"7,4 mil",Beginner,IBM,Python
+333,Advanced Statistics for Data Science,4.4,95 mil,Advanced,Johns Hopkins University,Python
+334,Introducción a la Ciencia de Datos,4.5,"4,4 mil",Beginner,IBM,Python
+335,Spacecraft Dynamics and Control,4.8,26 mil,Advanced,University of Colorado Boulder,Python
+336,Biology Meets Programming: Bioinformatics for Beginners,4.2,130 mil,Beginner,University of California San Diego,Python
+337,Data Analysis and Interpretation,4.4,140 mil,Beginner,Wesleyan University,Python
+338,Introduction to Data Analytics,3.3,"4,5 mil",Beginner,Meta,Python
+339,Introduction to MongoDB,4.2,52 mil,Intermediate,MongoDB Inc.,Python
+340,Getting started with TensorFlow 2,4.9,25 mil,Intermediate,Imperial College London,Python
+341,Machine Learning Foundations: A Case Study Approach,4.6,360 mil,Mixed,University of Washington,Python
+342,Data Analysis Using Pyspark,4.4,7 mil,Intermediate,Coursera Project Network,Python
+343,Mastering Data Analysis with Pandas: Learning Path Part 1,4.6,None,Beginner,Coursera Project Network,Python
+344,Reinforcement Learning for Trading Strategies,3.7,11 mil,Intermediate,New York Institute of Finance,Python
+345,Data Management and Visualization,4.4,76 mil,Mixed,Wesleyan University,Python
+346,"Developing Applications with SQL, Databases, and Django",4.5,"5,7 mil",Intermediate,IBM,Python
+347,Learn to Program: Crafting Quality Code,4.6,54 mil,Mixed,University of Toronto,Python
+348,Advanced Linear Models for Data Science 2: Statistical Linear Models,4.5,20 mil,Advanced,Johns Hopkins University,Python
+349,Computer Science: Programming with a Purpose,4.7,150 mil,Beginner,Princeton University,Python
+350,Developing AI Applications on Azure,4.4,45 mil,Advanced,LearnQuest,Python
+351,Build & Deploy AI Messenger Chatbot using IBM Watson,4.5,"4,4 mil",Beginner,Coursera Project Network,Python
+352,Tweet Emotion Recognition with TensorFlow,4.7,"4,3 mil",Intermediate,Coursera Project Network,Python
+353,Agile Project: Product Prototype Touchpoint Analysis in Miro,4.6,"2,1 mil",Intermediate,Coursera Project Network,Python
+354,Data for Machine Learning,4.4,"6,5 mil",Intermediate,Alberta Machine Intelligence Institute,Python
+355,Data Science at Scale,4.2,83 mil,Intermediate,University of Washington,Python
+356,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,None,None,None,Universidad de los Andes,Python
+357,Machine Learning for Analytics MasterTrack™ Certificate,None,None,None,University of Chicago,Python
+358,Google IT Support,4.8,"1,2 m",Beginner,Google,Python
+359,"HTML, CSS, and Javascript for Web Developers",4.7,690 mil,Mixed,Johns Hopkins University,Python
+360,Object Oriented Programming in Java,4.6,510 mil,Beginner,University of California San Diego,Python
+361,Introduction to Web Development,4.7,190 mil,Beginner,"University of California, Davis",Python
+362,Machine Learning for All,4.7,110 mil,Beginner,University of London,Python
+363,Advanced Django: Mastering Django and Django Rest Framework,4.8,"1,9 mil",Advanced,Codio,Python
+364,Introduction to Machine Learning,4.7,160 mil,Intermediate,Duke University,Python
+365,Introduction to Java and Object-Oriented Programming,4.3,"9,8 mil",Beginner,University of Pennsylvania,Python
+366,Fundamentals of Scalable Data Science,4.3,63 mil,Beginner,IBM,Python
+367,Web Application Technologies and Django,4.7,63 mil,Intermediate,University of Michigan,Python
+368,"Introduction to Trading, Machine Learning & GCP",4,32 mil,Intermediate,Google Cloud,Python
+369,Advanced Machine Learning and Signal Processing,4.5,39 mil,Advanced,IBM,Python
+370,Building Web Applications in Django,4.7,31 mil,Intermediate,University of Michigan,Python
+371,Guided Tour of Machine Learning in Finance,3.8,28 mil,Intermediate,New York University,Python
+372,Using Machine Learning in Trading and Finance,4,16 mil,Intermediate,New York Institute of Finance,Python
+373,Advanced Django: Building a Blog,4.9,None,Advanced,Codio,Python
+374,Introduction to Accounting Data Analytics and Visualization,4.8,20 mil,Beginner,University of Illinois at Urbana-Champaign,Python
+375,Object-Oriented Programming Concepts,4.6,"1,5 mil",Beginner,LearnQuest,Python
+376,"Cloud Virtualization, Containers and APIs",4.4,"2,6 mil",Beginner,Duke University,Python
+377,Statistics for Machine Learning for Investment Professionals,None,None,Beginner,CFA Institute,Python
+378,Cloud Data Engineering,4.2,"2,4 mil",Intermediate,Duke University,Python
+379,Advanced Django: Introduction to Django Rest Framework,4.4,None,Advanced,Codio,Python
+380,بايثون لعلوم البيانات والذكاء الصناعي,None,None,Beginner,IBM,Python
+381,Exploratory Data Analysis,4.2,"5,2 mil",Intermediate,Coursera Project Network,Python
+382,Build Your First Android App (Project-Centered Course),4.2,330 mil,Mixed,CentraleSupélec,Python
+383,The Fundamental of Data-Driven Investment,None,None,Beginner,Sungkyunkwan University,Python
+384,Advanced Django: Advanced Django Rest Framework,None,None,Advanced,Codio,Python
+385,Introduction to Bayesian Statistics,3.2,"2,1 mil",Beginner,Databricks,Python
+386,Mastering Data Analysis with Pandas: Learning Path Part 5,None,None,Beginner,Coursera Project Network,Python
+387,Deploy an NLP Text Generator: Bart Simpson Chalkboard Gag,None,None,Intermediate,Coursera Project Network,Python
+388,Advanced Django: External APIs and Task Queuing,None,None,Advanced,Codio,Python
+389,التعلّم الآلي باستخدام لغة بايثون,None,None,Intermediate,IBM,Python
+390,Build a Classification Model using PyCaret,None,None,Beginner,Coursera Project Network,Python
+391,Deep Learning,4.8,"1,2 m",Intermediate,DeepLearning.AI,Python
+392,Data Engineering Foundations,4.6,490 mil,Beginner,IBM,Python
+393,IBM Full Stack Cloud Developer,4.6,470 mil,Beginner,IBM,Python
+394,IBM Data Warehouse Engineer,4.6,270 mil,Beginner,IBM,Python
+395,"BI Foundations with SQL, ETL and Data Warehousing",4.6,250 mil,Beginner,IBM,Python
+396,Natural Language Processing,4.6,110 mil,Intermediate,DeepLearning.AI,Python
+397,Preparing for Google Cloud Certification: Cloud Data Engineer,4.6,250 mil,Intermediate,Google Cloud,Python
+398,"Data Engineering, Big Data, and Machine Learning on GCP",4.6,250 mil,Intermediate,Google Cloud,Python
+399,Genomic Data Science,4.5,120 mil,Intermediate,Johns Hopkins University,Python
+400,Security Analyst Fundamentals,4.6,36 mil,Beginner,IBM,Python
+401,Neural Networks and Deep Learning,4.9,1 m,Intermediate,DeepLearning.AI,Python
+402,Generative Adversarial Networks (GANs),4.7,40 mil,Intermediate,DeepLearning.AI,Python
+403,IBM Introduction to Machine Learning,4.6,33 mil,Intermediate,IBM,Python
+404,TensorFlow: Advanced Techniques,4.8,27 mil,Intermediate,DeepLearning.AI,Python
+405,Self-Driving Cars,4.7,130 mil,Advanced,University of Toronto,Python
+406,Practical Data Science,4.5,16 mil,Advanced,DeepLearning.AI,Python
+407,Tools for Data Science,4.5,260 mil,Beginner,IBM,Python
+408,"NoSQL, Big Data, and Spark Foundations",4.3,11 mil,Beginner,IBM,Python
+409,Machine Learning with TensorFlow on Google Cloud,4.5,120 mil,Intermediate,Google Cloud,Python
+410,None,4.9,440 mil,Intermediate,DeepLearning.AI,Python
+411,AI for Medicine,4.7,53 mil,Intermediate,DeepLearning.AI,Python
+412,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,280 mil,Intermediate,DeepLearning.AI,Python
+413,Sports Performance Analytics,4.5,"8,9 mil",Intermediate,University of Michigan,Python
+414,Convolutional Neural Networks,4.9,400 mil,Intermediate,DeepLearning.AI,Python
+415,Big Data,4.5,340 mil,Beginner,University of California San Diego,Python
+416,Microsoft Azure Data Scientist Associate - DP-100 Test Prep,4.6,"3,2 mil",Intermediate,Microsoft,Python
+417,Become a Sustainable Business Change Agent,4.7,13 mil,Intermediate,University of Colorado System,Python
+418,PostgreSQL for Everybody,4.8,15 mil,Intermediate,University of Michigan,Python
+419,Convolutional Neural Networks in TensorFlow,4.7,110 mil,Intermediate,DeepLearning.AI,Python
+420,An Introduction to Programming the Internet of Things (IOT),4.7,440 mil,Beginner,"University of California, Irvine",Python
+421,Build Basic Generative Adversarial Networks (GANs),4.7,38 mil,Intermediate,DeepLearning.AI,Python
+422,Advanced Machine Learning on Google Cloud,4.4,69 mil,Advanced,Google Cloud,Python
+423,Machine Learning,4.6,430 mil,Intermediate,University of Washington,Python
+424,"Modern Robotics: Mechanics, Planning, and Control",4.7,44 mil,Intermediate,Northwestern University,Python
+425,Analista de Datos de IBM,4.4,11 mil,Beginner,IBM,Python
+426,TensorFlow: Data and Deployment,4.6,40 mil,Intermediate,DeepLearning.AI,Python
+427,Natural Language Processing in TensorFlow,4.6,100 mil,Intermediate,DeepLearning.AI,Python
+428,TensorFlow 2 for Deep Learning,4.9,30 mil,Intermediate,Imperial College London,Python
+429,Mathematics for Machine Learning: Linear Algebra,4.7,280 mil,Beginner,Imperial College London,Python
+430,Mastering Software Development in R,4.3,69 mil,Beginner,Johns Hopkins University,Python
+431,"Sequences, Time Series and Prediction",4.7,91 mil,Intermediate,DeepLearning.AI,Python
+432,Analyze Datasets and Train ML Models using AutoML,4.5,14 mil,Advanced,DeepLearning.AI,Python
+433,程序设计与算法,4.8,93 mil,Beginner,Peking University,Python
+434,"Data Engineering, Big Data and ML on Google Cloud 日本語版",4.5,"4,7 mil",Intermediate,Google Cloud,Python
+435,Machine Learning and Reinforcement Learning in Finance,3.7,41 mil,Intermediate,New York University,Python
+436,Natural Language Processing with Probabilistic Models,4.7,43 mil,Intermediate,DeepLearning.AI,Python
+437,Exploratory Data Analysis for Machine Learning,4.6,28 mil,Intermediate,IBM,Python
+438,IBM AI Enterprise Workflow,4.3,"9,7 mil",Advanced,IBM,Python
+439,Fundamentals of Computing,4.8,250 mil,Beginner,Rice University,Python
+440,"Custom Models, Layers, and Loss Functions with TensorFlow",4.9,17 mil,Intermediate,DeepLearning.AI,Python
+441,"Penetration Testing, Incident Response and Forensics",4.6,30 mil,Beginner,IBM,Python
+442,Natural Language Processing with Sequence Models,4.5,37 mil,Intermediate,DeepLearning.AI,Python
+443,Advanced Computer Vision with TensorFlow,4.8,16 mil,Intermediate,DeepLearning.AI,Python
+444,Psicología,4.8,24 mil,Beginner,Universidad de Palermo,Python
+445,Analítica de Datos en Finanzas,4.9,None,Intermediate,Universidad de los Andes,Python
+446,Custom and Distributed Training with TensorFlow,4.8,"9,1 mil",Intermediate,DeepLearning.AI,Python
+447,Serverless Data Processing with Dataflow,4.1,"3,8 mil",Intermediate,Google Cloud,Python
+448,Ciencia de Datos Aplicada,4.6,"3,5 mil",Beginner,IBM,Python
+449,Accounting Data Analytics,4.7,29 mil,Intermediate,University of Illinois at Urbana-Champaign,Python
+450,AI for Scientific Research,3.3,"1,7 mil",Beginner,LearnQuest,Python
+451,AI for Medical Prognosis,4.7,19 mil,Intermediate,DeepLearning.AI,Python
+452,Data-driven Astronomy,4.8,26 mil,Intermediate,The University of Sydney,Python
+453,Introduction to Big Data with Spark and Hadoop,4.4,"6,6 mil",Beginner,IBM,Python
+454,Computational Neuroscience,4.6,95 mil,Beginner,University of Washington,Python
+455,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",4.5,"7,4 mil",Mixed,University of Michigan,Python
+456,Introduction to Deep Learning & Neural Networks with Keras,4.7,23 mil,Intermediate,IBM,Python
+457,Bases de Inteligencia Artificial para Todos,4.7,8 mil,Beginner,IBM,Python
+458,Deep Neural Networks with PyTorch,4.4,32 mil,Intermediate,IBM,Python
+459,Hands-on Machine Learning with Google Cloud Labs,3.8,3 mil,Intermediate,Google Cloud,Python
+460,SAS Statistical Business Analyst,4.6,"6,1 mil",Intermediate,SAS,Python
+461,Mental Health and Resilience for Healthcare Workers,4.8,"3,6 mil",Beginner,University of Toronto,Python
+462,Data Science in Stratified Healthcare and Precision Medicine,4.6,18 mil,Intermediate,The University of Edinburgh,Python
+463,Sentiment Analysis with Deep Learning using BERT,4.5,12 mil,Intermediate,Coursera Project Network,Python
+464,Algorithms for DNA Sequencing,4.7,32 mil,Mixed,Johns Hopkins University,Python
+465,State Estimation and Localization for Self-Driving Cars,4.7,38 mil,Advanced,University of Toronto,Python
+466,Machine Learning for Supply Chains,3.3,"1,7 mil",Intermediate,LearnQuest,Python
+467,Detecting COVID-19 with Chest X-Ray using PyTorch,4.5,"9,9 mil",Intermediate,Coursera Project Network,Python
+468,IBM Data Analyst Capstone Project,4.6,14 mil,Intermediate,IBM,Python
+469,Generative Deep Learning with TensorFlow,4.8,"7,3 mil",Intermediate,DeepLearning.AI,Python
+470,Data Science and Analysis Tools - from Jupyter to R Markdown,3.3,"3,4 mil",Beginner,Codio,Python
+471,Kinematics: Describing the Motions of Spacecraft,4.9,19 mil,Advanced,University of Colorado Boulder,Python
+472,Data Analytics Foundations for Accountancy I,4.1,"7,4 mil",Mixed,University of Illinois at Urbana-Champaign,Python
+473,"Modern Robotics, Course 1: Foundations of Robot Motion",4.7,39 mil,Intermediate,Northwestern University,Python
+474,Machine Learning with TensorFlow on Google Cloud en Español,4.6,"9,6 mil",Intermediate,Google Cloud,Python
+475,Ciencia de datos,4.6,None,Beginner,Universidad de los Andes,Python
+476,"Data Engineer, Big Data and ML on Google Cloud en Français",4.4,"2,3 mil",Intermediate,Google Cloud,Python
+477,Data and Statistics Foundation for Investment Professionals,4.9,None,Beginner,CFA Institute,Python
+478,SQL for Data Science Capstone Project,4.2,21 mil,Intermediate,"University of California, Davis",Python
+479,Applied AI with DeepLearning,4.4,48 mil,Advanced,IBM,Python
+480,More on Change and Sustainability,4.8,"3,9 mil",Beginner,University of Colorado System,Python
+481,Browser-based Models with TensorFlow.js,4.7,32 mil,Intermediate,DeepLearning.AI,Python
+482,Facial Expression Recognition with Keras,4.5,21 mil,Intermediate,Coursera Project Network,Python
+483,Create Machine Learning Models in Microsoft Azure,4.7,"2,3 mil",Intermediate,Microsoft,Python
+484,Django Features and Libraries,4.8,18 mil,Intermediate,University of Michigan,Python
+485,The R Programming Environment,4.3,48 mil,Intermediate,Johns Hopkins University,Python
+486,Simulation and modeling of natural processes,4.2,32 mil,Mixed,University of Geneva,Python
+487,JSON and Natural Language Processing in PostgreSQL,4.7,"2,6 mil",Intermediate,University of Michigan,Python
+488,Deploy Machine Learning Model into AWS Cloud Servers,4.2,None,Intermediate,Coursera Project Network,Python
+489,Introduction to TensorFlow,4.4,40 mil,Intermediate,Google Cloud,Python
+490,Device-based Models with TensorFlow Lite,4.7,18 mil,Intermediate,DeepLearning.AI,Python
+491,Building Deep Learning Models with TensorFlow,4.4,14 mil,Intermediate,IBM,Python
+492,Customising your models with TensorFlow 2,4.8,10 mil,Intermediate,Imperial College London,Python
+493,Fundamentals of Machine Learning in Finance,3.8,17 mil,Intermediate,New York University,Python
+494,AI Capstone Project with Deep Learning,4.5,10 mil,Advanced,IBM,Python
+495,"Using JavaScript, JQuery, and JSON in Django",4.8,19 mil,Intermediate,University of Michigan,Python
+496,Feature Engineering,4.5,27 mil,Intermediate,Google Cloud,Python
+497,Deep Learning and Reinforcement Learning,4.7,"7,1 mil",Intermediate,IBM,Python
+498,End-to-End Machine Learning with TensorFlow on GCP,4.5,55 mil,Advanced,Google Cloud,Python
+499,The Pytorch basics you need to start your ML projects,3.6,None,Intermediate,Coursera Project Network,Python
+500,Getting Started with Rstudio,4.6,None,Beginner,Coursera Project Network,Python
+501,Analyzing Video with OpenCV and NumPy,4.5,"2,6 mil",Intermediate,Coursera Project Network,Python
+502,Building AI Applications with Watson APIs,4.3,12 mil,Intermediate,IBM,Python
+503,Algoritmos de negociación basados en machine learning,None,None,Intermediate,Universidad de los Andes,Python
+504,Classification of COVID19 using Chest X-ray Images in Keras,4.6,None,Intermediate,Coursera Project Network,Python
+505,Data Engineering and Machine Learning using Spark,3.6,"3,2 mil",Beginner,IBM,Python
+506,Basic Image Classification with TensorFlow,4.6,15 mil,Beginner,Coursera Project Network,Python
+507,Bancos de dados e SQL para Ciência de Dados,4.6,"4,2 mil",Beginner,IBM,Python
+508,Generating New Recipes using GPT-2,4.2,"2,7 mil",Intermediate,Coursera Project Network,Python
+509,Introducción a la ciencia de datos aplicada,4.5,None,Beginner,Universidad de los Andes,Python
+510,파이썬 단기집중과정,4.9,None,Beginner,Google,Python
+511,البرمجة للجميع - بدء استخدام بايثون,4.7,"7,4 mil",Mixed,University of Michigan,Python
+512,Advanced Deployment Scenarios with TensorFlow,4.7,15 mil,Intermediate,DeepLearning.AI,Python
+513,"Database Architecture, Scale, and NoSQL with Elasticsearch",4.3,"3,2 mil",Intermediate,University of Michigan,Python
+514,AI Workflow: Business Priorities and Data Ingestion,4.3,"4,7 mil",Intermediate,IBM,Python
+515,Siamese Network with Triplet Loss in Keras,4.6,"3,6 mil",Advanced,Coursera Project Network,Python
+516,Full Stack Cloud Development Capstone Project,4.4,"3,3 mil",Intermediate,IBM,Python
+517,Psicología,4.8,"9,9 mil",Beginner,Universidad de Palermo,Python
+518,Transfer Learning for Food Classification,4.6,"3,9 mil",Beginner,Coursera Project Network,Python
+519,Classify Radio Signals from Space using Keras,4.5,"6,6 mil",Intermediate,Coursera Project Network,Python
+520,Fashion Image Classification using CNNs in Pytorch,None,None,Intermediate,Coursera Project Network,Python
+521,Unsupervised Machine Learning for Customer Market Segmentation,4.8,"9,8 mil",Beginner,Coursera Project Network,Python
+522,TensorFlow Serving with Docker for Model Deployment,4.8,"4,3 mil",Intermediate,Coursera Project Network,Python
+523,Machine Learning: Regression,4.8,150 mil,Mixed,University of Washington,Python
+524,Named Entity Recognition using LSTMs with Keras,4.3,"4,6 mil",Intermediate,Coursera Project Network,Python
+525,TensorFlow for AI: Get to Know Tensorflow,4.3,"3,9 mil",Intermediate,Coursera Project Network,Python
+526,Using TensorFlow with Amazon Sagemaker,4.6,"6,1 mil",Advanced,Coursera Project Network,Python
+527,C++程序设计,4.7,39 mil,Mixed,Peking University,Python
+528,Facial Expression Classification Using Residual Neural Nets,4.6,"3,9 mil",Beginner,Coursera Project Network,Python
+529,Neural Style Transfer with TensorFlow,4.6,"4,2 mil",Intermediate,Coursera Project Network,Python
+530,None,3.9,None,Beginner,LearnQuest,Python
+531,Image Classification with CNNs using Keras,4.4,12 mil,Intermediate,Coursera Project Network,Python
+532,Interpretable Machine Learning Applications: Part 1,4,None,Beginner,Coursera Project Network,Python
+533,Build a film club web app on Google AppEngine,4.5,"2,8 mil",Intermediate,Coursera Project Network,Python
+534,Building Similarity Based Recommendation System,4.4,None,Intermediate,Coursera Project Network,Python
+535,Serverless Data Processing with Dataflow: Develop Pipelines,4,"1,8 mil",Advanced,Google Cloud,Python
+536,AI Workflow: Data Analysis and Hypothesis Testing,4.2,3 mil,Advanced,IBM,Python
+537,Intermediate Machine Learning: TensorFlow on Google Cloud,4.4,None,Intermediate,Google Cloud,Python
+538,ML Pipelines on Google Cloud,3.5,"5,5 mil",Advanced,Google Cloud,Python
+539,Create Your First NoSQL Database with MongoDB and Compass,4.6,"2,8 mil",Intermediate,Coursera Project Network,Python
+540,Multiple Linear Regression with scikit-learn,4.5,"7,5 mil",Beginner,Coursera Project Network,Python
+541,Convolutions for Text Classification with Keras,4.7,"4,1 mil",Intermediate,Coursera Project Network,Python
+542,Predict Sales Revenue with scikit-learn,4.5,"5,6 mil",Beginner,Coursera Project Network,Python
+543,Perform Sentiment Analysis with scikit-learn,4.5,"9,5 mil",Intermediate,Coursera Project Network,Python
+544,Spring Boot Inversion of Control and Dependency Injection,4.6,None,Intermediate,Coursera Project Network,Python
+545,"Execution, persistence, privilege escalation and evasion",4.3,None,Intermediate,Infosec,Python
+546,Predicting House Prices with Regression using TensorFlow,4.5,11 mil,Beginner,Coursera Project Network,Python
+547,Deploy Models with TensorFlow Serving and Flask,4.5,"7,6 mil",Intermediate,Coursera Project Network,Python
+548,Interfacing with the Raspberry Pi,4.7,73 mil,Mixed,"University of California, Irvine",Python
+549,Principal Component Analysis with NumPy,4.6,"8,5 mil",Intermediate,Coursera Project Network,Python
+550,Data Visualization with Plotly Express,4.7,7 mil,Intermediate,Coursera Project Network,Python
+551,Understanding Deepfakes with Keras,4.4,"6,8 mil",Advanced,Coursera Project Network,Python
+552,Image Understanding with TensorFlow on GCP,4.6,14 mil,Advanced,Google Cloud,Python
+553,Predictive Modeling with Logistic Regression using SAS,4.6,"1,9 mil",Intermediate,SAS,Python
+554,Bases de datos y SQL para ciencia de datos,3.6,2 mil,Beginner,IBM,Python
+555,Big Data Integration and Processing,4.4,66 mil,Beginner,University of California San Diego,Python
+556,"AI Workflow: Machine Learning, Visual Recognition and NLP",4.4,"3,1 mil",Advanced,IBM,Python
+557,AI Workflow: Enterprise Model Deployment,4.1,"2,1 mil",Advanced,IBM,Python
+558,Basic Data Processing and Visualization,4.3,18 mil,Intermediate,University of California San Diego,Python
+559,Image Noise Reduction with Auto-encoders using TensorFlow,4.7,"4,6 mil",Intermediate,Coursera Project Network,Python
+560,Machine Learning for Data Analysis,4.2,42 mil,Mixed,Wesleyan University,Python
+561,Mastering Data Analysis with Pandas: Learning Path Part 3,None,None,Beginner,Coursera Project Network,Python
+562,Mastering Data Analysis with Pandas: Learning Path Part 4,None,None,Beginner,Coursera Project Network,Python
+563,Getting Started With Game Development Using PyGame,4.2,None,Beginner,Coursera Project Network,Python
+564,Build a Deep Learning Based Image Classifier with R,4.6,"6,9 mil",Intermediate,Coursera Project Network,Python
+565,Predicting Salaries with Decision Trees,4.7,None,Intermediate,Coursera Project Network,Python
+566,Basic Sentiment Analysis with TensorFlow,4.5,7 mil,Intermediate,Coursera Project Network,Python
+567,Diabetes Prediction With Pyspark MLLIB,4.6,None,Intermediate,Coursera Project Network,Python
+568,"Credential Access, discovery, lateral movement & collection",4.9,None,Intermediate,Infosec,Python
+569,Data Analysis Tools,4.5,43 mil,Mixed,Wesleyan University,Python
+570,C++ Classes and Objects,4.3,None,Intermediate,Coursera Project Network,Python
+571,Get Familiar with ML basics in a Kaggle Competition,4.4,None,Beginner,Coursera Project Network,Python
+572,Build Multilayer Perceptron Models with Keras,4.5,"3,7 mil",Intermediate,Coursera Project Network,Python
+573,Image Data Augmentation with Keras,4.6,"9,1 mil",Intermediate,Coursera Project Network,Python
+574,Pneumonia Classification using PyTorch,4.2,None,Intermediate,Coursera Project Network,Python
+575,Inteligencia Artificial en Power BI,4.8,"1,8 mil",Intermediate,Coursera Project Network,Python
+576,Intro to TensorFlow en Español,4.4,"3,6 mil",Intermediate,Google Cloud,Python
+577,Transfer Learning for NLP with TensorFlow Hub,4.8,"4,7 mil",Intermediate,Coursera Project Network,Python
+578,Design Thinking and Predictive Analytics for Data Products,4.5,"8,1 mil",Intermediate,University of California San Diego,Python
+579,Fine Tune BERT for Text Classification with TensorFlow,4.6,"6,9 mil",Intermediate,Coursera Project Network,Python
+580,Laboratório de Programação Orientada a Objetos - Parte 1,4.9,"4,2 mil",Intermediate,Universidade de São Paulo,Python
+581,Object Localization with TensorFlow,4.3,"3,1 mil",Intermediate,Coursera Project Network,Python
+582,Deep Learning with PyTorch : Neural Style Transfer,4.4,"3,6 mil",Intermediate,Coursera Project Network,Python
+583,Creating Multi Task Models With Keras,4.6,"1,9 mil",Intermediate,Coursera Project Network,Python
+584,파이썬의 데이터 과학 소개,None,None,Intermediate,University of Michigan,Python
+585,Regression Modeling in Practice,4.4,33 mil,Mixed,Wesleyan University,Python
+586,Optimize TensorFlow Models For Deployment with TensorRT,4.6,"2,9 mil",Intermediate,Coursera Project Network,Python
+587,Deploying Machine Learning Models,3.6,"8,8 mil",Mixed,University of California San Diego,Python
+588,Practical Predictive Analytics: Models and Methods,4.1,35 mil,Mixed,University of Washington,Python
+589,Data Processing with Azure,3.7,"6,6 mil",Intermediate,LearnQuest,Python
+590,2.- El Cálculo - Modelo Cuadrático,4.8,16 mil,Mixed,Tecnológico de Monterrey,Python
+591,An Introduction to Practical Deep Learning,4.2,22 mil,Intermediate,Intel,Python
+592,Data Analytics Foundations for Accountancy II,4.8,3 mil,Mixed,University of Illinois at Urbana-Champaign,Python
+593,Fundamentals of Data Warehousing,3.5,None,Beginner,LearnQuest,Python
+594,Mining Quality Prediction Using Machine & Deep Learning,4.8,"3,3 mil",Beginner,Coursera Project Network,Python
+595,Create a Superhero Name Generator with TensorFlow,4.8,None,Intermediate,Coursera Project Network,Python
+596,Create a Landing Page using Mailchimp,4.6,None,Beginner,Coursera Project Network,Python
+597,Predict Employee Turnover with scikit-learn,4.4,"7,8 mil",Intermediate,Coursera Project Network,Python
+598,Establishing Command-and-Control and Finding Credentials,None,None,Mixed,Infosec,Python
+599,Communicating Data Science Results,3.6,16 mil,Mixed,University of Washington,Python
+600,Proyecto Final de Analítica de Datos,3.8,None,Intermediate,IBM,Python
+601,TensorFlow for CNNs: Learn and Practice CNNs,4.5,None,Intermediate,Coursera Project Network,Python
+602,Data Analysis and Interpretation Capstone,4.8,"3,5 mil",Mixed,Wesleyan University,Python
+603,Create and Format a Basic Document with LibreOffice Writer,4.8,"3,5 mil",Beginner,Coursera Project Network,Python
+604,"Machine Learning: Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R",4.4,"4,7 mil",Intermediate,Coursera Project Network,Python
+605,Classification with Transfer Learning in Keras,4.5,"5,4 mil",Intermediate,Coursera Project Network,Python
+606,Regression with Automatic Differentiation in TensorFlow,4.7,"4,3 mil",Beginner,Coursera Project Network,Python
+607,Image Compression with K-Means Clustering,4.6,"7,8 mil",Beginner,Coursera Project Network,Python
+608,TensorFlow for AI: Neural Network Representation,4.4,None,Intermediate,Coursera Project Network,Python
+609,TensorFlow for AI: Applying Image Convolution,4.6,None,Intermediate,Coursera Project Network,Python
+610,None,None,None,Intermediate,Coursera Project Network,Python
+611,Creating Custom Callbacks in Keras,4.7,"3,2 mil",Intermediate,Coursera Project Network,Python
+612,Simple Recurrent Neural Network with Keras,4.4,"5,5 mil",Intermediate,Coursera Project Network,Python
+613,Avoid Overfitting Using Regularization in TensorFlow,4.8,"4,3 mil",Intermediate,Coursera Project Network,Python
+614,"Save, Load and Export Models with Keras",4.6,"3,7 mil",Intermediate,Coursera Project Network,Python
+615,Create Custom Layers in Keras,4.6,"3,8 mil",Intermediate,Coursera Project Network,Python
+616,Evaluate Machine Learning Models with Yellowbrick,4.8,"2,9 mil",Intermediate,Coursera Project Network,Python
+617,Data Science at Scale - Capstone Project,4.1,"2,3 mil",Mixed,University of Washington,Python
+618,Machine Learning: Algorithms in the Real World,4.6,30 mil,Intermediate,Alberta Machine Intelligence Institute,Python
+619,Key Technologies in Data Analytics,3.7,"1,6 mil",Beginner,LearnQuest,Python
+620,Metodologías ágiles de desarrollo de software Programa de Certificado MasterTrack®,None,None,None,Universidad de los Andes,Python
+621,Data Analytics for Managers MasterTrack® Certificate,None,None,None,Tufts University,Python
+622,Maestría en Ingeniería de Software,None,None,None,Universidad de los Andes,Python
+623,Maestría en Inteligencia Analítica de Datos,None,None,None,Universidad de los Andes,Python
+624,Post Graduate Certificate in Data Science & Machine Learning,None,None,None,IIT Roorkee,Python
+625,Post Graduate Certificate in Advanced Machine Learning & AI,None,None,None,IIT Roorkee,Python
+626,English/French Translator: Long Short Term Memory Networks,4.8,"2,8 mil",Beginner,Coursera Project Network,Python
+627,Master of Science in Data Science,None,None,None,University of Colorado Boulder,Python
+628,Developing Applications with Google Cloud,4.7,590 mil,Intermediate,Google Cloud,Python
+629,Modern Application Development with Node.js on AWS,4.8,83 mil,Beginner,Amazon Web Services,Python
+630,Modern Application Development with Java on AWS,4.8,84 mil,Beginner,Amazon Web Services,Python
+631,Modern Application Development with .NET on AWS,4.8,79 mil,Beginner,Amazon Web Services,Python
+632,Programming in C++: A Hands-on Introduction,4.6,13 mil,Beginner,Codio,Python
+633,AI for Medical Diagnosis,4.7,50 mil,Intermediate,DeepLearning.AI,Python
+634,Digital Signal Processing,4.5,35 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+635,Introduction to Self-Driving Cars,4.7,120 mil,Advanced,University of Toronto,Python
+636,Natural Language Processing with Attention Models,4.3,37 mil,Intermediate,DeepLearning.AI,Python
+637,Getting Started with Go,4.6,46 mil,Intermediate,"University of California, Irvine",Python
+638,Functional Programming Principles in Scala,4.8,200 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+639,"Build, Train, and Deploy ML Pipelines using BERT",4.6,"6,4 mil",Advanced,DeepLearning.AI,Python
+640,Applied Data Science Capstone,4.7,93 mil,Intermediate,IBM,Python
+641,Troubleshooting and Debugging Techniques,4.6,73 mil,Beginner,Google,Python
+642,Introduction to Computer Vision and Image Processing,4.4,28 mil,Beginner,IBM,Python
+643,Supervised Machine Learning: Regression,4.7,"9,8 mil",Intermediate,IBM,Python
+644,Базы данных и SQL в обработке и анализе данных,4.4,"6,5 mil",Beginner,IBM,Python
+645,Computer Vision with Embedded Machine Learning,4.7,4 mil,Intermediate,Edge Impulse,Python
+646,Scalable Machine Learning on Big Data using Apache Spark,3.8,20 mil,Intermediate,IBM,Python
+647,Motion Planning for Self-Driving Cars,4.8,29 mil,Advanced,University of Toronto,Python
+648,Building Modern Node.js Applications on AWS,4.5,"8,5 mil",Intermediate,Amazon Web Services,Python
+649,Cloud Computing Foundations,4.6,"6,2 mil",Beginner,Duke University,Python
+650,Optimize ML Models and Deploy Human-in-the-Loop Pipelines,4.7,"3,5 mil",Advanced,DeepLearning.AI,Python
+651,Contact Center AI: Conversational Design Fundamentals,4.4,"3,4 mil",Beginner,Google Cloud,Python
+652,Juniper Networks Junos Platform Automation and DevOps,3.4,None,Beginner,Juniper Networks,Python
+653,Prediction and Control with Function Approximation,4.8,17 mil,Intermediate,University of Alberta,Python
+654,Supervised Machine Learning: Classification,4.9,"7,8 mil",Intermediate,IBM,Python
+655,Introduction to advanced tomography,4.6,3 mil,Mixed,Technical University of Denmark (DTU),Python
+656,Digital Signal Processing 1: Basic Concepts and Algorithms,4.5,31 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+657,Visualization for Data Journalism,4.5,"6,5 mil",Beginner,University of Illinois at Urbana-Champaign,Python
+658,Computational Methods in Pricing and Model Calibration,None,None,Intermediate,Columbia University,Python
+659,Functional Program Design in Scala,4.5,57 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+660,Mathematics for Machine Learning: PCA,4,65 mil,Intermediate,Imperial College London,Python
+661,Big Data Analysis with Scala and Spark,4.7,92 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+662,Machine Learning Rapid Prototyping with IBM Watson Studio,4,None,Intermediate,IBM,Python
+663,Big Data Analysis Deep Dive,None,None,Intermediate,Alibaba Cloud Academy,Python
+664,Specialized Models: Time Series and Survival Analysis,4.5,"7,2 mil",Intermediate,IBM,Python
+665,Unsupervised Machine Learning,4.8,"7,1 mil",Intermediate,IBM,Python
+666,Virtual Agent Development in Dialogflow CX for Citizen Devs,4.6,None,Intermediate,Google Cloud,Python
+667,Google Cloud Big Data and Machine Learning Fundamentals 日本語版,4.5,"4,5 mil",Intermediate,Google Cloud,Python
+668,Visual Perception for Self-Driving Cars,4.7,32 mil,Advanced,University of Toronto,Python
+669,VLSI CAD Part I: Logic,4.7,38 mil,Intermediate,University of Illinois at Urbana-Champaign,Python
+670,Building Modern Java Applications on AWS,4.6,"8,7 mil",Intermediate,Amazon Web Services,Python
+671,Herramientas para la ciencia de datos,4.5,None,Beginner,IBM,Python
+672,XG-Boost 101: Used Cars Price Prediction,4.7,None,Intermediate,Coursera Project Network,Python
+673,Cleaning and Exploring Big Data using PySpark,4.2,3 mil,Intermediate,Coursera Project Network,Python
+674,Microsoft Azure Machine Learning for Data Scientists,4.6,None,Intermediate,Microsoft,Python
+675,Building Machine Learning Pipelines in PySpark MLlib,4.3,"2,5 mil",Intermediate,Coursera Project Network,Python
+676,Contact Center AI: Operations and Implementation,4.6,None,Intermediate,Google Cloud,Python
+677,"App Deployment, Debugging, and Performance",4.6,20 mil,Intermediate,Google Cloud,Python
+678,VLSI CAD Part II: Layout,4.7,17 mil,Intermediate,University of Illinois at Urbana-Champaign,Python
+679,Application Programming Fundamentals,4.7,None,Beginner,LearnQuest,Python
+680,Building Modern .NET Applications on AWS,5,"1,9 mil",Intermediate,Amazon Web Services,Python
+681,Test-Driven Development,4,"1,7 mil",Intermediate,LearnQuest,Python
+682,Bank Loan Approval Prediction With Artificial Neural Nets,4.6,None,Beginner,Coursera Project Network,Python
+683,Securing and Integrating Components of your Application,4.6,19 mil,Intermediate,Google Cloud,Python
+684,Build and Operate Machine Learning Solutions with Azure,None,None,Intermediate,Microsoft,Python
+685,Exploratory Data Analysis with Seaborn,4.6,"8,8 mil",Intermediate,Coursera Project Network,Python
+686,Predictive Modelling with Azure Machine Learning Studio,4.5,"9,5 mil",Beginner,Coursera Project Network,Python
+687,Engineering Practices for Building Quality Software,4.5,15 mil,Intermediate,University of Minnesota,Python
+688,Matrix Methods,4.1,"8,4 mil",Intermediate,University of Minnesota,Python
+689,Functional Programming Principles in Scala (Scala 2 version),4.8,"1,7 mil",Intermediate,École Polytechnique Fédérale de Lausanne,Python
+690,Analíticas de Datos con Pandas,None,None,Beginner,Tecnológico de Monterrey,Python
+691,Parallel programming (Scala 2 version),None,None,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+692,NLP Modelos y Algoritmos,None,None,Beginner,Universidad Austral,Python
+693,Cloud Machine Learning Engineering and MLOps,4.5,"1,7 mil",Intermediate,Duke University,Python
+694,Introduction to Computational Statistics for Data Scientists,3.2,"2,8 mil",Beginner,Databricks,Python
+695,"Modern Robotics, Course 2: Robot Kinematics",4.9,12 mil,Intermediate,Northwestern University,Python
+696,Moneyball and Beyond,4.8,None,Mixed,University of Michigan,Python
+697,Virtual Agent Development in Dialogflow CX for Software Devs,3.4,None,Intermediate,Google Cloud,Python
+698,Sequence Models for Time Series and Natural Language Processing,4.4,15 mil,Advanced,Google Cloud,Python
+699,Prediction Models with Sports Data,4.4,"1,7 mil",Mixed,University of Michigan,Python
+700,Operational Risk Management: Frameworks & Strategies,3.9,None,Beginner,New York Institute of Finance,Python
+701,Parallel programming,4.4,56 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+702,Breast Cancer Prediction Using Machine Learning,4.3,None,Intermediate,Coursera Project Network,Python
+703,Machine Learning Models in Science,4,None,Intermediate,LearnQuest,Python
+704,Machine Learning: Classification,4.7,110 mil,Mixed,University of Washington,Python
+705,Data Analysis and Visualization,4.5,"4,1 mil",Beginner,University at Buffalo,Python
+706,Deep Learning with PyTorch : Build an AutoEncoder,4,None,Beginner,Coursera Project Network,Python
+707,Predicting the Weather with Artificial Neural Networks,3.9,None,Intermediate,Coursera Project Network,Python
+708,Building Recommendation System Using MXNET on AWS Sagemaker,3,None,Advanced,Coursera Project Network,Python
+709,Image Classification with Amazon Sagemaker,4.6,"4,9 mil",Advanced,Coursera Project Network,Python
+710,Perform data science with Azure Databricks,4.6,None,Intermediate,Microsoft,Python
+711,Prepare for DP-100: Data Science on Microsoft Azure Exam,None,None,Intermediate,Microsoft,Python
+712,Google Cloud Big Data and Machine Learning Fundamentals en Français,4.3,2 mil,Intermediate,Google Cloud,Python
+713,Bitcoin Price Prediction using Facebook Prophet,4.6,None,Beginner,Coursera Project Network,Python
+714,Google Cloud Big Data and Machine Learning Fundamentals en Español,4.7,18 mil,Intermediate,Google Cloud,Python
+715,Use the Apache Spark Structured Streaming API with MongoDB,None,None,Intermediate,Coursera Project Network,Python
+716,AI Workflow: Feature Engineering and Bias Detection,4.4,"2,8 mil",Advanced,IBM,Python
+717,AI Workflow: AI in Production,4.5,"2,6 mil",Advanced,IBM,Python
+718,Virtual Agent Development in Dialogflow ES for Citizen Devs,None,None,Intermediate,Google Cloud,Python
+719,Machine Learning: Clustering & Retrieval,4.7,88 mil,Mixed,University of Washington,Python
+720,Digital Signal Processing 2: Filtering,4.7,11 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+721,Wearable Technologies and Sports Analytics,4.9,None,Intermediate,University of Michigan,Python
+722,Mastering Data Analysis with Pandas: Learning Path Part 2,4.9,None,Beginner,Coursera Project Network,Python
+723,Build a simple API-driven e-commerce application,None,None,Intermediate,Coursera Project Network,Python
+724,Crash Course on Interactive Data Visualization with Plotly,None,None,Beginner,Coursera Project Network,Python
+725,Build Random Forests in R with Azure ML Studio,4.8,"4,7 mil",Beginner,Coursera Project Network,Python
+726,Tracking Objects in Video with Particle Filters,None,None,Advanced,Coursera Project Network,Python
+727,Graduate Admission Prediction with Pyspark ML,4.6,None,Intermediate,Coursera Project Network,Python
+728,Generate Synthetic Images with DCGANs in Keras,4.5,"7,5 mil",Advanced,Coursera Project Network,Python
+729,Image Super Resolution Using Autoencoders in Keras,4.4,"8,5 mil",Advanced,Coursera Project Network,Python
+730,Malaria parasite detection using ensemble learning in Keras,None,None,Intermediate,Coursera Project Network,Python
+731,Custom Prediction Routine on Google AI Platform,4.6,13 mil,Intermediate,Coursera Project Network,Python
+732,Improve Your Java Code Using Amazon CodeGuru,5,None,Intermediate,Amazon Web Services,Python
+733,Logistic Regression 101: US Household Income Classification,None,None,Beginner,Coursera Project Network,Python
+734,Capstone Project: Advanced AI for Drug Discovery,None,None,Intermediate,LearnQuest,Python
+735,Neural Network from Scratch in TensorFlow,4.5,"9,5 mil",Intermediate,Coursera Project Network,Python
+736,Predict Career Longevity for NBA Rookies using Scikit-learn,None,None,Beginner,Coursera Project Network,Python
+737,"Modern Robotics, Course 4: Robot Motion Planning and Control",4.9,"8,6 mil",Intermediate,Northwestern University,Python
+738,"Modern Robotics, Course 3: Robot Dynamics",4.7,"8,5 mil",Intermediate,Northwestern University,Python
+739,"Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots",4.7,"6,4 mil",Intermediate,Northwestern University,Python
+740,Algorithmic Thinking (Part 1),4.7,49 mil,Intermediate,Rice University,Python
+741,Virtual Agent Development in Dialogflow ES for Software Devs,4.4,None,Intermediate,Google Cloud,Python
+742,Test-Driven Development Overview,4.5,None,Intermediate,LearnQuest,Python
+743,Digital Signal Processing 3: Analog vs Digital,4.8,8 mil,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+744,Digital Signal Processing 4: Applications,4.7,"7,3 mil",Intermediate,École Polytechnique Fédérale de Lausanne,Python
+745,Redes neuronales convolucionales con Keras,None,None,Intermediate,Coursera Project Network,Python
+746,Support Vector Machines with scikit-learn,4.3,"7,6 mil",Beginner,Coursera Project Network,Python
+747,Absolute Basics of COBOL,None,None,Beginner,Coursera Project Network,Python
+748,Medical Diagnosis using Support Vector Machines,4.5,2 mil,Intermediate,Coursera Project Network,Python
+749,Visual Machine Learning with Yellowbrick,4.7,"3,6 mil",Intermediate,Coursera Project Network,Python
+750,Creando un modelo de lenguaje natural con Spacy,None,None,Intermediate,Coursera Project Network,Python
+751,Fake Instagram Profile Detector,4.5,None,Beginner,Coursera Project Network,Python
+752,Covid-19 Death Medical Analysis & Visualization using Plotly,None,None,Beginner,Coursera Project Network,Python
+753,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,4.8,2 mil,Intermediate,Google Cloud,Python
+754,Demand Forecasting Using Time Series,3.1,None,Intermediate,LearnQuest,Python
+755,Razonamiento artificial,4.2,"6,7 mil",Intermediate,Universidad Nacional Autónoma de México,Python
+756,Data Visualization using Plotnine and ggplot,None,None,Intermediate,Coursera Project Network,Python
+757,Object Detection with Amazon Sagemaker,4.5,7 mil,Advanced,Coursera Project Network,Python
+758,Introduction to Machine Learning in Sports Analytics,None,None,Intermediate,University of Michigan,Python
+759,Desarrollo de Videojuegos en Unity: Una Introducción,4.4,31 mil,Beginner,Universidad de los Andes,Python
+760,Principles of Computing (Part 1),4.7,31 mil,Intermediate,Rice University,Python
+761,Ciencia de Datos Aplicada - Curso Capstone,4.6,None,Intermediate,IBM,Python
+762,A Practical Introduction to Test-Driven Development,3.8,None,Intermediate,LearnQuest,Python
+763,Machine Learning Pipelines with Azure ML Studio,4.6,26 mil,Beginner,Coursera Project Network,Python
+764,Audio Signal Processing for Music Applications,4.8,48 mil,Intermediate,Universitat Pompeu Fabra of Barcelona,Python
+765,Introduction to Machine Learning: Supervised Learning,None,None,Intermediate,University of Colorado Boulder,Python
+766,모두를 위한 머신 러닝,None,None,Beginner,University of London,Python
+767,Semantic Segmentation with Amazon Sagemaker,4.6,"5,5 mil",Advanced,Coursera Project Network,Python
+768,Visualizing Filters of a CNN using TensorFlow,4.6,"1,6 mil",Intermediate,Coursera Project Network,Python
+769,Introduction to PyMC3 for Bayesian Modeling and Inference,3.5,None,Beginner,Databricks,Python
+770,Machine Learning Algorithms: Supervised Learning Tip to Tail,4.7,14 mil,Mixed,Alberta Machine Intelligence Institute,Python
+771,머신 러닝 기초: 사례 연구 접근 방식,None,None,Mixed,University of Washington,Python
+772,Bayesian Inference with MCMC,3,None,Beginner,Databricks,Python
+773,Algorithmic Thinking (Part 2),4.7,22 mil,Intermediate,Rice University,Python
+774,M2M & IoT Interface Design & Protocols for Embedded Systems,3.7,None,Intermediate,University of Colorado Boulder,Python
+775,Data Visualization using Plotly,None,None,Intermediate,Coursera Project Network,Python
+776,Big Data Analysis with Scala and Spark (Scala 2 version),None,None,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+777,"Modern Robotics, Course 6: Capstone Project, Mobile Manipulation",4.9,"5,2 mil",Intermediate,Northwestern University,Python
+778,Introducción al procesamiento de lenguaje natural,4.5,"1,8 mil",Beginner,Universidad Austral,Python
+779,Principles of Computing (Part 2),4.8,17 mil,Mixed,Rice University,Python
+780,Introduction to C++ Programming: Build a Calculator,4.3,None,Beginner,Coursera Project Network,Python
+781,Optimizing Machine Learning Performance,4.6,"5,5 mil",Mixed,Alberta Machine Intelligence Institute,Python
+782,Arquitecturas de Big Data,None,None,Beginner,Universidad de los Andes,Python
+783,Hyperparameter Tuning with Keras Tuner,4.6,None,Intermediate,Coursera Project Network,Python
+784,Resolución de problemas por búsqueda,4.6,"3,9 mil",Beginner,Universidad Nacional Autónoma de México,Python
+785,Functional Program Design in Scala (Scala 2 version),None,None,Intermediate,École Polytechnique Fédérale de Lausanne,Python
+786,Machine Learning Basics,None,None,Mixed,Sungkyunkwan University,Python
+787,Modelaje y Análisis con información georreferenciada,None,None,Beginner,Universidad de los Andes,Python
+788,"Application Deployment, Debug, Performance 日本語版",4.4,None,Intermediate,Google Cloud,Python
+789,Integrating Test-Driven Development into Your Workflow,3.6,None,Intermediate,LearnQuest,Python
+790,Compare time series predictions of COVID-19 deaths,4.3,None,Intermediate,Coursera Project Network,Python
+791,Introduction to C++ Programming: Create a Tic-Tac-Toe Game,4.2,None,Beginner,Coursera Project Network,Python
+792,Limpieza de datos para el procesamiento de lenguaje natural,4.2,None,Beginner,Universidad Austral,Python
+793,Robotics: Capstone,4.6,None,Mixed,University of Pennsylvania,Python
+794,Configuring your IDE for absolute beginners with AWS Cloud9,None,None,Beginner,Coursera Project Network,Python
+795,Building Candlestick Charts with Tableau,4.3,"3,9 mil",Beginner,Coursera Project Network,Python
+796,Machine Learning with H2O Flow,4.7,"3,9 mil",Intermediate,Coursera Project Network,Python
+797,Securing and Integrating Components of your Application 日本語版,4.4,None,Intermediate,Google Cloud,Python
+798,Data Visualization using Bokeh,None,None,Intermediate,Coursera Project Network,Python
+799,AutoML tools for data science,None,None,Beginner,Coursera Project Network,Python
+800,Introduction to Reproducibility in Cancer Informatics,None,None,Intermediate,Johns Hopkins University,Python
+801,Application using Amazon Rekognition,None,None,Beginner,Coursera Project Network,Python
+802,Deep Learning Inference with Azure ML Studio,4.8,"6,2 mil",Beginner,Coursera Project Network,Python
+803,Creatividad computacional,None,None,Intermediate,Universidad Nacional Autónoma de México,Python
+804,Intro to Programming With C#: Build A Word Guessing Game,None,None,Beginner,Coursera Project Network,Python
+805,Machine Learning Algorithms,None,None,Mixed,Sungkyunkwan University,Python
+806,Choisir la Meilleure Méthode pour Illustrer les Données,None,None,Beginner,Coursera Project Network,Python
+807,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud em Português Brasileiro,4.6,None,Intermediate,Google Cloud,Python
+808,Interactive Statistical Data Visualization 101,None,None,Beginner,Coursera Project Network,Python
+809,"Machine Learning para series temporales con ARIMA, SARIMA...",None,None,Intermediate,Coursera Project Network,Python
+810,Decisões de Marketing Baseada em Dados,None,None,Beginner,Fundação Instituto de Administração,Python
+811,Hyperparameter Tuning with Neural Network Intelligence,4.6,"2,8 mil",Intermediate,Coursera Project Network,Python
+812,Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro,4.7,None,Intermediate,Google Cloud,Python
+813,"App Deployment, Debugging, and Performance en Français",None,None,Intermediate,Google Cloud,Python
+814,Simple Nearest Neighbors Regression and Classification,4.7,None,Intermediate,Coursera Project Network,Python
+815,Serverless Machine Learning with Tensorflow on Google Cloud auf Deutsch,None,None,Intermediate,Google Cloud,Python
+816,Hierarchical Clustering using Euclidean Distance,None,None,Intermediate,Coursera Project Network,Python
+817,Datos no tradicionales en repositorios NoSQL,None,None,Beginner,Universidad de los Andes,Python
+818,Trabalho de conclusão de Ciência de Dados Aplicada,None,None,Intermediate,IBM,Python
+819,Interpretable Machine Learning Applications: Part 4,None,None,Intermediate,Coursera Project Network,Python
+820,Using Tensorflow for Image Style Transfer,None,None,Intermediate,Coursera Project Network,Python
+821,Fast Typer Game using Pygame,None,None,Beginner,Coursera Project Network,Python
+822,Deploying a Pytorch Computer Vision Model API to Heroku,None,None,Intermediate,Coursera Project Network,Python
+823,Perform Feature Analysis with Yellowbrick,4.8,"2,6 mil",Intermediate,Coursera Project Network,Python
+824,Test your Django views and forms using Selenium,None,None,Intermediate,Coursera Project Network,Python
+825,Topic Modeling using PyCaret,None,None,Beginner,Coursera Project Network,Python
+826,Build Space Invaders using Pygame,None,None,Intermediate,Coursera Project Network,Python
+827,Jet Fighters Game using Pygame,None,None,Beginner,Coursera Project Network,Python
+828,Visualization of UK accidents using Plotly Express,None,None,Intermediate,Coursera Project Network,Python
+829,Create digit recognition web app with Streamlit,None,None,Intermediate,Coursera Project Network,Python
+830,Regression Analysis with Yellowbrick,4.6,"3,1 mil",Intermediate,Coursera Project Network,Python
+831,A Geometrical Approach to Genome Analysis: Skew & Z-Curve,None,None,Intermediate,Coursera Project Network,Python
+832,Serverless Machine Learning with Tensorflow on Google Cloud em Português Brasileiro,4.4,None,Intermediate,Google Cloud,Python
+833,Apply advanced testing for your Django web application,None,None,Advanced,Coursera Project Network,Python
+834,Заключительный курс по теме «Прикладная наука о данных»,None,None,Intermediate,IBM,Python
+835,Visualización de datos con Seaborn,None,None,Beginner,Coursera Project Network,Python
+836,Build a Regression Model using PyCaret,None,None,Beginner,Coursera Project Network,Python
+837,How to implement array based stack in C,None,None,Beginner,Coursera Project Network,Python
+838,تعلم C عن طريق عمل Array-based Stack,None,None,Beginner,Coursera Project Network,Python
+839,Introdução a Machine Learning em uma Competição do Kaggle,None,None,Beginner,Coursera Project Network,Python
+840,Curso Completo de Deep Learning,None,None,Intermediate,Coursera Project Network,Python
+841,Advanced Reproducibility in Cancer Informatics,None,None,Advanced,Johns Hopkins University,Python
+842,و تحميل البيانات و إخراجهاPandas شرح أساسيات استخدام,None,None,Beginner,Coursera Project Network,Python
+843,Trabajando con Azure Face API,None,None,Beginner,Coursera Project Network,Python
+844,Ciclo completo del desarrollo de un proyecto de Data Science,None,None,Beginner,Coursera Project Network,Python
+845,Securing and Integrating Components of your Application en Français,None,None,Intermediate,Google Cloud,Python
+846,Analyze Text Data with Yellowbrick,4.4,"4,8 mil",Intermediate,Coursera Project Network,Python
+847,Analizando sentimientos y entidades en textos con Azure,4.8,None,Beginner,Coursera Project Network,Python
+848,Build a Clustering Model using PyCaret,None,None,Beginner,Coursera Project Network,Python
+849,Program Automation of devices using Packet Tracer,None,None,Beginner,Coursera Project Network,Python
+850,تعلم C عن طريق عمل function تقوم برسم شكل شجرة,None,None,Beginner,Coursera Project Network,Python
+851,نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد,None,None,Intermediate,Coursera Project Network,Python
+852,Unsupervised Algorithms in Machine Learning,None,None,Intermediate,University of Colorado Boulder,Python
+853,تمثيل البيانات رسومياً باستخدام بايثون - Data Visualization,None,None,Beginner,Coursera Project Network,Python
+854,Introduction to Deep Learning,None,None,Intermediate,University of Colorado Boulder,Python
+855,"Engajamento, Conversão e o Consumidor",None,None,Beginner,Fundação Instituto de Administração,Python
+856,Explorando lenguaje natural con NLTK,None,None,Beginner,Coursera Project Network,Python
+857,Supervised Text Classification for Marketing Analytics,None,None,Beginner,University of Colorado Boulder,Python
+858,Working with Datasets,None,None,Intermediate,Coursera Project Network,Python
+859,تحليل المجموعات الهرمية باستخدام المسافات الإقليدية,None,None,Intermediate,Coursera Project Network,Python
+860,Installing and configuring PyDev with Eclipse,None,None,Beginner,Coursera Project Network,Python
+861,Programming in Java: A Hands-on Introduction,4.2,3 mil,Beginner,Codio,Python
+862,Developing Applications with Google Cloud en Français,None,None,Intermediate,Google Cloud,Python
+863,تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي,None,None,Beginner,Coursera Project Network,Python
+864,Getting Started with Tensorflow.js,None,None,Intermediate,Coursera Project Network,Python
+865,تحليل البيانات باستخدام بايثون,None,None,Beginner,IBM,Python
+866,파이썬의 응용 소셜 네트워크 분석,None,None,Intermediate,University of Michigan,Python
+867,أساسيات تحليل البيانات باستخدام بايثون وباندا,None,None,Beginner,Coursera Project Network,Python
+868,تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي,None,None,Beginner,Coursera Project Network,Python
+869,مؤثرات عرض البيانات باستخدام لغة بايثون,None,None,Intermediate,IBM,Python
