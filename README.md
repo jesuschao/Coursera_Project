@@ -1,6 +1,6 @@
 # [Coursera-Project] Jesús Chao
 
-## Analysis of courses reated to data science")
+## Analysis of courses related to data science")
 
 ![](https://www.ceu.es/blog/wp-content/uploads/2018/10/Aprendizaje-basado-en-el-pensamiento.jpg)
 
