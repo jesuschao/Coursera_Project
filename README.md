@@ -1,16 +1,16 @@
 # [Coursera-Project]
 
-## Analysis of courses associated to data science area in Coursera")
+## Analysis of courses in Coursera"
 
 ![](https://www.ceu.es/blog/wp-content/uploads/2018/10/Aprendizaje-basado-en-el-pensamiento.jpg)
 
 ### PURPOSE.
 
-The aim of this project is to carry out an analysis of some courses in "Coursera" website that could be very useful for people who want to build a career in data science or data analysis.
+The aim of this project is to carry out the analysis of some courses in "Coursera" website that could be very useful for people who want to build a career in data science or data analysis.
 
 Some bullet points related to the most requested universities, courses even learning level. 
 
-After having assesed some datasets from Kaggle, it was decided that scrapping the website (the method used has been "Selenium") was much better option based on the quantity and quality of data obtained. 
+After having assesed some datasets from Kaggle, it was decided that scrapping Coursera website (the method used has been "Selenium") was much a better option based on the quantity and quality of data obtained. 
 
 All data has been cleaned and evaluated. After that, some interesting insights has been visualized with Power BI programm. 
 
