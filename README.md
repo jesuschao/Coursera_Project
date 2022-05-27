@@ -10,11 +10,12 @@ The aim of this project is to carry out an analysis of some courses in "Coursera
 
 Some questions that may arise could be; 
 
-    - When a student is going to choose a course, does it affect the learning level in their choice?
+1. When a student is going to choose a course, does it affect the learning level in their choice?
 
-    - Is Coursera more focussed on beginners or on advanced learners?
+2. Is Coursera more focussed on beginners or on advanced learners?
     
-    - What weights more on the student´s investment decision; rating's course or number of students?
+3. What weights more on the student´s investment decision; rating's course or number of students?
+
 
 After having assesed some datasets from Kaggle, it was decided that scrapping Coursera website (the method used has been "Selenium") was much a better option. This decision was based on the quantity and quality of the data obtained. 
 
